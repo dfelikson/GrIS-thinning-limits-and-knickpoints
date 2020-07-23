@@ -14,17 +14,17 @@ from matplotlib import pyplot as plt
 netcdf_dir = 'netcdfs'
 flowlines = ['flowline03', 'flowline04', 'flowline05', 'flowline06', 'flowline07', 'flowline08']
 
-basins_mtn = [1.2, 1.3, 2.2, 3.1, 3.2, 3.3, 4.1, 4.3, 5.0, 6.1, 7.2]
-basins_gtl = [1.1, 1.4, 2.1, 4.2, 6.2, 7.1, 8.1, 8.2]
+basins_gtl = [1.2, 1.3, 2.2, 3.1, 3.2, 3.3, 4.1, 4.3, 5.0, 6.1, 7.2]
+basins_mtn = [1.1, 1.4, 2.1, 4.2, 6.2, 7.1, 8.1, 8.2]
 
 # Processing
 basins_2categories = dict()
 diffs = dict()
 
-for ncfile in glob.glob(netcdf_dir + '/glacier000?.nc'):
+for ncfile in glob.glob(netcdf_dir + '/glacier????.nc'):
    print(ncfile)
    ds = Dataset(ncfile, 'r')
-   basin = np.asarray(ds['basin'][:])[()]
+   basin = float('{:3.1f}'.format(np.asarray(ds['basin'][:])[()]))
 
    glacier = ncfile.split('/')[-1].split('.')[0]
    diffs[glacier] = dict()
@@ -32,6 +32,13 @@ for ncfile in glob.glob(netcdf_dir + '/glacier000?.nc'):
    for flowline in flowlines:
       if flowline in ds.groups.keys():
          d = ds[flowline]['d'][:]
+
+         # Get flowline length
+         #parts = flowline.split('_')
+         #if len(parts) == 2: ln = utils.getFlowlineLength(glacier, flowline.replace('flowline',''))
+         #else:               ln = utils.getFlowlineLength(glacier, flowline.replace('flowline',''), iteration)
+         flowline_length = utils.getFlowlineLength(glacier, flowline.replace('flowline',''))
+
          Pe1 = ds[flowline]['Pe']['AERO']['nominal'][:]
          Pe2 = ds[flowline]['Pe']['GIMP']['nominal'][:]
          lastvalid = np.max( ~np.isnan(Pe1) )
@@ -56,7 +63,7 @@ for ncfile in glob.glob(netcdf_dir + '/glacier000?.nc'):
          if len(idx) > 0:
             d_threshold = d[np.min(idx)]
          else:
-            d_threshold = np.nan
+            d_threshold = flowline_length
 
          # Bed = sea level
          bed = ds[flowline]['geometry']['bed']['BedMachine']['nominal']['h_mvavg'][:]
@@ -65,7 +72,7 @@ for ncfile in glob.glob(netcdf_dir + '/glacier000?.nc'):
          if len(idx) > 0:
             d_bed_sealevel = d[valid][np.min(idx)]
          else:
-            d_bed_sealevel = np.nan
+            d_bed_sealevel = flowline_length
 
          # Collect all data
          diffs[glacier][flowline] = (d_threshold-d_bed_sealevel)/1000.
@@ -77,5 +84,5 @@ for ncfile in glob.glob(netcdf_dir + '/glacier000?.nc'):
    elif (np.abs(basin - basins_gtl) < 0.01).any():
       basins_2categories[glacier] = 'gentle'
 
-utils.violin_plot(diffs, basins_2categories, ['gentle', 'mountainous'], 'fig2.pdf') #, highlight=highlight)
+utils.violin_plot(diffs, basins_2categories, ['gentle', 'mountainous'], 'fig2a.pdf') #, highlight=highlight)
 
