@@ -19,44 +19,54 @@ import utils
 
 # Setup
 netcdf_dir = 'netcdfs'
-flowlines = ['flowline03', 'flowline04', 'flowline05', 'flowline06', 'flowline07', 'flowline08']
-basins_gtl = [1.2, 1.3, 2.2, 3.1, 3.2, 3.3, 4.1, 4.3, 5.0, 6.1, 7.2]
-basins_mtn = [1.1, 1.4, 2.1, 4.2, 6.2, 7.1, 8.1, 8.2]
+
+basins_mtn = [1.2, 1.3, 2.2, 3.1, 3.2, 3.3, 4.1, 4.3, 5.0, 6.1, 7.2]
+basins_gtl = [1.1, 1.4, 2.1, 4.2, 6.2, 7.1, 8.1, 8.2]
 
 gwtl_flux_plot_filename = 'fig3a.pdf'
 
 
 # Processing
+glaciers_all = glob.glob(netcdf_dir + '/glacier????.nc')
+
+branches = dict()
+for glacier in glaciers_all:
+   if glacier.split('/')[-1][7].isalpha():
+      branches['0' + glacier.split('/')[-1][8:11]] = [branch for branch in glaciers_all if branch.split('/')[-1][8:11] == glacier.split('/')[-1][8:11]]
+   else:
+      branches['0' + glacier.split('/')[-1][8:11]] = [glacier]
+
 gwtl_list = list()
 flux_list = list()
 basins_list = list()
-for ncfile in glob.glob(netcdf_dir + '/glacier????.nc'):
-   print(ncfile)
+for parent in sorted(branches.keys()):
+   print(parent)
 
    PeX = dict()
    PeY = dict()
    PeD = dict()
 
-   ds = Dataset(ncfile, 'r')
-   basin = float('{:3.1f}'.format(np.asarray(ds['basin'][:])[()]))
-   flux = np.asarray(ds['flux'][:])[()]
+   flux = 0.
 
-   glacier = ncfile.split('/')[-1].split('.')[0]
-   
-   for flowline in flowlines:
-      if flowline in ds.groups.keys():
-         x = ds[flowline]['x'][:]
-         y = ds[flowline]['y'][:]
-         d = ds[flowline]['d'][:]
+   for branch in branches[parent]:
+      ds = Dataset(branch, 'r')
+      basin = float('{:3.1f}'.format(np.asarray(ds['basin'][:])[()]))
+      flux = flux + np.asarray(ds['flux'][:])[()]
 
-         Pe1 = ds[flowline]['Pe']['AERO']['nominal'][:]
-         Pe2 = ds[flowline]['Pe']['GIMP']['nominal'][:]
+      flowline_groups, iteration_list = utils.get_flowline_groups(ds)
+      for flowline_group, iteration in zip(flowline_groups, iteration_list):
+         x = flowline_group['x'][:]
+         y = flowline_group['y'][:]
+         d = flowline_group['d'][:]
+
+         Pe1 = flowline_group['Pe']['AERO']['nominal'][:]
+         Pe2 = flowline_group['Pe']['GIMP']['nominal'][:]
          
          # Find where Pe=3 along this flowline
-         ID = glacier + '_' + flowline.replace('flowline','')
+         ID = 'glacier' + branch.split('/')[-1][7:11] + '_' + flowline_group.name.replace('flowline','') + '_' + iteration
          PeX[ID], PeY[ID], PeD[ID] = utils.get_Pe3(ID, x, y, d, Pe1, Pe2, PeThreshold=3.0)
-   
-   ds.close()
+      
+      ds.close()
 
    # Calculate glacier-wide thinning limit
    statsDict = utils.get_stats(PeX, PeY, PeD)
@@ -71,8 +81,6 @@ gwtl_norm = gwtl_list / np.max(gwtl_list)
 flux_norm = flux_list / np.max(flux_list)
 distance = np.sqrt( gwtl_norm**2 + flux_norm**2 )
 
-basins_gtl = [1.2, 1.3, 2.2, 3.1, 3.2, 3.3, 4.1, 4.3, 5.0, 6.1, 7.2]
-basins_mtn = [1.1, 1.4, 2.1, 4.2, 6.2, 7.1, 8.1, 8.2]
 basins_list = np.array(basins_list)
 terrain_idx = np.array([1 if b in basins_mtn else 2 for b in basins_list])
 

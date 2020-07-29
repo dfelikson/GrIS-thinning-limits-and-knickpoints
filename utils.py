@@ -95,11 +95,10 @@ def get_Pe3(ID, x, y, d, Pe1, Pe2, PeThreshold=3.0): #{{{
          PeD = getFlowlineLength(centerlineID, acrossID)
       if len(parts) == 3:
          centerlineID, acrossID, iterID = parts
-         PeD = getFlowlineLength(centerlineID, acrossID, iterID)
+         PeD = getFlowlineLength(centerlineID, acrossID, iterID=iterID)
       PeX = x[np.argmin( np.abs(d - PeD) )]
       PeY = y[np.argmin( np.abs(d - PeD) )]
-   #lengths = np.max(d)
-
+   
    return PeX, PeY, PeD
    #}}}
 
