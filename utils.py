@@ -23,8 +23,25 @@ import pandas as pd
 import re
 
 
-def moving_average(x, y, window):
-#{{{
+def get_flowline_groups(ds): #{{{
+   flowline_groups = list()
+   iteration_list = list()
+   flowlines = [k for k in ds.groups.keys() if 'flowline' in k]
+   for flowline in flowlines:
+      flowline_groups.append(ds[flowline])
+      iteration_list.append('main')
+   
+   iterations = [k for k in ds.groups.keys() if 'iter' in k]
+   for iteration in iterations:
+      flowlines = [k for k in ds[iteration].groups.keys() if 'flowline' in k]
+      for flowline in flowlines:
+         flowline_groups.append(ds[iteration][flowline])
+         iteration_list.append(iteration)
+   
+   return flowline_groups, iteration_list
+#}}}
+
+def moving_average(x, y, window): #{{{
    ymvavg  = np.array(np.nan * np.ones(y.shape))
    ystddev = np.array(np.nan * np.ones(y.shape))
 
@@ -55,8 +72,7 @@ def moving_average(x, y, window):
    return ymvavg, ystddev
 #}}}
 
-def get_Pe3(ID, x, y, d, Pe1, Pe2, PeThreshold=3.0):
-   #{{{
+def get_Pe3(ID, x, y, d, Pe1, Pe2, PeThreshold=3.0): #{{{
    lastvalid = np.where(~np.isnan(Pe1))[0]
    if len(lastvalid) == 0:
       lastvalid = 0
@@ -87,7 +103,7 @@ def get_Pe3(ID, x, y, d, Pe1, Pe2, PeThreshold=3.0):
    return PeX, PeY, PeD
    #}}}
 
-def get_percentUnitVol89(x, y, d, dh, dhcumpercentThreshold=89.):
+def get_percentUnitVol89(x, y, d, dh, dhcumpercentThreshold=89.): #{{{
    dhavg, dhstddev = moving_average(d, dh, 20)
    dhmax = np.nanmin(dhavg)
    dhpercent = 100.0 * (dhavg/dhmax)
@@ -108,9 +124,9 @@ def get_percentUnitVol89(x, y, d, dh, dhcumpercentThreshold=89.):
       d_threshold = np.nan
 
    return d_threshold
+#}}}
 
-def get_stats(PeX, PeY, PeD):
-   #{{{
+def get_stats(PeX, PeY, PeD): #{{{
    statsDict = dict()
    statsDict['maxDkey'] = max(PeD.items(), key=operator.itemgetter(1))[0]
    statsDict['minDkey'] = min(PeD.items(), key=operator.itemgetter(1))[0]
@@ -148,8 +164,7 @@ def get_stats(PeX, PeY, PeD):
    return statsDict
    #}}}
 
-def violin_plot(diffs, basins, basins_unique, plotfile, plottype='num', cmapNorm='log', IQRlines=None, highlight=None, highlightLegend=False, shading=None):
-#{{{
+def violin_plot(diffs, basins, basins_unique, plotfile, plottype='num', cmapNorm='log', IQRlines=None, highlight=None, highlightLegend=False, shading=None): #{{{
    diffs_all  = [v1 for k0,v0 in diffs.items() for k1,v1 in v0.items()]
    basins_all = basins.values()
    diffs_min = np.min(diffs_all)
@@ -184,7 +199,7 @@ def violin_plot(diffs, basins, basins_unique, plotfile, plottype='num', cmapNorm
       #}}}
 
    if IQRlines:
-   ##{{{
+   #{{{
       q1, q2 = np.percentile(diffs_to_grid,IQRlines)
       ax.plot(ax.get_xlim(), [q1, q1], 'k--')
       ax.plot(ax.get_xlim(), [q2, q2], 'k--')
@@ -192,7 +207,7 @@ def violin_plot(diffs, basins, basins_unique, plotfile, plottype='num', cmapNorm
       more = len(np.where(np.array(diffs_to_grid) > q2)[0])
       sys.stdout.write('   {:3.0f}th %ile: {:+4.1f}\n'.format(IQRlines[0], q1))
       sys.stdout.write('   {:3.0f}th %ile: {:+4.1f}\n'.format(IQRlines[1], q2))
-   ##}}}
+   #}}}
 
    ax.set_ylim( (-200.,900.) )
    if shading:
@@ -219,11 +234,10 @@ def violin_plot(diffs, basins, basins_unique, plotfile, plottype='num', cmapNorm
    plt.close(fig)
 #}}}
 
-def getFlowlineLength(centerlineID, acrossID, iterID=None):
-#{{{
+def getFlowlineLength(centerlineID, acrossID, iterID=None): #{{{
    length = None
 
-   if iterID is None:
+   if iterID is None or iterID == 'main':
       f = open('clean_flowline_lengths.txt', 'r')
       flowlineID = '_'.join( (centerlineID, acrossID) )
    else:
@@ -240,8 +254,7 @@ def getFlowlineLength(centerlineID, acrossID, iterID=None):
    return length
 #}}}
 
-def glacier_wide_thinning_limit(statsDict, calc=None):
-#{{{
+def glacier_wide_thinning_limit(statsDict, calc=None): #{{{
    if calc == 'mean':
       return statsDict['mean']
    elif calc == 'max':
@@ -250,8 +263,7 @@ def glacier_wide_thinning_limit(statsDict, calc=None):
       return statsDict['max_d'] - statsDict['std']
 #}}}
 
-def glacier_wide_thinning_limits_with_errors(errors_dict, PeThreshold, calc=None, remove_outliers=False):
-##{{{
+def glacier_wide_thinning_limits_with_errors(errors_dict, PeThreshold, calc=None, remove_outliers=False): #{{{
    # Error/warning string (append to this then write at the end)
    error_warning_string = ''
 
@@ -348,4 +360,4 @@ def glacier_wide_thinning_limits_with_errors(errors_dict, PeThreshold, calc=None
       gwtl = np.max(PeD.values()) - np.std(PeD.values())
 
    return gwtl, error_warning_string
-##}}}
+#}}}

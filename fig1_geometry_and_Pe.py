@@ -17,17 +17,7 @@ fig, ax = plt.subplots(2, 1, sharex=True)
 for glacier in glaciers:
    ds = Dataset(netcdf_dir + '/' + glacier, 'r')
    
-   flowline_groups = list()
-   flowlines = [k for k in ds.groups.keys() if 'flowline' in k]
-   for flowline in flowlines:
-      flowline_groups.append(ds[flowline])
-   
-   iterations = [k for k in ds.groups.keys() if 'iter' in k]
-   for iteration in iterations:
-      flowlines = [k for k in ds[iteration].groups.keys() if 'flowline' in k]
-      for flowline in flowlines:
-         flowline_groups.append(ds[iteration][flowline])
-   
+   flowline_groups, _ = utils.get_flowline_groups(ds) 
    for flowline_group in flowline_groups:
       x = flowline_group['x'][:]
       y = flowline_group['y'][:]
