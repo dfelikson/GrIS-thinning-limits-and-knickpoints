@@ -1,0 +1,5610 @@
+glacier0001_iter01_01,   533397.7
+glacier0001_iter01_02,   536090.2
+glacier0001_iter01_03,   539770.2
+glacier0001_iter01_04,   548196.6
+glacier0001_iter01_05,   577642.5
+glacier0001_iter01_06,   481156.7
+glacier0001_iter01_07,   485282.8
+glacier0001_iter01_08,   488221.5
+glacier0001_iter01_09,   492166.4
+glacier0001_iter01_10,   494978.3
+glacier0001_iter02_01,   548419.6
+glacier0001_iter02_02,   549092.0
+glacier0001_iter02_03,   552060.1
+glacier0001_iter02_04,   560038.9
+glacier0001_iter02_05,   570486.7
+glacier0001_iter02_06,   576816.8
+glacier0001_iter02_07,   500619.1
+glacier0001_iter02_08,   476298.1
+glacier0001_iter02_09,   476424.8
+glacier0001_iter02_10,   481517.1
+glacier0001_iter03_01,   560277.8
+glacier0001_iter03_02,   561356.5
+glacier0001_iter03_03,   563759.7
+glacier0001_iter03_04,   566675.0
+glacier0001_iter03_05,   569137.9
+glacier0001_iter03_06,   570676.2
+glacier0001_iter03_07,   572520.3
+glacier0001_iter03_08,   574266.9
+glacier0001_iter03_09,   575641.7
+glacier0001_iter03_10,   576065.3
+glacier0002_iter01_01,   540409.1
+glacier0002_iter01_02,   539814.8
+glacier0002_iter01_03,   539659.3
+glacier0002_iter01_04,   539506.0
+glacier0002_iter01_05,   539523.4
+glacier0002_iter01_06,   539345.3
+glacier0002_iter01_07,   539438.1
+glacier0002_iter01_08,   539608.3
+glacier0002_iter01_09,   539552.8
+glacier0002_iter01_10,   539986.9
+glacier0002_iter02_01,not_found
+glacier0002_iter02_02,not_found
+glacier0002_iter02_03,not_found
+glacier0002_iter02_04,not_found
+glacier0002_iter02_05,not_found
+glacier0002_iter02_06,not_found
+glacier0002_iter02_07,not_found
+glacier0002_iter02_08,not_found
+glacier0002_iter02_09,not_found
+glacier0002_iter02_10,not_found
+glacier0002_iter03_01,not_found
+glacier0002_iter03_02,not_found
+glacier0002_iter03_03,not_found
+glacier0002_iter03_04,not_found
+glacier0002_iter03_05,not_found
+glacier0002_iter03_06,not_found
+glacier0002_iter03_07,not_found
+glacier0002_iter03_08,not_found
+glacier0002_iter03_09,not_found
+glacier0002_iter03_10,not_found
+glacier0003_iter01_01,   526520.5
+glacier0003_iter01_02,   526657.2
+glacier0003_iter01_03,   526208.3
+glacier0003_iter01_04,   526241.4
+glacier0003_iter01_05,   526136.4
+glacier0003_iter01_06,   526470.4
+glacier0003_iter01_07,   526585.1
+glacier0003_iter01_08,   526847.8
+glacier0003_iter01_09,   526664.5
+glacier0003_iter01_10,   526169.2
+glacier0003_iter02_01,not_found
+glacier0003_iter02_02,not_found
+glacier0003_iter02_03,not_found
+glacier0003_iter02_04,not_found
+glacier0003_iter02_05,not_found
+glacier0003_iter02_06,not_found
+glacier0003_iter02_07,not_found
+glacier0003_iter02_08,not_found
+glacier0003_iter02_09,not_found
+glacier0003_iter02_10,not_found
+glacier0003_iter03_01,not_found
+glacier0003_iter03_02,not_found
+glacier0003_iter03_03,not_found
+glacier0003_iter03_04,not_found
+glacier0003_iter03_05,not_found
+glacier0003_iter03_06,not_found
+glacier0003_iter03_07,not_found
+glacier0003_iter03_08,not_found
+glacier0003_iter03_09,not_found
+glacier0003_iter03_10,not_found
+glacier0004_iter01_01,   510354.1
+glacier0004_iter01_02,   510352.0
+glacier0004_iter01_03,   510178.5
+glacier0004_iter01_04,   509733.5
+glacier0004_iter01_05,   510084.8
+glacier0004_iter01_06,   513017.7
+glacier0004_iter01_07,   529031.9
+glacier0004_iter01_08,   528485.2
+glacier0004_iter01_09,   529215.9
+glacier0004_iter01_10,   530001.9
+glacier0004_iter02_01,not_found
+glacier0004_iter02_02,not_found
+glacier0004_iter02_03,not_found
+glacier0004_iter02_04,not_found
+glacier0004_iter02_05,not_found
+glacier0004_iter02_06,not_found
+glacier0004_iter02_07,not_found
+glacier0004_iter02_08,not_found
+glacier0004_iter02_09,not_found
+glacier0004_iter02_10,not_found
+glacier0004_iter03_01,not_found
+glacier0004_iter03_02,not_found
+glacier0004_iter03_03,not_found
+glacier0004_iter03_04,not_found
+glacier0004_iter03_05,not_found
+glacier0004_iter03_06,not_found
+glacier0004_iter03_07,not_found
+glacier0004_iter03_08,not_found
+glacier0004_iter03_09,not_found
+glacier0004_iter03_10,not_found
+glacier0005_iter01_01,   494704.1
+glacier0005_iter01_02,   494628.0
+glacier0005_iter01_03,   494273.8
+glacier0005_iter01_04,   494820.7
+glacier0005_iter01_05,   494735.4
+glacier0005_iter01_06,   494724.8
+glacier0005_iter01_07,   494630.9
+glacier0005_iter01_08,   494648.2
+glacier0005_iter01_09,   495139.7
+glacier0005_iter01_10,   495108.9
+glacier0005_iter02_01,not_found
+glacier0005_iter02_02,not_found
+glacier0005_iter02_03,not_found
+glacier0005_iter02_04,not_found
+glacier0005_iter02_05,not_found
+glacier0005_iter02_06,not_found
+glacier0005_iter02_07,not_found
+glacier0005_iter02_08,not_found
+glacier0005_iter02_09,not_found
+glacier0005_iter02_10,not_found
+glacier0005_iter03_01,not_found
+glacier0005_iter03_02,not_found
+glacier0005_iter03_03,not_found
+glacier0005_iter03_04,not_found
+glacier0005_iter03_05,not_found
+glacier0005_iter03_06,not_found
+glacier0005_iter03_07,not_found
+glacier0005_iter03_08,not_found
+glacier0005_iter03_09,not_found
+glacier0005_iter03_10,not_found
+glaciera006_iter01_01,   506011.9
+glaciera006_iter01_02,   505946.2
+glaciera006_iter01_03,   505672.1
+glaciera006_iter01_04,   505538.2
+glaciera006_iter01_05,   505510.2
+glaciera006_iter01_06,   505226.1
+glaciera006_iter01_07,   505048.4
+glaciera006_iter01_08,   504928.6
+glaciera006_iter01_09,   504586.9
+glaciera006_iter01_10,   504386.1
+glaciera006_iter02_01,not_found
+glaciera006_iter02_02,not_found
+glaciera006_iter02_03,not_found
+glaciera006_iter02_04,not_found
+glaciera006_iter02_05,not_found
+glaciera006_iter02_06,not_found
+glaciera006_iter02_07,not_found
+glaciera006_iter02_08,not_found
+glaciera006_iter02_09,not_found
+glaciera006_iter02_10,not_found
+glaciera006_iter03_01,not_found
+glaciera006_iter03_02,not_found
+glaciera006_iter03_03,not_found
+glaciera006_iter03_04,not_found
+glaciera006_iter03_05,not_found
+glaciera006_iter03_06,not_found
+glaciera006_iter03_07,not_found
+glaciera006_iter03_08,not_found
+glaciera006_iter03_09,not_found
+glaciera006_iter03_10,not_found
+glacierb006_iter01_01,   518641.7
+glacierb006_iter01_02,   518702.2
+glacierb006_iter01_03,   518390.7
+glacierb006_iter01_04,   517970.4
+glacierb006_iter01_05,   517624.2
+glacierb006_iter01_06,   517365.8
+glacierb006_iter01_07,   517276.7
+glacierb006_iter01_08,   517099.7
+glacierb006_iter01_09,   516555.9
+glacierb006_iter01_10,   516317.4
+glacierb006_iter02_01,not_found
+glacierb006_iter02_02,not_found
+glacierb006_iter02_03,not_found
+glacierb006_iter02_04,not_found
+glacierb006_iter02_05,not_found
+glacierb006_iter02_06,not_found
+glacierb006_iter02_07,not_found
+glacierb006_iter02_08,not_found
+glacierb006_iter02_09,not_found
+glacierb006_iter02_10,not_found
+glacierb006_iter03_01,not_found
+glacierb006_iter03_02,not_found
+glacierb006_iter03_03,not_found
+glacierb006_iter03_04,not_found
+glacierb006_iter03_05,not_found
+glacierb006_iter03_06,not_found
+glacierb006_iter03_07,not_found
+glacierb006_iter03_08,not_found
+glacierb006_iter03_09,not_found
+glacierb006_iter03_10,not_found
+glacier0007_iter01_01,   514145.2
+glacier0007_iter01_02,   513590.4
+glacier0007_iter01_03,   513759.0
+glacier0007_iter01_04,   511610.0
+glacier0007_iter01_05,   511633.6
+glacier0007_iter01_06,   516553.2
+glacier0007_iter01_07,   517676.5
+glacier0007_iter01_08,   519232.9
+glacier0007_iter01_09,   519441.2
+glacier0007_iter01_10,   519859.6
+glacier0007_iter02_01,not_found
+glacier0007_iter02_02,not_found
+glacier0007_iter02_03,not_found
+glacier0007_iter02_04,not_found
+glacier0007_iter02_05,not_found
+glacier0007_iter02_06,not_found
+glacier0007_iter02_07,not_found
+glacier0007_iter02_08,not_found
+glacier0007_iter02_09,not_found
+glacier0007_iter02_10,not_found
+glacier0007_iter03_01,not_found
+glacier0007_iter03_02,not_found
+glacier0007_iter03_03,not_found
+glacier0007_iter03_04,not_found
+glacier0007_iter03_05,not_found
+glacier0007_iter03_06,not_found
+glacier0007_iter03_07,not_found
+glacier0007_iter03_08,not_found
+glacier0007_iter03_09,not_found
+glacier0007_iter03_10,not_found
+glacier0008_iter01_01,not_found
+glacier0008_iter01_02,not_found
+glacier0008_iter01_03,not_found
+glacier0008_iter01_04,not_found
+glacier0008_iter01_05,not_found
+glacier0008_iter01_06,not_found
+glacier0008_iter01_07,not_found
+glacier0008_iter01_08,not_found
+glacier0008_iter01_09,not_found
+glacier0008_iter01_10,not_found
+glacier0008_iter02_01,not_found
+glacier0008_iter02_02,not_found
+glacier0008_iter02_03,not_found
+glacier0008_iter02_04,not_found
+glacier0008_iter02_05,not_found
+glacier0008_iter02_06,not_found
+glacier0008_iter02_07,not_found
+glacier0008_iter02_08,not_found
+glacier0008_iter02_09,not_found
+glacier0008_iter02_10,not_found
+glacier0008_iter03_01,not_found
+glacier0008_iter03_02,not_found
+glacier0008_iter03_03,not_found
+glacier0008_iter03_04,not_found
+glacier0008_iter03_05,not_found
+glacier0008_iter03_06,not_found
+glacier0008_iter03_07,not_found
+glacier0008_iter03_08,not_found
+glacier0008_iter03_09,not_found
+glacier0008_iter03_10,not_found
+glacier0009_iter01_01,not_found
+glacier0009_iter01_02,not_found
+glacier0009_iter01_03,not_found
+glacier0009_iter01_04,not_found
+glacier0009_iter01_05,not_found
+glacier0009_iter01_06,not_found
+glacier0009_iter01_07,not_found
+glacier0009_iter01_08,not_found
+glacier0009_iter01_09,not_found
+glacier0009_iter01_10,not_found
+glacier0009_iter02_01,not_found
+glacier0009_iter02_02,not_found
+glacier0009_iter02_03,not_found
+glacier0009_iter02_04,not_found
+glacier0009_iter02_05,not_found
+glacier0009_iter02_06,not_found
+glacier0009_iter02_07,not_found
+glacier0009_iter02_08,not_found
+glacier0009_iter02_09,not_found
+glacier0009_iter02_10,not_found
+glacier0009_iter03_01,not_found
+glacier0009_iter03_02,not_found
+glacier0009_iter03_03,not_found
+glacier0009_iter03_04,not_found
+glacier0009_iter03_05,not_found
+glacier0009_iter03_06,not_found
+glacier0009_iter03_07,not_found
+glacier0009_iter03_08,not_found
+glacier0009_iter03_09,not_found
+glacier0009_iter03_10,not_found
+glacier0010_iter01_01,not_found
+glacier0010_iter01_02,not_found
+glacier0010_iter01_03,not_found
+glacier0010_iter01_04,not_found
+glacier0010_iter01_05,not_found
+glacier0010_iter01_06,not_found
+glacier0010_iter01_07,not_found
+glacier0010_iter01_08,not_found
+glacier0010_iter01_09,not_found
+glacier0010_iter01_10,not_found
+glacier0010_iter02_01,not_found
+glacier0010_iter02_02,not_found
+glacier0010_iter02_03,not_found
+glacier0010_iter02_04,not_found
+glacier0010_iter02_05,not_found
+glacier0010_iter02_06,not_found
+glacier0010_iter02_07,not_found
+glacier0010_iter02_08,not_found
+glacier0010_iter02_09,not_found
+glacier0010_iter02_10,not_found
+glacier0010_iter03_01,not_found
+glacier0010_iter03_02,not_found
+glacier0010_iter03_03,not_found
+glacier0010_iter03_04,not_found
+glacier0010_iter03_05,not_found
+glacier0010_iter03_06,not_found
+glacier0010_iter03_07,not_found
+glacier0010_iter03_08,not_found
+glacier0010_iter03_09,not_found
+glacier0010_iter03_10,not_found
+glaciera011_iter01_01,   512816.9
+glaciera011_iter01_02,   512533.9
+glaciera011_iter01_03,   512547.4
+glaciera011_iter01_04,   512542.6
+glaciera011_iter01_05,   512559.5
+glaciera011_iter01_06,   512323.1
+glaciera011_iter01_07,   512359.8
+glaciera011_iter01_08,   512373.7
+glaciera011_iter01_09,   512369.3
+glaciera011_iter01_10,   512364.4
+glaciera011_iter02_01,not_found
+glaciera011_iter02_02,not_found
+glaciera011_iter02_03,not_found
+glaciera011_iter02_04,not_found
+glaciera011_iter02_05,not_found
+glaciera011_iter02_06,not_found
+glaciera011_iter02_07,not_found
+glaciera011_iter02_08,not_found
+glaciera011_iter02_09,not_found
+glaciera011_iter02_10,not_found
+glaciera011_iter03_01,not_found
+glaciera011_iter03_02,not_found
+glaciera011_iter03_03,not_found
+glaciera011_iter03_04,not_found
+glaciera011_iter03_05,not_found
+glaciera011_iter03_06,not_found
+glaciera011_iter03_07,not_found
+glaciera011_iter03_08,not_found
+glaciera011_iter03_09,not_found
+glaciera011_iter03_10,not_found
+glacierb011_iter01_01,   519568.8
+glacierb011_iter01_02,   519203.5
+glacierb011_iter01_03,   519172.9
+glacierb011_iter01_04,   518929.4
+glacierb011_iter01_05,   518677.8
+glacierb011_iter01_06,   517530.0
+glacierb011_iter01_07,   517302.3
+glacierb011_iter01_08,   516959.4
+glacierb011_iter01_09,   516890.5
+glacierb011_iter01_10,   516771.3
+glacierb011_iter02_01,not_found
+glacierb011_iter02_02,not_found
+glacierb011_iter02_03,not_found
+glacierb011_iter02_04,not_found
+glacierb011_iter02_05,not_found
+glacierb011_iter02_06,not_found
+glacierb011_iter02_07,not_found
+glacierb011_iter02_08,not_found
+glacierb011_iter02_09,not_found
+glacierb011_iter02_10,not_found
+glacierb011_iter03_01,not_found
+glacierb011_iter03_02,not_found
+glacierb011_iter03_03,not_found
+glacierb011_iter03_04,not_found
+glacierb011_iter03_05,not_found
+glacierb011_iter03_06,not_found
+glacierb011_iter03_07,not_found
+glacierb011_iter03_08,not_found
+glacierb011_iter03_09,not_found
+glacierb011_iter03_10,not_found
+glacier0012_iter01_01,not_found
+glacier0012_iter01_02,not_found
+glacier0012_iter01_03,not_found
+glacier0012_iter01_04,not_found
+glacier0012_iter01_05,not_found
+glacier0012_iter01_06,not_found
+glacier0012_iter01_07,not_found
+glacier0012_iter01_08,not_found
+glacier0012_iter01_09,not_found
+glacier0012_iter01_10,not_found
+glacier0012_iter02_01,not_found
+glacier0012_iter02_02,not_found
+glacier0012_iter02_03,not_found
+glacier0012_iter02_04,not_found
+glacier0012_iter02_05,not_found
+glacier0012_iter02_06,not_found
+glacier0012_iter02_07,not_found
+glacier0012_iter02_08,not_found
+glacier0012_iter02_09,not_found
+glacier0012_iter02_10,not_found
+glacier0012_iter03_01,not_found
+glacier0012_iter03_02,not_found
+glacier0012_iter03_03,not_found
+glacier0012_iter03_04,not_found
+glacier0012_iter03_05,not_found
+glacier0012_iter03_06,not_found
+glacier0012_iter03_07,not_found
+glacier0012_iter03_08,not_found
+glacier0012_iter03_09,not_found
+glacier0012_iter03_10,not_found
+glacier0013_iter01_01,   523105.0
+glacier0013_iter01_02,   523109.3
+glacier0013_iter01_03,   523386.5
+glacier0013_iter01_04,   523424.8
+glacier0013_iter01_05,   523474.9
+glacier0013_iter01_06,   523858.7
+glacier0013_iter01_07,   523920.9
+glacier0013_iter01_08,   523987.8
+glacier0013_iter01_09,   524070.2
+glacier0013_iter01_10,   524437.3
+glacier0013_iter02_01,not_found
+glacier0013_iter02_02,not_found
+glacier0013_iter02_03,not_found
+glacier0013_iter02_04,not_found
+glacier0013_iter02_05,not_found
+glacier0013_iter02_06,not_found
+glacier0013_iter02_07,not_found
+glacier0013_iter02_08,not_found
+glacier0013_iter02_09,not_found
+glacier0013_iter02_10,not_found
+glacier0013_iter03_01,not_found
+glacier0013_iter03_02,not_found
+glacier0013_iter03_03,not_found
+glacier0013_iter03_04,not_found
+glacier0013_iter03_05,not_found
+glacier0013_iter03_06,not_found
+glacier0013_iter03_07,not_found
+glacier0013_iter03_08,not_found
+glacier0013_iter03_09,not_found
+glacier0013_iter03_10,not_found
+glacier0014_iter01_01,not_found
+glacier0014_iter01_02,not_found
+glacier0014_iter01_03,not_found
+glacier0014_iter01_04,not_found
+glacier0014_iter01_05,not_found
+glacier0014_iter01_06,not_found
+glacier0014_iter01_07,not_found
+glacier0014_iter01_08,not_found
+glacier0014_iter01_09,not_found
+glacier0014_iter01_10,not_found
+glacier0014_iter02_01,not_found
+glacier0014_iter02_02,not_found
+glacier0014_iter02_03,not_found
+glacier0014_iter02_04,not_found
+glacier0014_iter02_05,not_found
+glacier0014_iter02_06,not_found
+glacier0014_iter02_07,not_found
+glacier0014_iter02_08,not_found
+glacier0014_iter02_09,not_found
+glacier0014_iter02_10,not_found
+glacier0014_iter03_01,not_found
+glacier0014_iter03_02,not_found
+glacier0014_iter03_03,not_found
+glacier0014_iter03_04,not_found
+glacier0014_iter03_05,not_found
+glacier0014_iter03_06,not_found
+glacier0014_iter03_07,not_found
+glacier0014_iter03_08,not_found
+glacier0014_iter03_09,not_found
+glacier0014_iter03_10,not_found
+glacier0015_iter01_01,   570703.2
+glacier0015_iter01_02,   570114.6
+glacier0015_iter01_03,   570025.8
+glacier0015_iter01_04,   569829.9
+glacier0015_iter01_05,   569544.5
+glacier0015_iter01_06,   569308.7
+glacier0015_iter01_07,   569223.1
+glacier0015_iter01_08,   569857.2
+glacier0015_iter01_09,   569992.3
+glacier0015_iter01_10,   570701.2
+glacier0015_iter02_01,not_found
+glacier0015_iter02_02,not_found
+glacier0015_iter02_03,not_found
+glacier0015_iter02_04,not_found
+glacier0015_iter02_05,not_found
+glacier0015_iter02_06,not_found
+glacier0015_iter02_07,not_found
+glacier0015_iter02_08,not_found
+glacier0015_iter02_09,not_found
+glacier0015_iter02_10,not_found
+glacier0015_iter03_01,not_found
+glacier0015_iter03_02,not_found
+glacier0015_iter03_03,not_found
+glacier0015_iter03_04,not_found
+glacier0015_iter03_05,not_found
+glacier0015_iter03_06,not_found
+glacier0015_iter03_07,not_found
+glacier0015_iter03_08,not_found
+glacier0015_iter03_09,not_found
+glacier0015_iter03_10,not_found
+glacier0016_iter01_01,   617866.8
+glacier0016_iter01_02,   614764.3
+glacier0016_iter01_03,   610380.8
+glacier0016_iter01_04,   607917.8
+glacier0016_iter01_05,   607341.8
+glacier0016_iter01_06,   606964.4
+glacier0016_iter01_07,   607074.0
+glacier0016_iter01_08,   607266.2
+glacier0016_iter01_09,   605685.9
+glacier0016_iter01_10,   605106.2
+glacier0016_iter02_01,   613658.3
+glacier0016_iter02_02,   612866.8
+glacier0016_iter02_03,   612057.9
+glacier0016_iter02_04,   611606.6
+glacier0016_iter02_05,   610892.6
+glacier0016_iter02_06,   610340.7
+glacier0016_iter02_07,   609828.3
+glacier0016_iter02_08,   609697.8
+glacier0016_iter02_09,   609203.2
+glacier0016_iter02_10,   608798.4
+glacier0016_iter03_01,not_found
+glacier0016_iter03_02,not_found
+glacier0016_iter03_03,not_found
+glacier0016_iter03_04,not_found
+glacier0016_iter03_05,not_found
+glacier0016_iter03_06,not_found
+glacier0016_iter03_07,not_found
+glacier0016_iter03_08,not_found
+glacier0016_iter03_09,not_found
+glacier0016_iter03_10,not_found
+glacier0017_iter01_01,   611890.8
+glacier0017_iter01_02,   611349.6
+glacier0017_iter01_03,   611204.6
+glacier0017_iter01_04,   611096.5
+glacier0017_iter01_05,   610683.8
+glacier0017_iter01_06,   610289.2
+glacier0017_iter01_07,   610247.4
+glacier0017_iter01_08,   610321.2
+glacier0017_iter01_09,1_point
+glacier0017_iter01_10,1_point
+glacier0017_iter02_01,not_found
+glacier0017_iter02_02,not_found
+glacier0017_iter02_03,not_found
+glacier0017_iter02_04,not_found
+glacier0017_iter02_05,not_found
+glacier0017_iter02_06,not_found
+glacier0017_iter02_07,not_found
+glacier0017_iter02_08,not_found
+glacier0017_iter02_09,not_found
+glacier0017_iter02_10,not_found
+glacier0017_iter03_01,not_found
+glacier0017_iter03_02,not_found
+glacier0017_iter03_03,not_found
+glacier0017_iter03_04,not_found
+glacier0017_iter03_05,not_found
+glacier0017_iter03_06,not_found
+glacier0017_iter03_07,not_found
+glacier0017_iter03_08,not_found
+glacier0017_iter03_09,not_found
+glacier0017_iter03_10,not_found
+glacier0018_iter01_01,   638170.3
+glacier0018_iter01_02,   638105.3
+glacier0018_iter01_03,   638353.3
+glacier0018_iter01_04,   638359.1
+glacier0018_iter01_05,   638335.2
+glacier0018_iter01_06,   638334.2
+glacier0018_iter01_07,   638329.9
+glacier0018_iter01_08,   638622.4
+glacier0018_iter01_09,   638911.0
+glacier0018_iter01_10,   638919.4
+glacier0018_iter02_01,not_found
+glacier0018_iter02_02,not_found
+glacier0018_iter02_03,not_found
+glacier0018_iter02_04,not_found
+glacier0018_iter02_05,not_found
+glacier0018_iter02_06,not_found
+glacier0018_iter02_07,not_found
+glacier0018_iter02_08,not_found
+glacier0018_iter02_09,not_found
+glacier0018_iter02_10,not_found
+glacier0018_iter03_01,not_found
+glacier0018_iter03_02,not_found
+glacier0018_iter03_03,not_found
+glacier0018_iter03_04,not_found
+glacier0018_iter03_05,not_found
+glacier0018_iter03_06,not_found
+glacier0018_iter03_07,not_found
+glacier0018_iter03_08,not_found
+glacier0018_iter03_09,not_found
+glacier0018_iter03_10,not_found
+glacier0019_iter01_01,   633294.6
+glacier0019_iter01_02,   633803.8
+glacier0019_iter01_03,   633796.9
+glacier0019_iter01_04,   634335.3
+glacier0019_iter01_05,   634269.4
+glacier0019_iter01_06,   634732.8
+glacier0019_iter01_07,   634827.3
+glacier0019_iter01_08,   635089.8
+glacier0019_iter01_09,   635785.3
+glacier0019_iter01_10,   636478.6
+glacier0019_iter02_01,   635113.2
+glacier0019_iter02_02,   634973.5
+glacier0019_iter02_03,   634884.4
+glacier0019_iter02_04,   635125.5
+glacier0019_iter02_05,   635253.7
+glacier0019_iter02_06,   635121.7
+glacier0019_iter02_07,   635286.6
+glacier0019_iter02_08,   635774.1
+glacier0019_iter02_09,   635714.4
+glacier0019_iter02_10,   635767.2
+glacier0019_iter03_01,   635416.2
+glacier0019_iter03_02,   635428.6
+glacier0019_iter03_03,   635441.2
+glacier0019_iter03_04,   635459.2
+glacier0019_iter03_05,   635483.5
+glacier0019_iter03_06,   635508.8
+glacier0019_iter03_07,   635537.4
+glacier0019_iter03_08,   635569.6
+glacier0019_iter03_09,   635606.2
+glacier0019_iter03_10,   635627.2
+glacier0020_iter01_01,not_found
+glacier0020_iter01_02,not_found
+glacier0020_iter01_03,not_found
+glacier0020_iter01_04,not_found
+glacier0020_iter01_05,not_found
+glacier0020_iter01_06,not_found
+glacier0020_iter01_07,not_found
+glacier0020_iter01_08,not_found
+glacier0020_iter01_09,not_found
+glacier0020_iter01_10,not_found
+glacier0020_iter02_01,not_found
+glacier0020_iter02_02,not_found
+glacier0020_iter02_03,not_found
+glacier0020_iter02_04,not_found
+glacier0020_iter02_05,not_found
+glacier0020_iter02_06,not_found
+glacier0020_iter02_07,not_found
+glacier0020_iter02_08,not_found
+glacier0020_iter02_09,not_found
+glacier0020_iter02_10,not_found
+glacier0020_iter03_01,not_found
+glacier0020_iter03_02,not_found
+glacier0020_iter03_03,not_found
+glacier0020_iter03_04,not_found
+glacier0020_iter03_05,not_found
+glacier0020_iter03_06,not_found
+glacier0020_iter03_07,not_found
+glacier0020_iter03_08,not_found
+glacier0020_iter03_09,not_found
+glacier0020_iter03_10,not_found
+glacier0021_iter01_01,   633694.7
+glacier0021_iter01_02,   633237.2
+glacier0021_iter01_03,   632829.7
+glacier0021_iter01_04,   632424.5
+glacier0021_iter01_05,   631770.9
+glacier0021_iter01_06,   630928.9
+glacier0021_iter01_07,   630766.0
+glacier0021_iter01_08,   630183.3
+glacier0021_iter01_09,   629569.5
+glacier0021_iter01_10,   628684.1
+glacier0021_iter02_01,   630681.2
+glacier0021_iter02_02,   630281.3
+glacier0021_iter02_03,   630124.6
+glacier0021_iter02_04,   630067.4
+glacier0021_iter02_05,   630247.0
+glacier0021_iter02_06,   630083.4
+glacier0021_iter02_07,   629979.7
+glacier0021_iter02_08,   629855.8
+glacier0021_iter02_09,   629749.6
+glacier0021_iter02_10,   629620.8
+glacier0021_iter03_01,   629914.0
+glacier0021_iter03_02,   629878.4
+glacier0021_iter03_03,   629843.9
+glacier0021_iter03_04,   629811.7
+glacier0021_iter03_05,   629782.4
+glacier0021_iter03_06,   629756.8
+glacier0021_iter03_07,   629736.3
+glacier0021_iter03_08,   629717.8
+glacier0021_iter03_09,   629702.5
+glacier0021_iter03_10,   629688.0
+glacier0022_iter01_01,not_found
+glacier0022_iter01_02,not_found
+glacier0022_iter01_03,not_found
+glacier0022_iter01_04,not_found
+glacier0022_iter01_05,not_found
+glacier0022_iter01_06,not_found
+glacier0022_iter01_07,not_found
+glacier0022_iter01_08,not_found
+glacier0022_iter01_09,not_found
+glacier0022_iter01_10,not_found
+glacier0022_iter02_01,not_found
+glacier0022_iter02_02,not_found
+glacier0022_iter02_03,not_found
+glacier0022_iter02_04,not_found
+glacier0022_iter02_05,not_found
+glacier0022_iter02_06,not_found
+glacier0022_iter02_07,not_found
+glacier0022_iter02_08,not_found
+glacier0022_iter02_09,not_found
+glacier0022_iter02_10,not_found
+glacier0022_iter03_01,not_found
+glacier0022_iter03_02,not_found
+glacier0022_iter03_03,not_found
+glacier0022_iter03_04,not_found
+glacier0022_iter03_05,not_found
+glacier0022_iter03_06,not_found
+glacier0022_iter03_07,not_found
+glacier0022_iter03_08,not_found
+glacier0022_iter03_09,not_found
+glacier0022_iter03_10,not_found
+glacier0023_iter01_01,not_found
+glacier0023_iter01_02,not_found
+glacier0023_iter01_03,not_found
+glacier0023_iter01_04,not_found
+glacier0023_iter01_05,not_found
+glacier0023_iter01_06,not_found
+glacier0023_iter01_07,not_found
+glacier0023_iter01_08,not_found
+glacier0023_iter01_09,not_found
+glacier0023_iter01_10,not_found
+glacier0023_iter02_01,not_found
+glacier0023_iter02_02,not_found
+glacier0023_iter02_03,not_found
+glacier0023_iter02_04,not_found
+glacier0023_iter02_05,not_found
+glacier0023_iter02_06,not_found
+glacier0023_iter02_07,not_found
+glacier0023_iter02_08,not_found
+glacier0023_iter02_09,not_found
+glacier0023_iter02_10,not_found
+glacier0023_iter03_01,not_found
+glacier0023_iter03_02,not_found
+glacier0023_iter03_03,not_found
+glacier0023_iter03_04,not_found
+glacier0023_iter03_05,not_found
+glacier0023_iter03_06,not_found
+glacier0023_iter03_07,not_found
+glacier0023_iter03_08,not_found
+glacier0023_iter03_09,not_found
+glacier0023_iter03_10,not_found
+glacier0024_iter01_01,not_found
+glacier0024_iter01_02,not_found
+glacier0024_iter01_03,not_found
+glacier0024_iter01_04,not_found
+glacier0024_iter01_05,not_found
+glacier0024_iter01_06,not_found
+glacier0024_iter01_07,not_found
+glacier0024_iter01_08,not_found
+glacier0024_iter01_09,not_found
+glacier0024_iter01_10,not_found
+glacier0024_iter02_01,not_found
+glacier0024_iter02_02,not_found
+glacier0024_iter02_03,not_found
+glacier0024_iter02_04,not_found
+glacier0024_iter02_05,not_found
+glacier0024_iter02_06,not_found
+glacier0024_iter02_07,not_found
+glacier0024_iter02_08,not_found
+glacier0024_iter02_09,not_found
+glacier0024_iter02_10,not_found
+glacier0024_iter03_01,not_found
+glacier0024_iter03_02,not_found
+glacier0024_iter03_03,not_found
+glacier0024_iter03_04,not_found
+glacier0024_iter03_05,not_found
+glacier0024_iter03_06,not_found
+glacier0024_iter03_07,not_found
+glacier0024_iter03_08,not_found
+glacier0024_iter03_09,not_found
+glacier0024_iter03_10,not_found
+glacier0025_iter01_01,not_found
+glacier0025_iter01_02,not_found
+glacier0025_iter01_03,not_found
+glacier0025_iter01_04,not_found
+glacier0025_iter01_05,not_found
+glacier0025_iter01_06,not_found
+glacier0025_iter01_07,not_found
+glacier0025_iter01_08,not_found
+glacier0025_iter01_09,not_found
+glacier0025_iter01_10,not_found
+glacier0025_iter02_01,not_found
+glacier0025_iter02_02,not_found
+glacier0025_iter02_03,not_found
+glacier0025_iter02_04,not_found
+glacier0025_iter02_05,not_found
+glacier0025_iter02_06,not_found
+glacier0025_iter02_07,not_found
+glacier0025_iter02_08,not_found
+glacier0025_iter02_09,not_found
+glacier0025_iter02_10,not_found
+glacier0025_iter03_01,not_found
+glacier0025_iter03_02,not_found
+glacier0025_iter03_03,not_found
+glacier0025_iter03_04,not_found
+glacier0025_iter03_05,not_found
+glacier0025_iter03_06,not_found
+glacier0025_iter03_07,not_found
+glacier0025_iter03_08,not_found
+glacier0025_iter03_09,not_found
+glacier0025_iter03_10,not_found
+glacier0026_iter01_01,not_found
+glacier0026_iter01_02,not_found
+glacier0026_iter01_03,not_found
+glacier0026_iter01_04,not_found
+glacier0026_iter01_05,not_found
+glacier0026_iter01_06,not_found
+glacier0026_iter01_07,not_found
+glacier0026_iter01_08,not_found
+glacier0026_iter01_09,not_found
+glacier0026_iter01_10,not_found
+glacier0026_iter02_01,not_found
+glacier0026_iter02_02,not_found
+glacier0026_iter02_03,not_found
+glacier0026_iter02_04,not_found
+glacier0026_iter02_05,not_found
+glacier0026_iter02_06,not_found
+glacier0026_iter02_07,not_found
+glacier0026_iter02_08,not_found
+glacier0026_iter02_09,not_found
+glacier0026_iter02_10,not_found
+glacier0026_iter03_01,not_found
+glacier0026_iter03_02,not_found
+glacier0026_iter03_03,not_found
+glacier0026_iter03_04,not_found
+glacier0026_iter03_05,not_found
+glacier0026_iter03_06,not_found
+glacier0026_iter03_07,not_found
+glacier0026_iter03_08,not_found
+glacier0026_iter03_09,not_found
+glacier0026_iter03_10,not_found
+glacier0027_iter01_01,not_found
+glacier0027_iter01_02,not_found
+glacier0027_iter01_03,not_found
+glacier0027_iter01_04,not_found
+glacier0027_iter01_05,not_found
+glacier0027_iter01_06,not_found
+glacier0027_iter01_07,not_found
+glacier0027_iter01_08,not_found
+glacier0027_iter01_09,not_found
+glacier0027_iter01_10,not_found
+glacier0027_iter02_01,not_found
+glacier0027_iter02_02,not_found
+glacier0027_iter02_03,not_found
+glacier0027_iter02_04,not_found
+glacier0027_iter02_05,not_found
+glacier0027_iter02_06,not_found
+glacier0027_iter02_07,not_found
+glacier0027_iter02_08,not_found
+glacier0027_iter02_09,not_found
+glacier0027_iter02_10,not_found
+glacier0027_iter03_01,not_found
+glacier0027_iter03_02,not_found
+glacier0027_iter03_03,not_found
+glacier0027_iter03_04,not_found
+glacier0027_iter03_05,not_found
+glacier0027_iter03_06,not_found
+glacier0027_iter03_07,not_found
+glacier0027_iter03_08,not_found
+glacier0027_iter03_09,not_found
+glacier0027_iter03_10,not_found
+glacier0028_iter01_01,   681081.5
+glacier0028_iter01_02,   681055.6
+glacier0028_iter01_03,   681028.6
+glacier0028_iter01_04,   681002.6
+glacier0028_iter01_05,   680682.8
+glacier0028_iter01_06,   680667.9
+glacier0028_iter01_07,   680644.6
+glacier0028_iter01_08,   680614.0
+glacier0028_iter01_09,   680579.4
+glacier0028_iter01_10,   680541.3
+glacier0028_iter02_01,not_found
+glacier0028_iter02_02,not_found
+glacier0028_iter02_03,not_found
+glacier0028_iter02_04,not_found
+glacier0028_iter02_05,not_found
+glacier0028_iter02_06,not_found
+glacier0028_iter02_07,not_found
+glacier0028_iter02_08,not_found
+glacier0028_iter02_09,not_found
+glacier0028_iter02_10,not_found
+glacier0028_iter03_01,not_found
+glacier0028_iter03_02,not_found
+glacier0028_iter03_03,not_found
+glacier0028_iter03_04,not_found
+glacier0028_iter03_05,not_found
+glacier0028_iter03_06,not_found
+glacier0028_iter03_07,not_found
+glacier0028_iter03_08,not_found
+glacier0028_iter03_09,not_found
+glacier0028_iter03_10,not_found
+glacier0029_iter01_01,   680757.2
+glacier0029_iter01_02,   680620.8
+glacier0029_iter01_03,   680449.2
+glacier0029_iter01_04,   680284.7
+glacier0029_iter01_05,   680405.3
+glacier0029_iter01_06,   680226.9
+glacier0029_iter01_07,   680337.2
+glacier0029_iter01_08,   680495.3
+glacier0029_iter01_09,   680376.3
+glacier0029_iter01_10,   680303.8
+glacier0029_iter02_01,   680247.7
+glacier0029_iter02_02,   680225.0
+glacier0029_iter02_03,   680203.6
+glacier0029_iter02_04,   680182.0
+glacier0029_iter02_05,   680162.0
+glacier0029_iter02_06,   680141.2
+glacier0029_iter02_07,   680117.8
+glacier0029_iter02_08,   680093.1
+glacier0029_iter02_09,   680069.8
+glacier0029_iter02_10,   680049.8
+glacier0029_iter03_01,not_found
+glacier0029_iter03_02,not_found
+glacier0029_iter03_03,not_found
+glacier0029_iter03_04,not_found
+glacier0029_iter03_05,not_found
+glacier0029_iter03_06,not_found
+glacier0029_iter03_07,not_found
+glacier0029_iter03_08,not_found
+glacier0029_iter03_09,not_found
+glacier0029_iter03_10,not_found
+glaciera030_iter01_01,not_found
+glaciera030_iter01_02,not_found
+glaciera030_iter01_03,not_found
+glaciera030_iter01_04,not_found
+glaciera030_iter01_05,not_found
+glaciera030_iter01_06,not_found
+glaciera030_iter01_07,not_found
+glaciera030_iter01_08,not_found
+glaciera030_iter01_09,not_found
+glaciera030_iter01_10,not_found
+glaciera030_iter02_01,not_found
+glaciera030_iter02_02,not_found
+glaciera030_iter02_03,not_found
+glaciera030_iter02_04,not_found
+glaciera030_iter02_05,not_found
+glaciera030_iter02_06,not_found
+glaciera030_iter02_07,not_found
+glaciera030_iter02_08,not_found
+glaciera030_iter02_09,not_found
+glaciera030_iter02_10,not_found
+glaciera030_iter03_01,not_found
+glaciera030_iter03_02,not_found
+glaciera030_iter03_03,not_found
+glaciera030_iter03_04,not_found
+glaciera030_iter03_05,not_found
+glaciera030_iter03_06,not_found
+glaciera030_iter03_07,not_found
+glaciera030_iter03_08,not_found
+glaciera030_iter03_09,not_found
+glaciera030_iter03_10,not_found
+glacierb030_iter01_01,   693316.9
+glacierb030_iter01_02,   693257.7
+glacierb030_iter01_03,   693175.8
+glacierb030_iter01_04,   692518.4
+glacierb030_iter01_05,   692164.3
+glacierb030_iter01_06,   692046.2
+glacierb030_iter01_07,   691883.8
+glacierb030_iter01_08,   691678.4
+glacierb030_iter01_09,   691418.3
+glacierb030_iter01_10,   691185.2
+glacierb030_iter02_01,   692018.6
+glacierb030_iter02_02,   691734.2
+glacierb030_iter02_03,   691702.1
+glacierb030_iter02_04,   691669.1
+glacierb030_iter02_05,   691898.0
+glacierb030_iter02_06,   691865.8
+glacierb030_iter02_07,   691834.3
+glacierb030_iter02_08,   691800.2
+glacierb030_iter02_09,   691763.2
+glacierb030_iter02_10,   691725.6
+glacierb030_iter03_01,not_found
+glacierb030_iter03_02,not_found
+glacierb030_iter03_03,not_found
+glacierb030_iter03_04,not_found
+glacierb030_iter03_05,not_found
+glacierb030_iter03_06,not_found
+glacierb030_iter03_07,not_found
+glacierb030_iter03_08,not_found
+glacierb030_iter03_09,not_found
+glacierb030_iter03_10,not_found
+glaciera031_iter01_01,not_found
+glaciera031_iter01_02,not_found
+glaciera031_iter01_03,not_found
+glaciera031_iter01_04,not_found
+glaciera031_iter01_05,not_found
+glaciera031_iter01_06,not_found
+glaciera031_iter01_07,not_found
+glaciera031_iter01_08,not_found
+glaciera031_iter01_09,not_found
+glaciera031_iter01_10,not_found
+glaciera031_iter02_01,not_found
+glaciera031_iter02_02,not_found
+glaciera031_iter02_03,not_found
+glaciera031_iter02_04,not_found
+glaciera031_iter02_05,not_found
+glaciera031_iter02_06,not_found
+glaciera031_iter02_07,not_found
+glaciera031_iter02_08,not_found
+glaciera031_iter02_09,not_found
+glaciera031_iter02_10,not_found
+glaciera031_iter03_01,not_found
+glaciera031_iter03_02,not_found
+glaciera031_iter03_03,not_found
+glaciera031_iter03_04,not_found
+glaciera031_iter03_05,not_found
+glaciera031_iter03_06,not_found
+glaciera031_iter03_07,not_found
+glaciera031_iter03_08,not_found
+glaciera031_iter03_09,not_found
+glaciera031_iter03_10,not_found
+glacierb031_iter01_01,   697744.8
+glacierb031_iter01_02,   697768.2
+glacierb031_iter01_03,   697548.0
+glacierb031_iter01_04,   697551.7
+glacierb031_iter01_05,   697816.1
+glacierb031_iter01_06,   697808.0
+glacierb031_iter01_07,   697826.9
+glacierb031_iter01_08,   697824.4
+glacierb031_iter01_09,   697851.3
+glacierb031_iter01_10,   697846.8
+glacierb031_iter02_01,not_found
+glacierb031_iter02_02,not_found
+glacierb031_iter02_03,not_found
+glacierb031_iter02_04,not_found
+glacierb031_iter02_05,not_found
+glacierb031_iter02_06,not_found
+glacierb031_iter02_07,not_found
+glacierb031_iter02_08,not_found
+glacierb031_iter02_09,not_found
+glacierb031_iter02_10,not_found
+glacierb031_iter03_01,not_found
+glacierb031_iter03_02,not_found
+glacierb031_iter03_03,not_found
+glacierb031_iter03_04,not_found
+glacierb031_iter03_05,not_found
+glacierb031_iter03_06,not_found
+glacierb031_iter03_07,not_found
+glacierb031_iter03_08,not_found
+glacierb031_iter03_09,not_found
+glacierb031_iter03_10,not_found
+glacierc031_iter01_01,not_found
+glacierc031_iter01_02,not_found
+glacierc031_iter01_03,not_found
+glacierc031_iter01_04,not_found
+glacierc031_iter01_05,not_found
+glacierc031_iter01_06,not_found
+glacierc031_iter01_07,not_found
+glacierc031_iter01_08,not_found
+glacierc031_iter01_09,not_found
+glacierc031_iter01_10,not_found
+glacierc031_iter02_01,not_found
+glacierc031_iter02_02,not_found
+glacierc031_iter02_03,not_found
+glacierc031_iter02_04,not_found
+glacierc031_iter02_05,not_found
+glacierc031_iter02_06,not_found
+glacierc031_iter02_07,not_found
+glacierc031_iter02_08,not_found
+glacierc031_iter02_09,not_found
+glacierc031_iter02_10,not_found
+glacierc031_iter03_01,not_found
+glacierc031_iter03_02,not_found
+glacierc031_iter03_03,not_found
+glacierc031_iter03_04,not_found
+glacierc031_iter03_05,not_found
+glacierc031_iter03_06,not_found
+glacierc031_iter03_07,not_found
+glacierc031_iter03_08,not_found
+glacierc031_iter03_09,not_found
+glacierc031_iter03_10,not_found
+glacier0032_iter01_01,not_found
+glacier0032_iter01_02,not_found
+glacier0032_iter01_03,not_found
+glacier0032_iter01_04,not_found
+glacier0032_iter01_05,not_found
+glacier0032_iter01_06,not_found
+glacier0032_iter01_07,not_found
+glacier0032_iter01_08,not_found
+glacier0032_iter01_09,not_found
+glacier0032_iter01_10,not_found
+glacier0032_iter02_01,not_found
+glacier0032_iter02_02,not_found
+glacier0032_iter02_03,not_found
+glacier0032_iter02_04,not_found
+glacier0032_iter02_05,not_found
+glacier0032_iter02_06,not_found
+glacier0032_iter02_07,not_found
+glacier0032_iter02_08,not_found
+glacier0032_iter02_09,not_found
+glacier0032_iter02_10,not_found
+glacier0032_iter03_01,not_found
+glacier0032_iter03_02,not_found
+glacier0032_iter03_03,not_found
+glacier0032_iter03_04,not_found
+glacier0032_iter03_05,not_found
+glacier0032_iter03_06,not_found
+glacier0032_iter03_07,not_found
+glacier0032_iter03_08,not_found
+glacier0032_iter03_09,not_found
+glacier0032_iter03_10,not_found
+glaciera033_iter01_01,   702441.8
+glaciera033_iter01_02,   702170.5
+glaciera033_iter01_03,   702144.5
+glaciera033_iter01_04,   702224.6
+glaciera033_iter01_05,   702264.9
+glaciera033_iter01_06,   702186.5
+glaciera033_iter01_07,   702360.1
+glaciera033_iter01_08,   702373.6
+glaciera033_iter01_09,   702355.8
+glaciera033_iter01_10,   702347.2
+glaciera033_iter02_01,not_found
+glaciera033_iter02_02,not_found
+glaciera033_iter02_03,not_found
+glaciera033_iter02_04,not_found
+glaciera033_iter02_05,not_found
+glaciera033_iter02_06,not_found
+glaciera033_iter02_07,not_found
+glaciera033_iter02_08,not_found
+glaciera033_iter02_09,not_found
+glaciera033_iter02_10,not_found
+glaciera033_iter03_01,not_found
+glaciera033_iter03_02,not_found
+glaciera033_iter03_03,not_found
+glaciera033_iter03_04,not_found
+glaciera033_iter03_05,not_found
+glaciera033_iter03_06,not_found
+glaciera033_iter03_07,not_found
+glaciera033_iter03_08,not_found
+glaciera033_iter03_09,not_found
+glaciera033_iter03_10,not_found
+glacierb033_iter01_01,   705301.6
+glacierb033_iter01_02,   705152.4
+glacierb033_iter01_03,   705077.6
+glacierb033_iter01_04,   704704.7
+glacierb033_iter01_05,   704327.8
+glacierb033_iter01_06,   704282.7
+glacierb033_iter01_07,   704524.6
+glacierb033_iter01_08,   703635.7
+glacierb033_iter01_09,   703359.6
+glacierb033_iter01_10,   703107.4
+glacierb033_iter02_01,not_found
+glacierb033_iter02_02,not_found
+glacierb033_iter02_03,not_found
+glacierb033_iter02_04,not_found
+glacierb033_iter02_05,not_found
+glacierb033_iter02_06,not_found
+glacierb033_iter02_07,not_found
+glacierb033_iter02_08,not_found
+glacierb033_iter02_09,not_found
+glacierb033_iter02_10,not_found
+glacierb033_iter03_01,not_found
+glacierb033_iter03_02,not_found
+glacierb033_iter03_03,not_found
+glacierb033_iter03_04,not_found
+glacierb033_iter03_05,not_found
+glacierb033_iter03_06,not_found
+glacierb033_iter03_07,not_found
+glacierb033_iter03_08,not_found
+glacierb033_iter03_09,not_found
+glacierb033_iter03_10,not_found
+glacierc033_iter01_01,1_point
+glacierc033_iter01_02,   723371.7
+glacierc033_iter01_03,   723270.2
+glacierc033_iter01_04,   723194.0
+glacierc033_iter01_05,   722935.1
+glacierc033_iter01_06,   722878.7
+glacierc033_iter01_07,   722556.4
+glacierc033_iter01_08,   722609.4
+glacierc033_iter01_09,   722629.2
+glacierc033_iter01_10,   722290.1
+glacierc033_iter02_01,not_found
+glacierc033_iter02_02,not_found
+glacierc033_iter02_03,not_found
+glacierc033_iter02_04,not_found
+glacierc033_iter02_05,not_found
+glacierc033_iter02_06,not_found
+glacierc033_iter02_07,not_found
+glacierc033_iter02_08,not_found
+glacierc033_iter02_09,not_found
+glacierc033_iter02_10,not_found
+glacierc033_iter03_01,not_found
+glacierc033_iter03_02,not_found
+glacierc033_iter03_03,not_found
+glacierc033_iter03_04,not_found
+glacierc033_iter03_05,not_found
+glacierc033_iter03_06,not_found
+glacierc033_iter03_07,not_found
+glacierc033_iter03_08,not_found
+glacierc033_iter03_09,not_found
+glacierc033_iter03_10,not_found
+glaciera034_iter01_01,   718877.4
+glaciera034_iter01_02,   718879.8
+glaciera034_iter01_03,   719205.6
+glaciera034_iter01_04,   719206.9
+glaciera034_iter01_05,   719227.2
+glaciera034_iter01_06,   719288.4
+glaciera034_iter01_07,   719321.8
+glaciera034_iter01_08,   719357.5
+glaciera034_iter01_09,   719403.8
+glaciera034_iter01_10,   719478.8
+glaciera034_iter02_01,not_found
+glaciera034_iter02_02,not_found
+glaciera034_iter02_03,not_found
+glaciera034_iter02_04,not_found
+glaciera034_iter02_05,not_found
+glaciera034_iter02_06,not_found
+glaciera034_iter02_07,not_found
+glaciera034_iter02_08,not_found
+glaciera034_iter02_09,not_found
+glaciera034_iter02_10,not_found
+glaciera034_iter03_01,not_found
+glaciera034_iter03_02,not_found
+glaciera034_iter03_03,not_found
+glaciera034_iter03_04,not_found
+glaciera034_iter03_05,not_found
+glaciera034_iter03_06,not_found
+glaciera034_iter03_07,not_found
+glaciera034_iter03_08,not_found
+glaciera034_iter03_09,not_found
+glaciera034_iter03_10,not_found
+glacierb034_iter01_01,   731685.8
+glacierb034_iter01_02,   731051.6
+glacierb034_iter01_03,   730661.6
+glacierb034_iter01_04,   730231.6
+glacierb034_iter01_05,   729863.8
+glacierb034_iter01_06,   729468.3
+glacierb034_iter01_07,   729058.1
+glacierb034_iter01_08,   728710.4
+glacierb034_iter01_09,   727656.2
+glacierb034_iter01_10,   727167.1
+glacierb034_iter02_01,   729051.4
+glacierb034_iter02_02,   729033.3
+glacierb034_iter02_03,   728745.1
+glacierb034_iter02_04,   728469.6
+glacierb034_iter02_05,   728439.6
+glacierb034_iter02_06,   728409.3
+glacierb034_iter02_07,   728372.7
+glacierb034_iter02_08,   728044.1
+glacierb034_iter02_09,   728009.3
+glacierb034_iter02_10,   727988.0
+glacierb034_iter03_01,not_found
+glacierb034_iter03_02,not_found
+glacierb034_iter03_03,not_found
+glacierb034_iter03_04,not_found
+glacierb034_iter03_05,not_found
+glacierb034_iter03_06,not_found
+glacierb034_iter03_07,not_found
+glacierb034_iter03_08,not_found
+glacierb034_iter03_09,not_found
+glacierb034_iter03_10,not_found
+glacierc034_iter01_01,   731713.8
+glacierc034_iter01_02,   731368.7
+glacierc034_iter01_03,   731000.9
+glacierc034_iter01_04,   730339.8
+glacierc034_iter01_05,   730214.6
+glacierc034_iter01_06,   729825.5
+glacierc034_iter01_07,   729455.5
+glacierc034_iter01_08,   729067.0
+glacierc034_iter01_09,   728370.0
+glacierc034_iter01_10,   727918.8
+glacierc034_iter02_01,   729104.8
+glacierc034_iter02_02,   729077.4
+glacierc034_iter02_03,   729043.4
+glacierc034_iter02_04,   729025.7
+glacierc034_iter02_05,   728757.2
+glacierc034_iter02_06,   728783.9
+glacierc034_iter02_07,   728762.1
+glacierc034_iter02_08,   728748.4
+glacierc034_iter02_09,   728720.2
+glacierc034_iter02_10,   728426.9
+glacierc034_iter03_01,not_found
+glacierc034_iter03_02,not_found
+glacierc034_iter03_03,not_found
+glacierc034_iter03_04,not_found
+glacierc034_iter03_05,not_found
+glacierc034_iter03_06,not_found
+glacierc034_iter03_07,not_found
+glacierc034_iter03_08,not_found
+glacierc034_iter03_09,not_found
+glacierc034_iter03_10,not_found
+glacier0035_iter01_01,not_found
+glacier0035_iter01_02,not_found
+glacier0035_iter01_03,not_found
+glacier0035_iter01_04,not_found
+glacier0035_iter01_05,not_found
+glacier0035_iter01_06,not_found
+glacier0035_iter01_07,not_found
+glacier0035_iter01_08,not_found
+glacier0035_iter01_09,not_found
+glacier0035_iter01_10,not_found
+glacier0035_iter02_01,not_found
+glacier0035_iter02_02,not_found
+glacier0035_iter02_03,not_found
+glacier0035_iter02_04,not_found
+glacier0035_iter02_05,not_found
+glacier0035_iter02_06,not_found
+glacier0035_iter02_07,not_found
+glacier0035_iter02_08,not_found
+glacier0035_iter02_09,not_found
+glacier0035_iter02_10,not_found
+glacier0035_iter03_01,not_found
+glacier0035_iter03_02,not_found
+glacier0035_iter03_03,not_found
+glacier0035_iter03_04,not_found
+glacier0035_iter03_05,not_found
+glacier0035_iter03_06,not_found
+glacier0035_iter03_07,not_found
+glacier0035_iter03_08,not_found
+glacier0035_iter03_09,not_found
+glacier0035_iter03_10,not_found
+glacier0036_iter01_01,   754170.0
+glacier0036_iter01_02,   753369.4
+glacier0036_iter01_03,   752569.5
+glacier0036_iter01_04,   752051.9
+glacier0036_iter01_05,   751060.1
+glacier0036_iter01_06,   750831.8
+glacier0036_iter01_07,   750394.2
+glacier0036_iter01_08,   749653.5
+glacier0036_iter01_09,   749253.9
+glacier0036_iter01_10,   748562.9
+glacier0036_iter02_01,not_found
+glacier0036_iter02_02,not_found
+glacier0036_iter02_03,not_found
+glacier0036_iter02_04,not_found
+glacier0036_iter02_05,not_found
+glacier0036_iter02_06,not_found
+glacier0036_iter02_07,not_found
+glacier0036_iter02_08,not_found
+glacier0036_iter02_09,not_found
+glacier0036_iter02_10,not_found
+glacier0036_iter03_01,not_found
+glacier0036_iter03_02,not_found
+glacier0036_iter03_03,not_found
+glacier0036_iter03_04,not_found
+glacier0036_iter03_05,not_found
+glacier0036_iter03_06,not_found
+glacier0036_iter03_07,not_found
+glacier0036_iter03_08,not_found
+glacier0036_iter03_09,not_found
+glacier0036_iter03_10,not_found
+glacier0037_iter01_01,   775130.7
+glacier0037_iter01_02,   774816.5
+glacier0037_iter01_03,   774833.6
+glacier0037_iter01_04,   774506.2
+glacier0037_iter01_05,   774511.0
+glacier0037_iter01_06,   774190.0
+glacier0037_iter01_07,   774196.1
+glacier0037_iter01_08,   773928.9
+glacier0037_iter01_09,   773925.4
+glacier0037_iter01_10,   773909.4
+glacier0037_iter02_01,not_found
+glacier0037_iter02_02,not_found
+glacier0037_iter02_03,not_found
+glacier0037_iter02_04,not_found
+glacier0037_iter02_05,not_found
+glacier0037_iter02_06,not_found
+glacier0037_iter02_07,not_found
+glacier0037_iter02_08,not_found
+glacier0037_iter02_09,not_found
+glacier0037_iter02_10,not_found
+glacier0037_iter03_01,not_found
+glacier0037_iter03_02,not_found
+glacier0037_iter03_03,not_found
+glacier0037_iter03_04,not_found
+glacier0037_iter03_05,not_found
+glacier0037_iter03_06,not_found
+glacier0037_iter03_07,not_found
+glacier0037_iter03_08,not_found
+glacier0037_iter03_09,not_found
+glacier0037_iter03_10,not_found
+glacier0038_iter01_01,   785243.6
+glacier0038_iter01_02,   785213.1
+glacier0038_iter01_03,   785196.9
+glacier0038_iter01_04,   785180.4
+glacier0038_iter01_05,   785146.3
+glacier0038_iter01_06,   785123.8
+glacier0038_iter01_07,   785112.8
+glacier0038_iter01_08,   785121.5
+glacier0038_iter01_09,   784831.5
+glacier0038_iter01_10,   784820.7
+glacier0038_iter02_01,not_found
+glacier0038_iter02_02,not_found
+glacier0038_iter02_03,not_found
+glacier0038_iter02_04,not_found
+glacier0038_iter02_05,not_found
+glacier0038_iter02_06,not_found
+glacier0038_iter02_07,not_found
+glacier0038_iter02_08,not_found
+glacier0038_iter02_09,not_found
+glacier0038_iter02_10,not_found
+glacier0038_iter03_01,not_found
+glacier0038_iter03_02,not_found
+glacier0038_iter03_03,not_found
+glacier0038_iter03_04,not_found
+glacier0038_iter03_05,not_found
+glacier0038_iter03_06,not_found
+glacier0038_iter03_07,not_found
+glacier0038_iter03_08,not_found
+glacier0038_iter03_09,not_found
+glacier0038_iter03_10,not_found
+glacier0039_iter01_01,   803926.8
+glacier0039_iter01_02,   802857.6
+glacier0039_iter01_03,   801399.8
+glacier0039_iter01_04,   800214.4
+glacier0039_iter01_05,   799162.6
+glacier0039_iter01_06,   797451.8
+glacier0039_iter01_07,   795828.6
+glacier0039_iter01_08,   794641.1
+glacier0039_iter01_09,   793149.9
+glacier0039_iter01_10,   791899.3
+glacier0039_iter02_01,   795425.9
+glacier0039_iter02_02,   795360.6
+glacier0039_iter02_03,   795274.9
+glacier0039_iter02_04,   794924.4
+glacier0039_iter02_05,   794913.3
+glacier0039_iter02_06,   794589.2
+glacier0039_iter02_07,   794567.4
+glacier0039_iter02_08,   794197.3
+glacier0039_iter02_09,   794146.1
+glacier0039_iter02_10,   793766.9
+glacier0039_iter03_01,not_found
+glacier0039_iter03_02,not_found
+glacier0039_iter03_03,not_found
+glacier0039_iter03_04,not_found
+glacier0039_iter03_05,not_found
+glacier0039_iter03_06,not_found
+glacier0039_iter03_07,not_found
+glacier0039_iter03_08,not_found
+glacier0039_iter03_09,not_found
+glacier0039_iter03_10,not_found
+glacier0040_iter01_01,   853369.6
+glacier0040_iter01_02,   851896.0
+glacier0040_iter01_03,   852584.4
+glacier0040_iter01_04,   850456.5
+glacier0040_iter01_05,   850426.0
+glacier0040_iter01_06,   850125.5
+glacier0040_iter01_07,   850137.3
+glacier0040_iter01_08,   848867.9
+glacier0040_iter01_09,   848874.6
+glacier0040_iter01_10,   849141.6
+glacier0040_iter02_01,not_found
+glacier0040_iter02_02,not_found
+glacier0040_iter02_03,not_found
+glacier0040_iter02_04,not_found
+glacier0040_iter02_05,not_found
+glacier0040_iter02_06,not_found
+glacier0040_iter02_07,not_found
+glacier0040_iter02_08,not_found
+glacier0040_iter02_09,not_found
+glacier0040_iter02_10,not_found
+glacier0040_iter03_01,not_found
+glacier0040_iter03_02,not_found
+glacier0040_iter03_03,not_found
+glacier0040_iter03_04,not_found
+glacier0040_iter03_05,not_found
+glacier0040_iter03_06,not_found
+glacier0040_iter03_07,not_found
+glacier0040_iter03_08,not_found
+glacier0040_iter03_09,not_found
+glacier0040_iter03_10,not_found
+glaciera041_iter01_01,   853851.6
+glaciera041_iter01_02,   853898.5
+glaciera041_iter01_03,   853945.6
+glaciera041_iter01_04,   853987.4
+glaciera041_iter01_05,   853994.1
+glaciera041_iter01_06,   853937.0
+glaciera041_iter01_07,   853885.8
+glaciera041_iter01_08,   854079.6
+glaciera041_iter01_09,   853753.6
+glaciera041_iter01_10,   853683.7
+glaciera041_iter02_01,not_found
+glaciera041_iter02_02,not_found
+glaciera041_iter02_03,not_found
+glaciera041_iter02_04,not_found
+glaciera041_iter02_05,not_found
+glaciera041_iter02_06,not_found
+glaciera041_iter02_07,not_found
+glaciera041_iter02_08,not_found
+glaciera041_iter02_09,not_found
+glaciera041_iter02_10,not_found
+glaciera041_iter03_01,not_found
+glaciera041_iter03_02,not_found
+glaciera041_iter03_03,not_found
+glaciera041_iter03_04,not_found
+glaciera041_iter03_05,not_found
+glaciera041_iter03_06,not_found
+glaciera041_iter03_07,not_found
+glaciera041_iter03_08,not_found
+glaciera041_iter03_09,not_found
+glaciera041_iter03_10,not_found
+glacierb041_iter01_01,   856232.9
+glacierb041_iter01_02,   855900.0
+glacierb041_iter01_03,   855830.1
+glacierb041_iter01_04,   855696.4
+glacierb041_iter01_05,   855643.1
+glacierb041_iter01_06,   855466.8
+glacierb041_iter01_07,   854940.5
+glacierb041_iter01_08,   854803.6
+glacierb041_iter01_09,   854304.1
+glacierb041_iter01_10,   854221.2
+glacierb041_iter02_01,   854980.7
+glacierb041_iter02_02,   854927.8
+glacierb041_iter02_03,   854898.7
+glacierb041_iter02_04,   854846.4
+glacierb041_iter02_05,   854808.4
+glacierb041_iter02_06,   854506.9
+glacierb041_iter02_07,   854469.6
+glacierb041_iter02_08,   854417.2
+glacierb041_iter02_09,   854371.0
+glacierb041_iter02_10,   854338.4
+glacierb041_iter03_01,not_found
+glacierb041_iter03_02,not_found
+glacierb041_iter03_03,not_found
+glacierb041_iter03_04,not_found
+glacierb041_iter03_05,not_found
+glacierb041_iter03_06,not_found
+glacierb041_iter03_07,not_found
+glacierb041_iter03_08,not_found
+glacierb041_iter03_09,not_found
+glacierb041_iter03_10,not_found
+glacier0042_iter01_01,   864242.8
+glacier0042_iter01_02,   864208.6
+glacier0042_iter01_03,   864193.4
+glacier0042_iter01_04,   864194.7
+glacier0042_iter01_05,   864173.6
+glacier0042_iter01_06,   864166.8
+glacier0042_iter01_07,   864132.5
+glacier0042_iter01_08,   864434.1
+glacier0042_iter01_09,   864402.8
+glacier0042_iter01_10,   864381.7
+glacier0042_iter02_01,not_found
+glacier0042_iter02_02,not_found
+glacier0042_iter02_03,not_found
+glacier0042_iter02_04,not_found
+glacier0042_iter02_05,not_found
+glacier0042_iter02_06,not_found
+glacier0042_iter02_07,not_found
+glacier0042_iter02_08,not_found
+glacier0042_iter02_09,not_found
+glacier0042_iter02_10,not_found
+glacier0042_iter03_01,not_found
+glacier0042_iter03_02,not_found
+glacier0042_iter03_03,not_found
+glacier0042_iter03_04,not_found
+glacier0042_iter03_05,not_found
+glacier0042_iter03_06,not_found
+glacier0042_iter03_07,not_found
+glacier0042_iter03_08,not_found
+glacier0042_iter03_09,not_found
+glacier0042_iter03_10,not_found
+glacier0043_iter01_01,   869953.7
+glacier0043_iter01_02,   869387.6
+glacier0043_iter01_03,   868528.0
+glacier0043_iter01_04,   867866.0
+glacier0043_iter01_05,   867300.7
+glacier0043_iter01_06,   866455.4
+glacier0043_iter01_07,   865942.0
+glacier0043_iter01_08,   865837.0
+glacier0043_iter01_09,   865663.9
+glacier0043_iter01_10,   865536.6
+glacier0043_iter02_01,   869118.3
+glacier0043_iter02_02,   869113.9
+glacier0043_iter02_03,   868800.2
+glacier0043_iter02_04,   868494.6
+glacier0043_iter02_05,   868509.0
+glacier0043_iter02_06,   868541.6
+glacier0043_iter02_07,   868249.4
+glacier0043_iter02_08,   868222.5
+glacier0043_iter02_09,   868218.0
+glacier0043_iter02_10,   868191.1
+glacier0043_iter03_01,not_found
+glacier0043_iter03_02,not_found
+glacier0043_iter03_03,not_found
+glacier0043_iter03_04,not_found
+glacier0043_iter03_05,not_found
+glacier0043_iter03_06,not_found
+glacier0043_iter03_07,not_found
+glacier0043_iter03_08,not_found
+glacier0043_iter03_09,not_found
+glacier0043_iter03_10,not_found
+glaciera044_iter01_01,   867189.9
+glaciera044_iter01_02,   867145.4
+glaciera044_iter01_03,   867139.1
+glaciera044_iter01_04,   867347.3
+glaciera044_iter01_05,   867066.8
+glaciera044_iter01_06,   867023.2
+glaciera044_iter01_07,   867278.3
+glaciera044_iter01_08,   867287.1
+glaciera044_iter01_09,   867250.1
+glaciera044_iter01_10,   867490.4
+glaciera044_iter02_01,not_found
+glaciera044_iter02_02,not_found
+glaciera044_iter02_03,not_found
+glaciera044_iter02_04,not_found
+glaciera044_iter02_05,not_found
+glaciera044_iter02_06,not_found
+glaciera044_iter02_07,not_found
+glaciera044_iter02_08,not_found
+glaciera044_iter02_09,not_found
+glaciera044_iter02_10,not_found
+glaciera044_iter03_01,not_found
+glaciera044_iter03_02,not_found
+glaciera044_iter03_03,not_found
+glaciera044_iter03_04,not_found
+glaciera044_iter03_05,not_found
+glaciera044_iter03_06,not_found
+glaciera044_iter03_07,not_found
+glaciera044_iter03_08,not_found
+glaciera044_iter03_09,not_found
+glaciera044_iter03_10,not_found
+glacierb044_iter01_01,not_found
+glacierb044_iter01_02,not_found
+glacierb044_iter01_03,not_found
+glacierb044_iter01_04,not_found
+glacierb044_iter01_05,not_found
+glacierb044_iter01_06,not_found
+glacierb044_iter01_07,not_found
+glacierb044_iter01_08,not_found
+glacierb044_iter01_09,not_found
+glacierb044_iter01_10,not_found
+glacierb044_iter02_01,not_found
+glacierb044_iter02_02,not_found
+glacierb044_iter02_03,not_found
+glacierb044_iter02_04,not_found
+glacierb044_iter02_05,not_found
+glacierb044_iter02_06,not_found
+glacierb044_iter02_07,not_found
+glacierb044_iter02_08,not_found
+glacierb044_iter02_09,not_found
+glacierb044_iter02_10,not_found
+glacierb044_iter03_01,not_found
+glacierb044_iter03_02,not_found
+glacierb044_iter03_03,not_found
+glacierb044_iter03_04,not_found
+glacierb044_iter03_05,not_found
+glacierb044_iter03_06,not_found
+glacierb044_iter03_07,not_found
+glacierb044_iter03_08,not_found
+glacierb044_iter03_09,not_found
+glacierb044_iter03_10,not_found
+glacierc044_iter01_01,   869309.6
+glacierc044_iter01_02,   869290.6
+glacierc044_iter01_03,   868900.0
+glacierc044_iter01_04,   868795.5
+glacierc044_iter01_05,   868655.0
+glacierc044_iter01_06,   868520.0
+glacierc044_iter01_07,   868299.7
+glacierc044_iter01_08,   868001.6
+glacierc044_iter01_09,   867620.2
+glacierc044_iter01_10,   867483.7
+glacierc044_iter02_01,not_found
+glacierc044_iter02_02,not_found
+glacierc044_iter02_03,not_found
+glacierc044_iter02_04,not_found
+glacierc044_iter02_05,not_found
+glacierc044_iter02_06,not_found
+glacierc044_iter02_07,not_found
+glacierc044_iter02_08,not_found
+glacierc044_iter02_09,not_found
+glacierc044_iter02_10,not_found
+glacierc044_iter03_01,not_found
+glacierc044_iter03_02,not_found
+glacierc044_iter03_03,not_found
+glacierc044_iter03_04,not_found
+glacierc044_iter03_05,not_found
+glacierc044_iter03_06,not_found
+glacierc044_iter03_07,not_found
+glacierc044_iter03_08,not_found
+glacierc044_iter03_09,not_found
+glacierc044_iter03_10,not_found
+glaciera045_iter01_01,   866099.8
+glaciera045_iter01_02,   865791.6
+glaciera045_iter01_03,   865771.5
+glaciera045_iter01_04,   865801.4
+glaciera045_iter01_05,   865762.7
+glaciera045_iter01_06,   865725.9
+glaciera045_iter01_07,   865403.7
+glaciera045_iter01_08,   865341.1
+glaciera045_iter01_09,   865326.3
+glaciera045_iter01_10,   865544.2
+glaciera045_iter02_01,not_found
+glaciera045_iter02_02,not_found
+glaciera045_iter02_03,not_found
+glaciera045_iter02_04,not_found
+glaciera045_iter02_05,not_found
+glaciera045_iter02_06,not_found
+glaciera045_iter02_07,not_found
+glaciera045_iter02_08,not_found
+glaciera045_iter02_09,not_found
+glaciera045_iter02_10,not_found
+glaciera045_iter03_01,not_found
+glaciera045_iter03_02,not_found
+glaciera045_iter03_03,not_found
+glaciera045_iter03_04,not_found
+glaciera045_iter03_05,not_found
+glaciera045_iter03_06,not_found
+glaciera045_iter03_07,not_found
+glaciera045_iter03_08,not_found
+glaciera045_iter03_09,not_found
+glaciera045_iter03_10,not_found
+glacierb045_iter01_01,   894717.7
+glacierb045_iter01_02,   893517.6
+glacierb045_iter01_03,   892336.1
+glacierb045_iter01_04,   890985.9
+glacierb045_iter01_05,   889608.8
+glacierb045_iter01_06,   887337.4
+glacierb045_iter01_07,   884979.4
+glacierb045_iter01_08,   882693.7
+glacierb045_iter01_09,   881819.2
+glacierb045_iter01_10,   881396.3
+glacierb045_iter02_01,not_found
+glacierb045_iter02_02,not_found
+glacierb045_iter02_03,not_found
+glacierb045_iter02_04,not_found
+glacierb045_iter02_05,not_found
+glacierb045_iter02_06,not_found
+glacierb045_iter02_07,not_found
+glacierb045_iter02_08,not_found
+glacierb045_iter02_09,not_found
+glacierb045_iter02_10,not_found
+glacierb045_iter03_01,not_found
+glacierb045_iter03_02,not_found
+glacierb045_iter03_03,not_found
+glacierb045_iter03_04,not_found
+glacierb045_iter03_05,not_found
+glacierb045_iter03_06,not_found
+glacierb045_iter03_07,not_found
+glacierb045_iter03_08,not_found
+glacierb045_iter03_09,not_found
+glacierb045_iter03_10,not_found
+glacier0046_iter01_01,   926578.1
+glacier0046_iter01_02,   925907.7
+glacier0046_iter01_03,   925927.8
+glacier0046_iter01_04,   925658.7
+glacier0046_iter01_05,   924720.0
+glacier0046_iter01_06,   923827.3
+glacier0046_iter01_07,   923350.4
+glacier0046_iter01_08,   922047.6
+glacier0046_iter01_09,   921196.4
+glacier0046_iter01_10,   920739.8
+glacier0046_iter02_01,   925909.0
+glacier0046_iter02_02,   925905.0
+glacier0046_iter02_03,   925950.7
+glacier0046_iter02_04,   925921.5
+glacier0046_iter02_05,   925608.6
+glacier0046_iter02_06,   925660.6
+glacier0046_iter02_07,   925931.8
+glacier0046_iter02_08,   925643.2
+glacier0046_iter02_09,   925680.3
+glacier0046_iter02_10,   925663.2
+glacier0046_iter03_01,not_found
+glacier0046_iter03_02,not_found
+glacier0046_iter03_03,not_found
+glacier0046_iter03_04,not_found
+glacier0046_iter03_05,not_found
+glacier0046_iter03_06,not_found
+glacier0046_iter03_07,not_found
+glacier0046_iter03_08,not_found
+glacier0046_iter03_09,not_found
+glacier0046_iter03_10,not_found
+glacier0047_iter01_01,   940283.7
+glacier0047_iter01_02,   939451.2
+glacier0047_iter01_03,   939510.4
+glacier0047_iter01_04,   939488.5
+glacier0047_iter01_05,   940072.8
+glacier0047_iter01_06,   939523.5
+glacier0047_iter01_07,   939268.4
+glacier0047_iter01_08,   939918.7
+glacier0047_iter01_09,   939925.0
+glacier0047_iter01_10,   939626.4
+glacier0047_iter02_01,not_found
+glacier0047_iter02_02,not_found
+glacier0047_iter02_03,not_found
+glacier0047_iter02_04,not_found
+glacier0047_iter02_05,not_found
+glacier0047_iter02_06,not_found
+glacier0047_iter02_07,not_found
+glacier0047_iter02_08,not_found
+glacier0047_iter02_09,not_found
+glacier0047_iter02_10,not_found
+glacier0047_iter03_01,not_found
+glacier0047_iter03_02,not_found
+glacier0047_iter03_03,not_found
+glacier0047_iter03_04,not_found
+glacier0047_iter03_05,not_found
+glacier0047_iter03_06,not_found
+glacier0047_iter03_07,not_found
+glacier0047_iter03_08,not_found
+glacier0047_iter03_09,not_found
+glacier0047_iter03_10,not_found
+glacier0048_iter01_01,   941399.0
+glacier0048_iter01_02,   941669.0
+glacier0048_iter01_03,   941629.1
+glacier0048_iter01_04,   941600.6
+glacier0048_iter01_05,   941299.0
+glacier0048_iter01_06,   941247.3
+glacier0048_iter01_07,   941213.3
+glacier0048_iter01_08,   941190.0
+glacier0048_iter01_09,   941461.2
+glacier0048_iter01_10,   941419.1
+glacier0048_iter02_01,not_found
+glacier0048_iter02_02,not_found
+glacier0048_iter02_03,not_found
+glacier0048_iter02_04,not_found
+glacier0048_iter02_05,not_found
+glacier0048_iter02_06,not_found
+glacier0048_iter02_07,not_found
+glacier0048_iter02_08,not_found
+glacier0048_iter02_09,not_found
+glacier0048_iter02_10,not_found
+glacier0048_iter03_01,not_found
+glacier0048_iter03_02,not_found
+glacier0048_iter03_03,not_found
+glacier0048_iter03_04,not_found
+glacier0048_iter03_05,not_found
+glacier0048_iter03_06,not_found
+glacier0048_iter03_07,not_found
+glacier0048_iter03_08,not_found
+glacier0048_iter03_09,not_found
+glacier0048_iter03_10,not_found
+glacier0049_iter01_01,not_found
+glacier0049_iter01_02,not_found
+glacier0049_iter01_03,not_found
+glacier0049_iter01_04,not_found
+glacier0049_iter01_05,not_found
+glacier0049_iter01_06,not_found
+glacier0049_iter01_07,not_found
+glacier0049_iter01_08,not_found
+glacier0049_iter01_09,not_found
+glacier0049_iter01_10,not_found
+glacier0049_iter02_01,not_found
+glacier0049_iter02_02,not_found
+glacier0049_iter02_03,not_found
+glacier0049_iter02_04,not_found
+glacier0049_iter02_05,not_found
+glacier0049_iter02_06,not_found
+glacier0049_iter02_07,not_found
+glacier0049_iter02_08,not_found
+glacier0049_iter02_09,not_found
+glacier0049_iter02_10,not_found
+glacier0049_iter03_01,not_found
+glacier0049_iter03_02,not_found
+glacier0049_iter03_03,not_found
+glacier0049_iter03_04,not_found
+glacier0049_iter03_05,not_found
+glacier0049_iter03_06,not_found
+glacier0049_iter03_07,not_found
+glacier0049_iter03_08,not_found
+glacier0049_iter03_09,not_found
+glacier0049_iter03_10,not_found
+glacier0050_iter01_01,not_found
+glacier0050_iter01_02,not_found
+glacier0050_iter01_03,not_found
+glacier0050_iter01_04,not_found
+glacier0050_iter01_05,not_found
+glacier0050_iter01_06,not_found
+glacier0050_iter01_07,not_found
+glacier0050_iter01_08,not_found
+glacier0050_iter01_09,not_found
+glacier0050_iter01_10,not_found
+glacier0050_iter02_01,not_found
+glacier0050_iter02_02,not_found
+glacier0050_iter02_03,not_found
+glacier0050_iter02_04,not_found
+glacier0050_iter02_05,not_found
+glacier0050_iter02_06,not_found
+glacier0050_iter02_07,not_found
+glacier0050_iter02_08,not_found
+glacier0050_iter02_09,not_found
+glacier0050_iter02_10,not_found
+glacier0050_iter03_01,not_found
+glacier0050_iter03_02,not_found
+glacier0050_iter03_03,not_found
+glacier0050_iter03_04,not_found
+glacier0050_iter03_05,not_found
+glacier0050_iter03_06,not_found
+glacier0050_iter03_07,not_found
+glacier0050_iter03_08,not_found
+glacier0050_iter03_09,not_found
+glacier0050_iter03_10,not_found
+glacier0051_iter01_01,  1040977.5
+glacier0051_iter01_02,  1040988.3
+glacier0051_iter01_03,  1040991.5
+glacier0051_iter01_04,  1040752.7
+glacier0051_iter01_05,  1040837.0
+glacier0051_iter01_06,  1040907.5
+glacier0051_iter01_07,  1040648.4
+glacier0051_iter01_08,  1040726.1
+glacier0051_iter01_09,  1040820.8
+glacier0051_iter01_10,  1040875.5
+glacier0051_iter02_01,not_found
+glacier0051_iter02_02,not_found
+glacier0051_iter02_03,not_found
+glacier0051_iter02_04,not_found
+glacier0051_iter02_05,not_found
+glacier0051_iter02_06,not_found
+glacier0051_iter02_07,not_found
+glacier0051_iter02_08,not_found
+glacier0051_iter02_09,not_found
+glacier0051_iter02_10,not_found
+glacier0051_iter03_01,not_found
+glacier0051_iter03_02,not_found
+glacier0051_iter03_03,not_found
+glacier0051_iter03_04,not_found
+glacier0051_iter03_05,not_found
+glacier0051_iter03_06,not_found
+glacier0051_iter03_07,not_found
+glacier0051_iter03_08,not_found
+glacier0051_iter03_09,not_found
+glacier0051_iter03_10,not_found
+glacier0052_iter01_01,  1046695.4
+glacier0052_iter01_02,  1046469.8
+glacier0052_iter01_03,  1046570.2
+glacier0052_iter01_04,  1046346.3
+glacier0052_iter01_05,  1046408.3
+glacier0052_iter01_06,  1046472.8
+glacier0052_iter01_07,  1046285.1
+glacier0052_iter01_08,  1046375.8
+glacier0052_iter01_09,  1046138.6
+glacier0052_iter01_10,  1045898.8
+glacier0052_iter02_01,not_found
+glacier0052_iter02_02,not_found
+glacier0052_iter02_03,not_found
+glacier0052_iter02_04,not_found
+glacier0052_iter02_05,not_found
+glacier0052_iter02_06,not_found
+glacier0052_iter02_07,not_found
+glacier0052_iter02_08,not_found
+glacier0052_iter02_09,not_found
+glacier0052_iter02_10,not_found
+glacier0052_iter03_01,not_found
+glacier0052_iter03_02,not_found
+glacier0052_iter03_03,not_found
+glacier0052_iter03_04,not_found
+glacier0052_iter03_05,not_found
+glacier0052_iter03_06,not_found
+glacier0052_iter03_07,not_found
+glacier0052_iter03_08,not_found
+glacier0052_iter03_09,not_found
+glacier0052_iter03_10,not_found
+glacier0053_iter01_01,  1066096.8
+glacier0053_iter01_02,  1065981.8
+glacier0053_iter01_03,  1065602.2
+glacier0053_iter01_04,  1065336.3
+glacier0053_iter01_05,  1065352.6
+glacier0053_iter01_06,  1065183.3
+glacier0053_iter01_07,  1065007.2
+glacier0053_iter01_08,  1064769.0
+glacier0053_iter01_09,  1064585.1
+glacier0053_iter01_10,  1064618.7
+glacier0053_iter02_01,not_found
+glacier0053_iter02_02,not_found
+glacier0053_iter02_03,not_found
+glacier0053_iter02_04,not_found
+glacier0053_iter02_05,not_found
+glacier0053_iter02_06,not_found
+glacier0053_iter02_07,not_found
+glacier0053_iter02_08,not_found
+glacier0053_iter02_09,not_found
+glacier0053_iter02_10,not_found
+glacier0053_iter03_01,not_found
+glacier0053_iter03_02,not_found
+glacier0053_iter03_03,not_found
+glacier0053_iter03_04,not_found
+glacier0053_iter03_05,not_found
+glacier0053_iter03_06,not_found
+glacier0053_iter03_07,not_found
+glacier0053_iter03_08,not_found
+glacier0053_iter03_09,not_found
+glacier0053_iter03_10,not_found
+glacier0054_iter01_01,not_found
+glacier0054_iter01_02,not_found
+glacier0054_iter01_03,not_found
+glacier0054_iter01_04,not_found
+glacier0054_iter01_05,not_found
+glacier0054_iter01_06,not_found
+glacier0054_iter01_07,not_found
+glacier0054_iter01_08,not_found
+glacier0054_iter01_09,not_found
+glacier0054_iter01_10,not_found
+glacier0054_iter02_01,not_found
+glacier0054_iter02_02,not_found
+glacier0054_iter02_03,not_found
+glacier0054_iter02_04,not_found
+glacier0054_iter02_05,not_found
+glacier0054_iter02_06,not_found
+glacier0054_iter02_07,not_found
+glacier0054_iter02_08,not_found
+glacier0054_iter02_09,not_found
+glacier0054_iter02_10,not_found
+glacier0054_iter03_01,not_found
+glacier0054_iter03_02,not_found
+glacier0054_iter03_03,not_found
+glacier0054_iter03_04,not_found
+glacier0054_iter03_05,not_found
+glacier0054_iter03_06,not_found
+glacier0054_iter03_07,not_found
+glacier0054_iter03_08,not_found
+glacier0054_iter03_09,not_found
+glacier0054_iter03_10,not_found
+glacier0055_iter01_01,not_found
+glacier0055_iter01_02,not_found
+glacier0055_iter01_03,not_found
+glacier0055_iter01_04,not_found
+glacier0055_iter01_05,not_found
+glacier0055_iter01_06,not_found
+glacier0055_iter01_07,not_found
+glacier0055_iter01_08,not_found
+glacier0055_iter01_09,not_found
+glacier0055_iter01_10,not_found
+glacier0055_iter02_01,not_found
+glacier0055_iter02_02,not_found
+glacier0055_iter02_03,not_found
+glacier0055_iter02_04,not_found
+glacier0055_iter02_05,not_found
+glacier0055_iter02_06,not_found
+glacier0055_iter02_07,not_found
+glacier0055_iter02_08,not_found
+glacier0055_iter02_09,not_found
+glacier0055_iter02_10,not_found
+glacier0055_iter03_01,not_found
+glacier0055_iter03_02,not_found
+glacier0055_iter03_03,not_found
+glacier0055_iter03_04,not_found
+glacier0055_iter03_05,not_found
+glacier0055_iter03_06,not_found
+glacier0055_iter03_07,not_found
+glacier0055_iter03_08,not_found
+glacier0055_iter03_09,not_found
+glacier0055_iter03_10,not_found
+glacier0056_iter01_01,not_found
+glacier0056_iter01_02,not_found
+glacier0056_iter01_03,not_found
+glacier0056_iter01_04,not_found
+glacier0056_iter01_05,not_found
+glacier0056_iter01_06,not_found
+glacier0056_iter01_07,not_found
+glacier0056_iter01_08,not_found
+glacier0056_iter01_09,not_found
+glacier0056_iter01_10,not_found
+glacier0056_iter02_01,not_found
+glacier0056_iter02_02,not_found
+glacier0056_iter02_03,not_found
+glacier0056_iter02_04,not_found
+glacier0056_iter02_05,not_found
+glacier0056_iter02_06,not_found
+glacier0056_iter02_07,not_found
+glacier0056_iter02_08,not_found
+glacier0056_iter02_09,not_found
+glacier0056_iter02_10,not_found
+glacier0056_iter03_01,not_found
+glacier0056_iter03_02,not_found
+glacier0056_iter03_03,not_found
+glacier0056_iter03_04,not_found
+glacier0056_iter03_05,not_found
+glacier0056_iter03_06,not_found
+glacier0056_iter03_07,not_found
+glacier0056_iter03_08,not_found
+glacier0056_iter03_09,not_found
+glacier0056_iter03_10,not_found
+glacier0057_iter01_01,not_found
+glacier0057_iter01_02,not_found
+glacier0057_iter01_03,not_found
+glacier0057_iter01_04,not_found
+glacier0057_iter01_05,not_found
+glacier0057_iter01_06,not_found
+glacier0057_iter01_07,not_found
+glacier0057_iter01_08,not_found
+glacier0057_iter01_09,not_found
+glacier0057_iter01_10,not_found
+glacier0057_iter02_01,not_found
+glacier0057_iter02_02,not_found
+glacier0057_iter02_03,not_found
+glacier0057_iter02_04,not_found
+glacier0057_iter02_05,not_found
+glacier0057_iter02_06,not_found
+glacier0057_iter02_07,not_found
+glacier0057_iter02_08,not_found
+glacier0057_iter02_09,not_found
+glacier0057_iter02_10,not_found
+glacier0057_iter03_01,not_found
+glacier0057_iter03_02,not_found
+glacier0057_iter03_03,not_found
+glacier0057_iter03_04,not_found
+glacier0057_iter03_05,not_found
+glacier0057_iter03_06,not_found
+glacier0057_iter03_07,not_found
+glacier0057_iter03_08,not_found
+glacier0057_iter03_09,not_found
+glacier0057_iter03_10,not_found
+glacier0058_iter01_01,    64348.3
+glacier0058_iter01_02,    64254.4
+glacier0058_iter01_03,    64427.6
+glacier0058_iter01_04,    64239.1
+glacier0058_iter01_05,    64602.7
+glacier0058_iter01_06,    64571.9
+glacier0058_iter01_07,    63842.8
+glacier0058_iter01_08,    64321.6
+glacier0058_iter01_09,    64747.0
+glacier0058_iter01_10,    64570.1
+glacier0058_iter02_01,not_found
+glacier0058_iter02_02,not_found
+glacier0058_iter02_03,not_found
+glacier0058_iter02_04,not_found
+glacier0058_iter02_05,not_found
+glacier0058_iter02_06,not_found
+glacier0058_iter02_07,not_found
+glacier0058_iter02_08,not_found
+glacier0058_iter02_09,not_found
+glacier0058_iter02_10,not_found
+glacier0058_iter03_01,not_found
+glacier0058_iter03_02,not_found
+glacier0058_iter03_03,not_found
+glacier0058_iter03_04,not_found
+glacier0058_iter03_05,not_found
+glacier0058_iter03_06,not_found
+glacier0058_iter03_07,not_found
+glacier0058_iter03_08,not_found
+glacier0058_iter03_09,not_found
+glacier0058_iter03_10,not_found
+glacier0059_iter01_01,not_found
+glacier0059_iter01_02,not_found
+glacier0059_iter01_03,not_found
+glacier0059_iter01_04,not_found
+glacier0059_iter01_05,not_found
+glacier0059_iter01_06,not_found
+glacier0059_iter01_07,not_found
+glacier0059_iter01_08,not_found
+glacier0059_iter01_09,not_found
+glacier0059_iter01_10,not_found
+glacier0059_iter02_01,not_found
+glacier0059_iter02_02,not_found
+glacier0059_iter02_03,not_found
+glacier0059_iter02_04,not_found
+glacier0059_iter02_05,not_found
+glacier0059_iter02_06,not_found
+glacier0059_iter02_07,not_found
+glacier0059_iter02_08,not_found
+glacier0059_iter02_09,not_found
+glacier0059_iter02_10,not_found
+glacier0059_iter03_01,not_found
+glacier0059_iter03_02,not_found
+glacier0059_iter03_03,not_found
+glacier0059_iter03_04,not_found
+glacier0059_iter03_05,not_found
+glacier0059_iter03_06,not_found
+glacier0059_iter03_07,not_found
+glacier0059_iter03_08,not_found
+glacier0059_iter03_09,not_found
+glacier0059_iter03_10,not_found
+glaciera061_iter01_01,  1101351.1
+glaciera061_iter01_02,  1099726.0
+glaciera061_iter01_03,  1099264.4
+glaciera061_iter01_04,  1098634.0
+glaciera061_iter01_05,  1098025.7
+glaciera061_iter01_06,  1097459.9
+glaciera061_iter01_07,  1097061.4
+glaciera061_iter01_08,  1096832.6
+glaciera061_iter01_09,  1096833.8
+glaciera061_iter01_10,  1096595.8
+glaciera061_iter02_01,  1099683.2
+glaciera061_iter02_02,  1099431.7
+glaciera061_iter02_03,  1099480.3
+glaciera061_iter02_04,  1099496.7
+glaciera061_iter02_05,  1099231.2
+glaciera061_iter02_06,  1099090.0
+glaciera061_iter02_07,  1099346.9
+glaciera061_iter02_08,  1099205.1
+glaciera061_iter02_09,  1098992.2
+glaciera061_iter02_10,  1099120.0
+glaciera061_iter03_01,not_found
+glaciera061_iter03_02,not_found
+glaciera061_iter03_03,not_found
+glaciera061_iter03_04,not_found
+glaciera061_iter03_05,not_found
+glaciera061_iter03_06,not_found
+glaciera061_iter03_07,not_found
+glaciera061_iter03_08,not_found
+glaciera061_iter03_09,not_found
+glaciera061_iter03_10,not_found
+glacierb061_iter01_01,  1108478.5
+glacierb061_iter01_02,  1108141.9
+glacierb061_iter01_03,  1108017.2
+glacierb061_iter01_04,  1107793.7
+glacierb061_iter01_05,  1107493.6
+glacierb061_iter01_06,  1107493.2
+glacierb061_iter01_07,  1106796.1
+glacierb061_iter01_08,  1106240.8
+glacierb061_iter01_09,  1105737.0
+glacierb061_iter01_10,  1105604.5
+glacierb061_iter02_01,not_found
+glacierb061_iter02_02,not_found
+glacierb061_iter02_03,not_found
+glacierb061_iter02_04,not_found
+glacierb061_iter02_05,not_found
+glacierb061_iter02_06,not_found
+glacierb061_iter02_07,not_found
+glacierb061_iter02_08,not_found
+glacierb061_iter02_09,not_found
+glacierb061_iter02_10,not_found
+glacierb061_iter03_01,not_found
+glacierb061_iter03_02,not_found
+glacierb061_iter03_03,not_found
+glacierb061_iter03_04,not_found
+glacierb061_iter03_05,not_found
+glacierb061_iter03_06,not_found
+glacierb061_iter03_07,not_found
+glacierb061_iter03_08,not_found
+glacierb061_iter03_09,not_found
+glacierb061_iter03_10,not_found
+glacierc061_iter01_01,    47826.8
+glacierc061_iter01_02,    48490.3
+glacierc061_iter01_03,    49220.6
+glacierc061_iter01_04,    51133.6
+glacierc061_iter01_05,    52718.3
+glacierc061_iter01_06,    53735.7
+glacierc061_iter01_07,    54929.8
+glacierc061_iter01_08,    56018.6
+glacierc061_iter01_09,    57436.4
+glacierc061_iter01_10,    58988.9
+glacierc061_iter02_01,    54932.3
+glacierc061_iter02_02,    55231.5
+glacierc061_iter02_03,    55510.8
+glacierc061_iter02_04,    55493.1
+glacierc061_iter02_05,    55742.5
+glacierc061_iter02_06,    56306.7
+glacierc061_iter02_07,    56575.9
+glacierc061_iter02_08,    56834.3
+glacierc061_iter02_09,    57129.6
+glacierc061_iter02_10,    57430.7
+glacierc061_iter03_01,not_found
+glacierc061_iter03_02,not_found
+glacierc061_iter03_03,not_found
+glacierc061_iter03_04,not_found
+glacierc061_iter03_05,not_found
+glacierc061_iter03_06,not_found
+glacierc061_iter03_07,not_found
+glacierc061_iter03_08,not_found
+glacierc061_iter03_09,not_found
+glacierc061_iter03_10,not_found
+glacier0063_iter01_01,not_found
+glacier0063_iter01_02,not_found
+glacier0063_iter01_03,not_found
+glacier0063_iter01_04,not_found
+glacier0063_iter01_05,not_found
+glacier0063_iter01_06,not_found
+glacier0063_iter01_07,not_found
+glacier0063_iter01_08,not_found
+glacier0063_iter01_09,not_found
+glacier0063_iter01_10,not_found
+glacier0063_iter02_01,not_found
+glacier0063_iter02_02,not_found
+glacier0063_iter02_03,not_found
+glacier0063_iter02_04,not_found
+glacier0063_iter02_05,not_found
+glacier0063_iter02_06,not_found
+glacier0063_iter02_07,not_found
+glacier0063_iter02_08,not_found
+glacier0063_iter02_09,not_found
+glacier0063_iter02_10,not_found
+glacier0063_iter03_01,not_found
+glacier0063_iter03_02,not_found
+glacier0063_iter03_03,not_found
+glacier0063_iter03_04,not_found
+glacier0063_iter03_05,not_found
+glacier0063_iter03_06,not_found
+glacier0063_iter03_07,not_found
+glacier0063_iter03_08,not_found
+glacier0063_iter03_09,not_found
+glacier0063_iter03_10,not_found
+glacier0065_iter01_01,    66132.9
+glacier0065_iter01_02,    68131.9
+glacier0065_iter01_03,    63579.7
+glacier0065_iter01_04,    61542.2
+glacier0065_iter01_05,    59065.8
+glacier0065_iter01_06,    60792.2
+glacier0065_iter01_07,    59846.1
+glacier0065_iter01_08,    60223.8
+glacier0065_iter01_09,    71269.4
+glacier0065_iter01_10,    70609.1
+glacier0065_iter02_01,not_found
+glacier0065_iter02_02,not_found
+glacier0065_iter02_03,not_found
+glacier0065_iter02_04,not_found
+glacier0065_iter02_05,not_found
+glacier0065_iter02_06,not_found
+glacier0065_iter02_07,not_found
+glacier0065_iter02_08,not_found
+glacier0065_iter02_09,not_found
+glacier0065_iter02_10,not_found
+glacier0065_iter03_01,not_found
+glacier0065_iter03_02,not_found
+glacier0065_iter03_03,not_found
+glacier0065_iter03_04,not_found
+glacier0065_iter03_05,not_found
+glacier0065_iter03_06,not_found
+glacier0065_iter03_07,not_found
+glacier0065_iter03_08,not_found
+glacier0065_iter03_09,not_found
+glacier0065_iter03_10,not_found
+glacier0067_iter01_01,not_found
+glacier0067_iter01_02,not_found
+glacier0067_iter01_03,not_found
+glacier0067_iter01_04,not_found
+glacier0067_iter01_05,not_found
+glacier0067_iter01_06,not_found
+glacier0067_iter01_07,not_found
+glacier0067_iter01_08,not_found
+glacier0067_iter01_09,not_found
+glacier0067_iter01_10,not_found
+glacier0067_iter02_01,not_found
+glacier0067_iter02_02,not_found
+glacier0067_iter02_03,not_found
+glacier0067_iter02_04,not_found
+glacier0067_iter02_05,not_found
+glacier0067_iter02_06,not_found
+glacier0067_iter02_07,not_found
+glacier0067_iter02_08,not_found
+glacier0067_iter02_09,not_found
+glacier0067_iter02_10,not_found
+glacier0067_iter03_01,not_found
+glacier0067_iter03_02,not_found
+glacier0067_iter03_03,not_found
+glacier0067_iter03_04,not_found
+glacier0067_iter03_05,not_found
+glacier0067_iter03_06,not_found
+glacier0067_iter03_07,not_found
+glacier0067_iter03_08,not_found
+glacier0067_iter03_09,not_found
+glacier0067_iter03_10,not_found
+glacier0070_iter01_01,    35495.9
+glacier0070_iter01_02,    36929.6
+glacier0070_iter01_03,    37488.6
+glacier0070_iter01_04,    37897.0
+glacier0070_iter01_05,    38731.0
+glacier0070_iter01_06,    39285.5
+glacier0070_iter01_07,    39836.3
+glacier0070_iter01_08,    40001.2
+glacier0070_iter01_09,    47350.4
+glacier0070_iter01_10,    40613.6
+glacier0070_iter02_01,not_found
+glacier0070_iter02_02,not_found
+glacier0070_iter02_03,not_found
+glacier0070_iter02_04,not_found
+glacier0070_iter02_05,not_found
+glacier0070_iter02_06,not_found
+glacier0070_iter02_07,not_found
+glacier0070_iter02_08,not_found
+glacier0070_iter02_09,not_found
+glacier0070_iter02_10,not_found
+glacier0070_iter03_01,not_found
+glacier0070_iter03_02,not_found
+glacier0070_iter03_03,not_found
+glacier0070_iter03_04,not_found
+glacier0070_iter03_05,not_found
+glacier0070_iter03_06,not_found
+glacier0070_iter03_07,not_found
+glacier0070_iter03_08,not_found
+glacier0070_iter03_09,not_found
+glacier0070_iter03_10,not_found
+glacier0071_iter01_01,    56436.4
+glacier0071_iter01_02,    56127.4
+glacier0071_iter01_03,    55631.0
+glacier0071_iter01_04,    55689.7
+glacier0071_iter01_05,    56167.6
+glacier0071_iter01_06,    55359.2
+glacier0071_iter01_07,    55123.7
+glacier0071_iter01_08,    53852.2
+glacier0071_iter01_09,    53602.6
+glacier0071_iter01_10,    41068.7
+glacier0071_iter02_01,not_found
+glacier0071_iter02_02,not_found
+glacier0071_iter02_03,not_found
+glacier0071_iter02_04,not_found
+glacier0071_iter02_05,not_found
+glacier0071_iter02_06,not_found
+glacier0071_iter02_07,not_found
+glacier0071_iter02_08,not_found
+glacier0071_iter02_09,not_found
+glacier0071_iter02_10,not_found
+glacier0071_iter03_01,not_found
+glacier0071_iter03_02,not_found
+glacier0071_iter03_03,not_found
+glacier0071_iter03_04,not_found
+glacier0071_iter03_05,not_found
+glacier0071_iter03_06,not_found
+glacier0071_iter03_07,not_found
+glacier0071_iter03_08,not_found
+glacier0071_iter03_09,not_found
+glacier0071_iter03_10,not_found
+glacier0072_iter01_01,    25573.1
+glacier0072_iter01_02,    25204.2
+glacier0072_iter01_03,    24164.7
+glacier0072_iter01_04,    23941.1
+glacier0072_iter01_05,    23513.3
+glacier0072_iter01_06,    23109.1
+glacier0072_iter01_07,    22567.8
+glacier0072_iter01_08,    22195.1
+glacier0072_iter01_09,    22167.4
+glacier0072_iter01_10,    22097.5
+glacier0072_iter02_01,not_found
+glacier0072_iter02_02,not_found
+glacier0072_iter02_03,not_found
+glacier0072_iter02_04,not_found
+glacier0072_iter02_05,not_found
+glacier0072_iter02_06,not_found
+glacier0072_iter02_07,not_found
+glacier0072_iter02_08,not_found
+glacier0072_iter02_09,not_found
+glacier0072_iter02_10,not_found
+glacier0072_iter03_01,not_found
+glacier0072_iter03_02,not_found
+glacier0072_iter03_03,not_found
+glacier0072_iter03_04,not_found
+glacier0072_iter03_05,not_found
+glacier0072_iter03_06,not_found
+glacier0072_iter03_07,not_found
+glacier0072_iter03_08,not_found
+glacier0072_iter03_09,not_found
+glacier0072_iter03_10,not_found
+glacier0073_iter01_01,    30244.4
+glacier0073_iter01_02,    31360.4
+glacier0073_iter01_03,    32223.2
+glacier0073_iter01_04,    30579.6
+glacier0073_iter01_05,    29569.7
+glacier0073_iter01_06,    29143.1
+glacier0073_iter01_07,    29179.0
+glacier0073_iter01_08,    32865.8
+glacier0073_iter01_09,    37362.2
+glacier0073_iter01_10,    38812.2
+glacier0073_iter02_01,not_found
+glacier0073_iter02_02,not_found
+glacier0073_iter02_03,not_found
+glacier0073_iter02_04,not_found
+glacier0073_iter02_05,not_found
+glacier0073_iter02_06,not_found
+glacier0073_iter02_07,not_found
+glacier0073_iter02_08,not_found
+glacier0073_iter02_09,not_found
+glacier0073_iter02_10,not_found
+glacier0073_iter03_01,not_found
+glacier0073_iter03_02,not_found
+glacier0073_iter03_03,not_found
+glacier0073_iter03_04,not_found
+glacier0073_iter03_05,not_found
+glacier0073_iter03_06,not_found
+glacier0073_iter03_07,not_found
+glacier0073_iter03_08,not_found
+glacier0073_iter03_09,not_found
+glacier0073_iter03_10,not_found
+glaciera074_iter01_01,    32665.0
+glaciera074_iter01_02,    32527.4
+glaciera074_iter01_03,    32085.0
+glaciera074_iter01_04,    31732.0
+glaciera074_iter01_05,    31693.1
+glaciera074_iter01_06,    31260.7
+glaciera074_iter01_07,    30469.5
+glaciera074_iter01_08,    30202.5
+glaciera074_iter01_09,    30207.6
+glaciera074_iter01_10,    29896.8
+glaciera074_iter02_01,not_found
+glaciera074_iter02_02,not_found
+glaciera074_iter02_03,not_found
+glaciera074_iter02_04,not_found
+glaciera074_iter02_05,not_found
+glaciera074_iter02_06,not_found
+glaciera074_iter02_07,not_found
+glaciera074_iter02_08,not_found
+glaciera074_iter02_09,not_found
+glaciera074_iter02_10,not_found
+glaciera074_iter03_01,not_found
+glaciera074_iter03_02,not_found
+glaciera074_iter03_03,not_found
+glaciera074_iter03_04,not_found
+glaciera074_iter03_05,not_found
+glaciera074_iter03_06,not_found
+glaciera074_iter03_07,not_found
+glaciera074_iter03_08,not_found
+glaciera074_iter03_09,not_found
+glaciera074_iter03_10,not_found
+glacierb074_iter01_01,not_found
+glacierb074_iter01_02,not_found
+glacierb074_iter01_03,not_found
+glacierb074_iter01_04,not_found
+glacierb074_iter01_05,not_found
+glacierb074_iter01_06,not_found
+glacierb074_iter01_07,not_found
+glacierb074_iter01_08,not_found
+glacierb074_iter01_09,not_found
+glacierb074_iter01_10,not_found
+glacierb074_iter02_01,not_found
+glacierb074_iter02_02,not_found
+glacierb074_iter02_03,not_found
+glacierb074_iter02_04,not_found
+glacierb074_iter02_05,not_found
+glacierb074_iter02_06,not_found
+glacierb074_iter02_07,not_found
+glacierb074_iter02_08,not_found
+glacierb074_iter02_09,not_found
+glacierb074_iter02_10,not_found
+glacierb074_iter03_01,not_found
+glacierb074_iter03_02,not_found
+glacierb074_iter03_03,not_found
+glacierb074_iter03_04,not_found
+glacierb074_iter03_05,not_found
+glacierb074_iter03_06,not_found
+glacierb074_iter03_07,not_found
+glacierb074_iter03_08,not_found
+glacierb074_iter03_09,not_found
+glacierb074_iter03_10,not_found
+glacierc074_iter01_01,    28906.0
+glacierc074_iter01_02,    24944.8
+glacierc074_iter01_03,    24820.8
+glacierc074_iter01_04,    25476.8
+glacierc074_iter01_05,    25534.2
+glacierc074_iter01_06,    26197.5
+glacierc074_iter01_07,    26538.1
+glacierc074_iter01_08,    27431.3
+glacierc074_iter01_09,    27863.4
+glacierc074_iter01_10,    27821.2
+glacierc074_iter02_01,not_found
+glacierc074_iter02_02,not_found
+glacierc074_iter02_03,not_found
+glacierc074_iter02_04,not_found
+glacierc074_iter02_05,not_found
+glacierc074_iter02_06,not_found
+glacierc074_iter02_07,not_found
+glacierc074_iter02_08,not_found
+glacierc074_iter02_09,not_found
+glacierc074_iter02_10,not_found
+glacierc074_iter03_01,not_found
+glacierc074_iter03_02,not_found
+glacierc074_iter03_03,not_found
+glacierc074_iter03_04,not_found
+glacierc074_iter03_05,not_found
+glacierc074_iter03_06,not_found
+glacierc074_iter03_07,not_found
+glacierc074_iter03_08,not_found
+glacierc074_iter03_09,not_found
+glacierc074_iter03_10,not_found
+glacier0076_iter01_01,not_found
+glacier0076_iter01_02,not_found
+glacier0076_iter01_03,not_found
+glacier0076_iter01_04,not_found
+glacier0076_iter01_05,not_found
+glacier0076_iter01_06,not_found
+glacier0076_iter01_07,not_found
+glacier0076_iter01_08,not_found
+glacier0076_iter01_09,not_found
+glacier0076_iter01_10,not_found
+glacier0076_iter02_01,not_found
+glacier0076_iter02_02,not_found
+glacier0076_iter02_03,not_found
+glacier0076_iter02_04,not_found
+glacier0076_iter02_05,not_found
+glacier0076_iter02_06,not_found
+glacier0076_iter02_07,not_found
+glacier0076_iter02_08,not_found
+glacier0076_iter02_09,not_found
+glacier0076_iter02_10,not_found
+glacier0076_iter03_01,not_found
+glacier0076_iter03_02,not_found
+glacier0076_iter03_03,not_found
+glacier0076_iter03_04,not_found
+glacier0076_iter03_05,not_found
+glacier0076_iter03_06,not_found
+glacier0076_iter03_07,not_found
+glacier0076_iter03_08,not_found
+glacier0076_iter03_09,not_found
+glacier0076_iter03_10,not_found
+glacier0077_iter01_01,not_found
+glacier0077_iter01_02,not_found
+glacier0077_iter01_03,not_found
+glacier0077_iter01_04,not_found
+glacier0077_iter01_05,not_found
+glacier0077_iter01_06,not_found
+glacier0077_iter01_07,not_found
+glacier0077_iter01_08,not_found
+glacier0077_iter01_09,not_found
+glacier0077_iter01_10,not_found
+glacier0077_iter02_01,not_found
+glacier0077_iter02_02,not_found
+glacier0077_iter02_03,not_found
+glacier0077_iter02_04,not_found
+glacier0077_iter02_05,not_found
+glacier0077_iter02_06,not_found
+glacier0077_iter02_07,not_found
+glacier0077_iter02_08,not_found
+glacier0077_iter02_09,not_found
+glacier0077_iter02_10,not_found
+glacier0077_iter03_01,not_found
+glacier0077_iter03_02,not_found
+glacier0077_iter03_03,not_found
+glacier0077_iter03_04,not_found
+glacier0077_iter03_05,not_found
+glacier0077_iter03_06,not_found
+glacier0077_iter03_07,not_found
+glacier0077_iter03_08,not_found
+glacier0077_iter03_09,not_found
+glacier0077_iter03_10,not_found
+glacier0083_iter01_01,  1095636.1
+glacier0083_iter01_02,  1095345.5
+glacier0083_iter01_03,  1095109.9
+glacier0083_iter01_04,  1095187.8
+glacier0083_iter01_05,  1094953.9
+glacier0083_iter01_06,  1094711.5
+glacier0083_iter01_07,  1094978.0
+glacier0083_iter01_08,  1095149.8
+glacier0083_iter01_09,  1095015.3
+glacier0083_iter01_10,  1094795.8
+glacier0083_iter02_01,not_found
+glacier0083_iter02_02,not_found
+glacier0083_iter02_03,not_found
+glacier0083_iter02_04,not_found
+glacier0083_iter02_05,not_found
+glacier0083_iter02_06,not_found
+glacier0083_iter02_07,not_found
+glacier0083_iter02_08,not_found
+glacier0083_iter02_09,not_found
+glacier0083_iter02_10,not_found
+glacier0083_iter03_01,not_found
+glacier0083_iter03_02,not_found
+glacier0083_iter03_03,not_found
+glacier0083_iter03_04,not_found
+glacier0083_iter03_05,not_found
+glacier0083_iter03_06,not_found
+glacier0083_iter03_07,not_found
+glacier0083_iter03_08,not_found
+glacier0083_iter03_09,not_found
+glacier0083_iter03_10,not_found
+glacier0084_iter01_01,  1113701.1
+glacier0084_iter01_02,  1113412.9
+glacier0084_iter01_03,  1113297.5
+glacier0084_iter01_04,  1112465.4
+glacier0084_iter01_05,  1111024.5
+glacier0084_iter01_06,  1109772.5
+glacier0084_iter01_07,  1108962.3
+glacier0084_iter01_08,  1108262.8
+glacier0084_iter01_09,  1107880.1
+glacier0084_iter01_10,  1107369.7
+glacier0084_iter02_01,  1113048.9
+glacier0084_iter02_02,  1112909.4
+glacier0084_iter02_03,  1112763.9
+glacier0084_iter02_04,  1112411.7
+glacier0084_iter02_05,  1112536.8
+glacier0084_iter02_06,  1112367.5
+glacier0084_iter02_07,  1112114.7
+glacier0084_iter02_08,  1111854.2
+glacier0084_iter02_09,  1111640.9
+glacier0084_iter02_10,  1111450.9
+glacier0084_iter03_01,not_found
+glacier0084_iter03_02,not_found
+glacier0084_iter03_03,not_found
+glacier0084_iter03_04,not_found
+glacier0084_iter03_05,not_found
+glacier0084_iter03_06,not_found
+glacier0084_iter03_07,not_found
+glacier0084_iter03_08,not_found
+glacier0084_iter03_09,not_found
+glacier0084_iter03_10,not_found
+glacier0085_iter01_01,  1114561.6
+glacier0085_iter01_02,  1114576.9
+glacier0085_iter01_03,  1114252.8
+glacier0085_iter01_04,  1114212.6
+glacier0085_iter01_05,  1114222.9
+glacier0085_iter01_06,  1114170.4
+glacier0085_iter01_07,  1114149.6
+glacier0085_iter01_08,  1114112.9
+glacier0085_iter01_09,  1114060.4
+glacier0085_iter01_10,  1114070.0
+glacier0085_iter02_01,not_found
+glacier0085_iter02_02,not_found
+glacier0085_iter02_03,not_found
+glacier0085_iter02_04,not_found
+glacier0085_iter02_05,not_found
+glacier0085_iter02_06,not_found
+glacier0085_iter02_07,not_found
+glacier0085_iter02_08,not_found
+glacier0085_iter02_09,not_found
+glacier0085_iter02_10,not_found
+glacier0085_iter03_01,not_found
+glacier0085_iter03_02,not_found
+glacier0085_iter03_03,not_found
+glacier0085_iter03_04,not_found
+glacier0085_iter03_05,not_found
+glacier0085_iter03_06,not_found
+glacier0085_iter03_07,not_found
+glacier0085_iter03_08,not_found
+glacier0085_iter03_09,not_found
+glacier0085_iter03_10,not_found
+glacier0088_iter01_01,  1128087.0
+glacier0088_iter01_02,  1127603.1
+glacier0088_iter01_03,  1127235.6
+glacier0088_iter01_04,  1126846.8
+glacier0088_iter01_05,  1126679.9
+glacier0088_iter01_06,  1126201.6
+glacier0088_iter01_07,  1126165.1
+glacier0088_iter01_08,  1126257.8
+glacier0088_iter01_09,  1125820.6
+glacier0088_iter01_10,  1125474.6
+glacier0088_iter02_01,not_found
+glacier0088_iter02_02,not_found
+glacier0088_iter02_03,not_found
+glacier0088_iter02_04,not_found
+glacier0088_iter02_05,not_found
+glacier0088_iter02_06,not_found
+glacier0088_iter02_07,not_found
+glacier0088_iter02_08,not_found
+glacier0088_iter02_09,not_found
+glacier0088_iter02_10,not_found
+glacier0088_iter03_01,not_found
+glacier0088_iter03_02,not_found
+glacier0088_iter03_03,not_found
+glacier0088_iter03_04,not_found
+glacier0088_iter03_05,not_found
+glacier0088_iter03_06,not_found
+glacier0088_iter03_07,not_found
+glacier0088_iter03_08,not_found
+glacier0088_iter03_09,not_found
+glacier0088_iter03_10,not_found
+glacier0098_iter01_01,not_found
+glacier0098_iter01_02,not_found
+glacier0098_iter01_03,not_found
+glacier0098_iter01_04,not_found
+glacier0098_iter01_05,not_found
+glacier0098_iter01_06,not_found
+glacier0098_iter01_07,not_found
+glacier0098_iter01_08,not_found
+glacier0098_iter01_09,not_found
+glacier0098_iter01_10,not_found
+glacier0098_iter02_01,not_found
+glacier0098_iter02_02,not_found
+glacier0098_iter02_03,not_found
+glacier0098_iter02_04,not_found
+glacier0098_iter02_05,not_found
+glacier0098_iter02_06,not_found
+glacier0098_iter02_07,not_found
+glacier0098_iter02_08,not_found
+glacier0098_iter02_09,not_found
+glacier0098_iter02_10,not_found
+glacier0098_iter03_01,not_found
+glacier0098_iter03_02,not_found
+glacier0098_iter03_03,not_found
+glacier0098_iter03_04,not_found
+glacier0098_iter03_05,not_found
+glacier0098_iter03_06,not_found
+glacier0098_iter03_07,not_found
+glacier0098_iter03_08,not_found
+glacier0098_iter03_09,not_found
+glacier0098_iter03_10,not_found
+glacier0099_iter01_01,  1117438.3
+glacier0099_iter01_02,  1115420.2
+glacier0099_iter01_03,  1113664.5
+glacier0099_iter01_04,  1111342.2
+glacier0099_iter01_05,  1109918.9
+glacier0099_iter01_06,  1107672.6
+glacier0099_iter01_07,  1105996.3
+glacier0099_iter01_08,  1104612.1
+glacier0099_iter01_09,  1103535.1
+glacier0099_iter01_10,  1102883.3
+glacier0099_iter02_01,not_found
+glacier0099_iter02_02,not_found
+glacier0099_iter02_03,not_found
+glacier0099_iter02_04,not_found
+glacier0099_iter02_05,not_found
+glacier0099_iter02_06,not_found
+glacier0099_iter02_07,not_found
+glacier0099_iter02_08,not_found
+glacier0099_iter02_09,not_found
+glacier0099_iter02_10,not_found
+glacier0099_iter03_01,not_found
+glacier0099_iter03_02,not_found
+glacier0099_iter03_03,not_found
+glacier0099_iter03_04,not_found
+glacier0099_iter03_05,not_found
+glacier0099_iter03_06,not_found
+glacier0099_iter03_07,not_found
+glacier0099_iter03_08,not_found
+glacier0099_iter03_09,not_found
+glacier0099_iter03_10,not_found
+glacier0101_iter01_01,  1148582.1
+glacier0101_iter01_02,  1148448.1
+glacier0101_iter01_03,  1148596.1
+glacier0101_iter01_04,  1148753.5
+glacier0101_iter01_05,  1148909.0
+glacier0101_iter01_06,  1149086.2
+glacier0101_iter01_07,  1149292.8
+glacier0101_iter01_08,  1149524.1
+glacier0101_iter01_09,  1149782.5
+glacier0101_iter01_10,  1150063.1
+glacier0101_iter02_01,not_found
+glacier0101_iter02_02,not_found
+glacier0101_iter02_03,not_found
+glacier0101_iter02_04,not_found
+glacier0101_iter02_05,not_found
+glacier0101_iter02_06,not_found
+glacier0101_iter02_07,not_found
+glacier0101_iter02_08,not_found
+glacier0101_iter02_09,not_found
+glacier0101_iter02_10,not_found
+glacier0101_iter03_01,not_found
+glacier0101_iter03_02,not_found
+glacier0101_iter03_03,not_found
+glacier0101_iter03_04,not_found
+glacier0101_iter03_05,not_found
+glacier0101_iter03_06,not_found
+glacier0101_iter03_07,not_found
+glacier0101_iter03_08,not_found
+glacier0101_iter03_09,not_found
+glacier0101_iter03_10,not_found
+glacier0102_iter01_01,not_found
+glacier0102_iter01_02,not_found
+glacier0102_iter01_03,not_found
+glacier0102_iter01_04,not_found
+glacier0102_iter01_05,not_found
+glacier0102_iter01_06,not_found
+glacier0102_iter01_07,not_found
+glacier0102_iter01_08,not_found
+glacier0102_iter01_09,not_found
+glacier0102_iter01_10,not_found
+glacier0102_iter02_01,not_found
+glacier0102_iter02_02,not_found
+glacier0102_iter02_03,not_found
+glacier0102_iter02_04,not_found
+glacier0102_iter02_05,not_found
+glacier0102_iter02_06,not_found
+glacier0102_iter02_07,not_found
+glacier0102_iter02_08,not_found
+glacier0102_iter02_09,not_found
+glacier0102_iter02_10,not_found
+glacier0102_iter03_01,not_found
+glacier0102_iter03_02,not_found
+glacier0102_iter03_03,not_found
+glacier0102_iter03_04,not_found
+glacier0102_iter03_05,not_found
+glacier0102_iter03_06,not_found
+glacier0102_iter03_07,not_found
+glacier0102_iter03_08,not_found
+glacier0102_iter03_09,not_found
+glacier0102_iter03_10,not_found
+glacier0103_iter01_01,  1144194.0
+glacier0103_iter01_02,  1142643.6
+glacier0103_iter01_03,  1141485.5
+glacier0103_iter01_04,  1139678.8
+glacier0103_iter01_05,  1138492.2
+glacier0103_iter01_06,  1137162.6
+glacier0103_iter01_07,  1136125.9
+glacier0103_iter01_08,  1134402.9
+glacier0103_iter01_09,  1133412.0
+glacier0103_iter01_10,  1131158.3
+glacier0103_iter02_01,not_found
+glacier0103_iter02_02,not_found
+glacier0103_iter02_03,not_found
+glacier0103_iter02_04,not_found
+glacier0103_iter02_05,not_found
+glacier0103_iter02_06,not_found
+glacier0103_iter02_07,not_found
+glacier0103_iter02_08,not_found
+glacier0103_iter02_09,not_found
+glacier0103_iter02_10,not_found
+glacier0103_iter03_01,not_found
+glacier0103_iter03_02,not_found
+glacier0103_iter03_03,not_found
+glacier0103_iter03_04,not_found
+glacier0103_iter03_05,not_found
+glacier0103_iter03_06,not_found
+glacier0103_iter03_07,not_found
+glacier0103_iter03_08,not_found
+glacier0103_iter03_09,not_found
+glacier0103_iter03_10,not_found
+glacier0105_iter01_01,   125524.4
+glacier0105_iter01_02,   126071.2
+glacier0105_iter01_03,   127253.1
+glacier0105_iter01_04,   127369.6
+glacier0105_iter01_05,   126481.8
+glacier0105_iter01_06,   127811.0
+glacier0105_iter01_07,   133386.3
+glacier0105_iter01_08,  1149646.1
+glacier0105_iter01_09,  1139069.6
+glacier0105_iter01_10,  1127837.4
+glacier0105_iter02_01,not_found
+glacier0105_iter02_02,not_found
+glacier0105_iter02_03,not_found
+glacier0105_iter02_04,not_found
+glacier0105_iter02_05,not_found
+glacier0105_iter02_06,not_found
+glacier0105_iter02_07,not_found
+glacier0105_iter02_08,not_found
+glacier0105_iter02_09,not_found
+glacier0105_iter02_10,not_found
+glacier0105_iter03_01,not_found
+glacier0105_iter03_02,not_found
+glacier0105_iter03_03,not_found
+glacier0105_iter03_04,not_found
+glacier0105_iter03_05,not_found
+glacier0105_iter03_06,not_found
+glacier0105_iter03_07,not_found
+glacier0105_iter03_08,not_found
+glacier0105_iter03_09,not_found
+glacier0105_iter03_10,not_found
+glacier0106_iter01_01,   175515.7
+glacier0106_iter01_02,   174059.3
+glacier0106_iter01_03,   171539.3
+glacier0106_iter01_04,   171369.8
+glacier0106_iter01_05,   169404.3
+glacier0106_iter01_06,   168499.0
+glacier0106_iter01_07,   167748.4
+glacier0106_iter01_08,   167179.2
+glacier0106_iter01_09,   166334.2
+glacier0106_iter01_10,   165510.3
+glacier0106_iter02_01,not_found
+glacier0106_iter02_02,not_found
+glacier0106_iter02_03,not_found
+glacier0106_iter02_04,not_found
+glacier0106_iter02_05,not_found
+glacier0106_iter02_06,not_found
+glacier0106_iter02_07,not_found
+glacier0106_iter02_08,not_found
+glacier0106_iter02_09,not_found
+glacier0106_iter02_10,not_found
+glacier0106_iter03_01,not_found
+glacier0106_iter03_02,not_found
+glacier0106_iter03_03,not_found
+glacier0106_iter03_04,not_found
+glacier0106_iter03_05,not_found
+glacier0106_iter03_06,not_found
+glacier0106_iter03_07,not_found
+glacier0106_iter03_08,not_found
+glacier0106_iter03_09,not_found
+glacier0106_iter03_10,not_found
+glacier0111_iter01_01,not_found
+glacier0111_iter01_02,not_found
+glacier0111_iter01_03,not_found
+glacier0111_iter01_04,not_found
+glacier0111_iter01_05,not_found
+glacier0111_iter01_06,not_found
+glacier0111_iter01_07,not_found
+glacier0111_iter01_08,not_found
+glacier0111_iter01_09,not_found
+glacier0111_iter01_10,not_found
+glacier0111_iter02_01,not_found
+glacier0111_iter02_02,not_found
+glacier0111_iter02_03,not_found
+glacier0111_iter02_04,not_found
+glacier0111_iter02_05,not_found
+glacier0111_iter02_06,not_found
+glacier0111_iter02_07,not_found
+glacier0111_iter02_08,not_found
+glacier0111_iter02_09,not_found
+glacier0111_iter02_10,not_found
+glacier0111_iter03_01,not_found
+glacier0111_iter03_02,not_found
+glacier0111_iter03_03,not_found
+glacier0111_iter03_04,not_found
+glacier0111_iter03_05,not_found
+glacier0111_iter03_06,not_found
+glacier0111_iter03_07,not_found
+glacier0111_iter03_08,not_found
+glacier0111_iter03_09,not_found
+glacier0111_iter03_10,not_found
+glaciera112_iter01_01,  1179617.3
+glaciera112_iter01_02,  1179587.5
+glaciera112_iter01_03,  1179507.3
+glaciera112_iter01_04,  1178892.9
+glaciera112_iter01_05,  1178856.0
+glaciera112_iter01_06,  1178495.3
+glaciera112_iter01_07,  1178474.7
+glaciera112_iter01_08,  1178124.7
+glaciera112_iter01_09,  1177775.8
+glaciera112_iter01_10,  1177415.8
+glaciera112_iter02_01,not_found
+glaciera112_iter02_02,not_found
+glaciera112_iter02_03,not_found
+glaciera112_iter02_04,not_found
+glaciera112_iter02_05,not_found
+glaciera112_iter02_06,not_found
+glaciera112_iter02_07,not_found
+glaciera112_iter02_08,not_found
+glaciera112_iter02_09,not_found
+glaciera112_iter02_10,not_found
+glaciera112_iter03_01,not_found
+glaciera112_iter03_02,not_found
+glaciera112_iter03_03,not_found
+glaciera112_iter03_04,not_found
+glaciera112_iter03_05,not_found
+glaciera112_iter03_06,not_found
+glaciera112_iter03_07,not_found
+glaciera112_iter03_08,not_found
+glaciera112_iter03_09,not_found
+glaciera112_iter03_10,not_found
+glacierb112_iter01_01,    14220.6
+glacierb112_iter01_02,1_point
+glacierb112_iter01_03,    14206.8
+glacierb112_iter01_04,  1183571.8
+glacierb112_iter01_05,  1183281.7
+glacierb112_iter01_06,  1183006.8
+glacierb112_iter01_07,  1183579.4
+glacierb112_iter01_08,  1183505.2
+glacierb112_iter01_09,  1183603.8
+glacierb112_iter01_10,  1184047.7
+glacierb112_iter02_01,not_found
+glacierb112_iter02_02,not_found
+glacierb112_iter02_03,not_found
+glacierb112_iter02_04,not_found
+glacierb112_iter02_05,not_found
+glacierb112_iter02_06,not_found
+glacierb112_iter02_07,not_found
+glacierb112_iter02_08,not_found
+glacierb112_iter02_09,not_found
+glacierb112_iter02_10,not_found
+glacierb112_iter03_01,not_found
+glacierb112_iter03_02,not_found
+glacierb112_iter03_03,not_found
+glacierb112_iter03_04,not_found
+glacierb112_iter03_05,not_found
+glacierb112_iter03_06,not_found
+glacierb112_iter03_07,not_found
+glacierb112_iter03_08,not_found
+glacierb112_iter03_09,not_found
+glacierb112_iter03_10,not_found
+glacier0113_iter01_01,  1218875.7
+glacier0113_iter01_02,  1218323.4
+glacier0113_iter01_03,  1216846.4
+glacier0113_iter01_04,  1216080.8
+glacier0113_iter01_05,  1215232.6
+glacier0113_iter01_06,  1214428.9
+glacier0113_iter01_07,  1213611.7
+glacier0113_iter01_08,  1212786.2
+glacier0113_iter01_09,  1211962.1
+glacier0113_iter01_10,  1211013.3
+glacier0113_iter02_01,not_found
+glacier0113_iter02_02,not_found
+glacier0113_iter02_03,not_found
+glacier0113_iter02_04,not_found
+glacier0113_iter02_05,not_found
+glacier0113_iter02_06,not_found
+glacier0113_iter02_07,not_found
+glacier0113_iter02_08,not_found
+glacier0113_iter02_09,not_found
+glacier0113_iter02_10,not_found
+glacier0113_iter03_01,not_found
+glacier0113_iter03_02,not_found
+glacier0113_iter03_03,not_found
+glacier0113_iter03_04,not_found
+glacier0113_iter03_05,not_found
+glacier0113_iter03_06,not_found
+glacier0113_iter03_07,not_found
+glacier0113_iter03_08,not_found
+glacier0113_iter03_09,not_found
+glacier0113_iter03_10,not_found
+glacier0114_iter01_01,  1181867.3
+glacier0114_iter01_02,  1182470.1
+glacier0114_iter01_03,  1183173.5
+glacier0114_iter01_04,  1184151.5
+glacier0114_iter01_05,  1184850.3
+glacier0114_iter01_06,  1185834.5
+glacier0114_iter01_07,  1186647.2
+glacier0114_iter01_08,  1187717.6
+glacier0114_iter01_09,  1188436.3
+glacier0114_iter01_10,  1189422.1
+glacier0114_iter02_01,  1184960.9
+glacier0114_iter02_02,  1185193.8
+glacier0114_iter02_03,  1185513.7
+glacier0114_iter02_04,  1185626.7
+glacier0114_iter02_05,  1185765.0
+glacier0114_iter02_06,  1186182.8
+glacier0114_iter02_07,  1186207.8
+glacier0114_iter02_08,  1186525.5
+glacier0114_iter02_09,  1186602.3
+glacier0114_iter02_10,  1186669.6
+glacier0114_iter03_01,not_found
+glacier0114_iter03_02,not_found
+glacier0114_iter03_03,not_found
+glacier0114_iter03_04,not_found
+glacier0114_iter03_05,not_found
+glacier0114_iter03_06,not_found
+glacier0114_iter03_07,not_found
+glacier0114_iter03_08,not_found
+glacier0114_iter03_09,not_found
+glacier0114_iter03_10,not_found
+glacier0115_iter01_01,  1003975.6
+glacier0115_iter01_02,  1009400.8
+glacier0115_iter01_03,  1015920.9
+glacier0115_iter01_04,  1020813.1
+glacier0115_iter01_05,  1024746.6
+glacier0115_iter01_06,  1029827.1
+glacier0115_iter01_07,  1033417.3
+glacier0115_iter01_08,  1035605.5
+glacier0115_iter01_09,  1038569.6
+glacier0115_iter01_10,  1039721.8
+glacier0115_iter02_01,not_found
+glacier0115_iter02_02,not_found
+glacier0115_iter02_03,not_found
+glacier0115_iter02_04,not_found
+glacier0115_iter02_05,not_found
+glacier0115_iter02_06,not_found
+glacier0115_iter02_07,not_found
+glacier0115_iter02_08,not_found
+glacier0115_iter02_09,not_found
+glacier0115_iter02_10,not_found
+glacier0115_iter03_01,not_found
+glacier0115_iter03_02,not_found
+glacier0115_iter03_03,not_found
+glacier0115_iter03_04,not_found
+glacier0115_iter03_05,not_found
+glacier0115_iter03_06,not_found
+glacier0115_iter03_07,not_found
+glacier0115_iter03_08,not_found
+glacier0115_iter03_09,not_found
+glacier0115_iter03_10,not_found
+glacier0116_iter01_01,   702646.5
+glacier0116_iter01_02,   702715.6
+glacier0116_iter01_03,   702871.2
+glacier0116_iter01_04,   702808.6
+glacier0116_iter01_05,   736354.0
+glacier0116_iter01_06,   735810.6
+glacier0116_iter01_07,   734157.8
+glacier0116_iter01_08,   731987.1
+glacier0116_iter01_09,   729847.2
+glacier0116_iter01_10,   727869.9
+glacier0116_iter02_01,not_found
+glacier0116_iter02_02,not_found
+glacier0116_iter02_03,not_found
+glacier0116_iter02_04,not_found
+glacier0116_iter02_05,not_found
+glacier0116_iter02_06,not_found
+glacier0116_iter02_07,not_found
+glacier0116_iter02_08,not_found
+glacier0116_iter02_09,not_found
+glacier0116_iter02_10,not_found
+glacier0116_iter03_01,not_found
+glacier0116_iter03_02,not_found
+glacier0116_iter03_03,not_found
+glacier0116_iter03_04,not_found
+glacier0116_iter03_05,not_found
+glacier0116_iter03_06,not_found
+glacier0116_iter03_07,not_found
+glacier0116_iter03_08,not_found
+glacier0116_iter03_09,not_found
+glacier0116_iter03_10,not_found
+glacier0124_iter01_01,not_found
+glacier0124_iter01_02,not_found
+glacier0124_iter01_03,not_found
+glacier0124_iter01_04,not_found
+glacier0124_iter01_05,not_found
+glacier0124_iter01_06,not_found
+glacier0124_iter01_07,not_found
+glacier0124_iter01_08,not_found
+glacier0124_iter01_09,not_found
+glacier0124_iter01_10,not_found
+glacier0124_iter02_01,not_found
+glacier0124_iter02_02,not_found
+glacier0124_iter02_03,not_found
+glacier0124_iter02_04,not_found
+glacier0124_iter02_05,not_found
+glacier0124_iter02_06,not_found
+glacier0124_iter02_07,not_found
+glacier0124_iter02_08,not_found
+glacier0124_iter02_09,not_found
+glacier0124_iter02_10,not_found
+glacier0124_iter03_01,not_found
+glacier0124_iter03_02,not_found
+glacier0124_iter03_03,not_found
+glacier0124_iter03_04,not_found
+glacier0124_iter03_05,not_found
+glacier0124_iter03_06,not_found
+glacier0124_iter03_07,not_found
+glacier0124_iter03_08,not_found
+glacier0124_iter03_09,not_found
+glacier0124_iter03_10,not_found
+glacier0127_iter01_01,   293264.5
+glacier0127_iter01_02,   291800.1
+glacier0127_iter01_03,   291867.6
+glacier0127_iter01_04,   291967.4
+glacier0127_iter01_05,   292357.8
+glacier0127_iter01_06,   295140.5
+glacier0127_iter01_07,   290310.3
+glacier0127_iter01_08,   289889.6
+glacier0127_iter01_09,   291478.7
+glacier0127_iter01_10,   294741.6
+glacier0127_iter02_01,not_found
+glacier0127_iter02_02,not_found
+glacier0127_iter02_03,not_found
+glacier0127_iter02_04,not_found
+glacier0127_iter02_05,not_found
+glacier0127_iter02_06,not_found
+glacier0127_iter02_07,not_found
+glacier0127_iter02_08,not_found
+glacier0127_iter02_09,not_found
+glacier0127_iter02_10,not_found
+glacier0127_iter03_01,not_found
+glacier0127_iter03_02,not_found
+glacier0127_iter03_03,not_found
+glacier0127_iter03_04,not_found
+glacier0127_iter03_05,not_found
+glacier0127_iter03_06,not_found
+glacier0127_iter03_07,not_found
+glacier0127_iter03_08,not_found
+glacier0127_iter03_09,not_found
+glacier0127_iter03_10,not_found
+glacier0129_iter01_01,   281422.3
+glacier0129_iter01_02,   281400.7
+glacier0129_iter01_03,   281779.3
+glacier0129_iter01_04,   282471.6
+glacier0129_iter01_05,   283014.0
+glacier0129_iter01_06,   282797.7
+glacier0129_iter01_07,   283061.1
+glacier0129_iter01_08,   282464.5
+glacier0129_iter01_09,   281907.9
+glacier0129_iter01_10,   281288.4
+glacier0129_iter02_01,not_found
+glacier0129_iter02_02,not_found
+glacier0129_iter02_03,not_found
+glacier0129_iter02_04,not_found
+glacier0129_iter02_05,not_found
+glacier0129_iter02_06,not_found
+glacier0129_iter02_07,not_found
+glacier0129_iter02_08,not_found
+glacier0129_iter02_09,not_found
+glacier0129_iter02_10,not_found
+glacier0129_iter03_01,not_found
+glacier0129_iter03_02,not_found
+glacier0129_iter03_03,not_found
+glacier0129_iter03_04,not_found
+glacier0129_iter03_05,not_found
+glacier0129_iter03_06,not_found
+glacier0129_iter03_07,not_found
+glacier0129_iter03_08,not_found
+glacier0129_iter03_09,not_found
+glacier0129_iter03_10,not_found
+glaciera132_iter01_01,not_found
+glaciera132_iter01_02,not_found
+glaciera132_iter01_03,not_found
+glaciera132_iter01_04,not_found
+glaciera132_iter01_05,not_found
+glaciera132_iter01_06,not_found
+glaciera132_iter01_07,not_found
+glaciera132_iter01_08,not_found
+glaciera132_iter01_09,not_found
+glaciera132_iter01_10,not_found
+glaciera132_iter02_01,not_found
+glaciera132_iter02_02,not_found
+glaciera132_iter02_03,not_found
+glaciera132_iter02_04,not_found
+glaciera132_iter02_05,not_found
+glaciera132_iter02_06,not_found
+glaciera132_iter02_07,not_found
+glaciera132_iter02_08,not_found
+glaciera132_iter02_09,not_found
+glaciera132_iter02_10,not_found
+glaciera132_iter03_01,not_found
+glaciera132_iter03_02,not_found
+glaciera132_iter03_03,not_found
+glaciera132_iter03_04,not_found
+glaciera132_iter03_05,not_found
+glaciera132_iter03_06,not_found
+glaciera132_iter03_07,not_found
+glaciera132_iter03_08,not_found
+glaciera132_iter03_09,not_found
+glaciera132_iter03_10,not_found
+glacierb132_iter01_01,not_found
+glacierb132_iter01_02,not_found
+glacierb132_iter01_03,not_found
+glacierb132_iter01_04,not_found
+glacierb132_iter01_05,not_found
+glacierb132_iter01_06,not_found
+glacierb132_iter01_07,not_found
+glacierb132_iter01_08,not_found
+glacierb132_iter01_09,not_found
+glacierb132_iter01_10,not_found
+glacierb132_iter02_01,not_found
+glacierb132_iter02_02,not_found
+glacierb132_iter02_03,not_found
+glacierb132_iter02_04,not_found
+glacierb132_iter02_05,not_found
+glacierb132_iter02_06,not_found
+glacierb132_iter02_07,not_found
+glacierb132_iter02_08,not_found
+glacierb132_iter02_09,not_found
+glacierb132_iter02_10,not_found
+glacierb132_iter03_01,not_found
+glacierb132_iter03_02,not_found
+glacierb132_iter03_03,not_found
+glacierb132_iter03_04,not_found
+glacierb132_iter03_05,not_found
+glacierb132_iter03_06,not_found
+glacierb132_iter03_07,not_found
+glacierb132_iter03_08,not_found
+glacierb132_iter03_09,not_found
+glacierb132_iter03_10,not_found
+glacier0135_iter01_01,   403318.1
+glacier0135_iter01_02,   397716.1
+glacier0135_iter01_03,   393975.1
+glacier0135_iter01_04,   390055.8
+glacier0135_iter01_05,   386670.5
+glacier0135_iter01_06,   382401.6
+glacier0135_iter01_07,   377529.2
+glacier0135_iter01_08,   374485.7
+glacier0135_iter01_09,   368281.9
+glacier0135_iter01_10,   365900.6
+glacier0135_iter02_01,not_found
+glacier0135_iter02_02,not_found
+glacier0135_iter02_03,not_found
+glacier0135_iter02_04,not_found
+glacier0135_iter02_05,not_found
+glacier0135_iter02_06,not_found
+glacier0135_iter02_07,not_found
+glacier0135_iter02_08,not_found
+glacier0135_iter02_09,not_found
+glacier0135_iter02_10,not_found
+glacier0135_iter03_01,not_found
+glacier0135_iter03_02,not_found
+glacier0135_iter03_03,not_found
+glacier0135_iter03_04,not_found
+glacier0135_iter03_05,not_found
+glacier0135_iter03_06,not_found
+glacier0135_iter03_07,not_found
+glacier0135_iter03_08,not_found
+glacier0135_iter03_09,not_found
+glacier0135_iter03_10,not_found
+glaciera147_iter01_01,not_found
+glaciera147_iter01_02,not_found
+glaciera147_iter01_03,not_found
+glaciera147_iter01_04,not_found
+glaciera147_iter01_05,not_found
+glaciera147_iter01_06,not_found
+glaciera147_iter01_07,not_found
+glaciera147_iter01_08,not_found
+glaciera147_iter01_09,not_found
+glaciera147_iter01_10,not_found
+glaciera147_iter02_01,not_found
+glaciera147_iter02_02,not_found
+glaciera147_iter02_03,not_found
+glaciera147_iter02_04,not_found
+glaciera147_iter02_05,not_found
+glaciera147_iter02_06,not_found
+glaciera147_iter02_07,not_found
+glaciera147_iter02_08,not_found
+glaciera147_iter02_09,not_found
+glaciera147_iter02_10,not_found
+glaciera147_iter03_01,not_found
+glaciera147_iter03_02,not_found
+glaciera147_iter03_03,not_found
+glaciera147_iter03_04,not_found
+glaciera147_iter03_05,not_found
+glaciera147_iter03_06,not_found
+glaciera147_iter03_07,not_found
+glaciera147_iter03_08,not_found
+glaciera147_iter03_09,not_found
+glaciera147_iter03_10,not_found
+glacierb147_iter01_01,   369834.4
+glacierb147_iter01_02,   369684.8
+glacierb147_iter01_03,   370157.5
+glacierb147_iter01_04,   369174.0
+glacierb147_iter01_05,   370433.3
+glacierb147_iter01_06,   369416.4
+glacierb147_iter01_07,   369086.3
+glacierb147_iter01_08,   369333.6
+glacierb147_iter01_09,   368954.5
+glacierb147_iter01_10,   368991.7
+glacierb147_iter02_01,not_found
+glacierb147_iter02_02,not_found
+glacierb147_iter02_03,not_found
+glacierb147_iter02_04,not_found
+glacierb147_iter02_05,not_found
+glacierb147_iter02_06,not_found
+glacierb147_iter02_07,not_found
+glacierb147_iter02_08,not_found
+glacierb147_iter02_09,not_found
+glacierb147_iter02_10,not_found
+glacierb147_iter03_01,not_found
+glacierb147_iter03_02,not_found
+glacierb147_iter03_03,not_found
+glacierb147_iter03_04,not_found
+glacierb147_iter03_05,not_found
+glacierb147_iter03_06,not_found
+glacierb147_iter03_07,not_found
+glacierb147_iter03_08,not_found
+glacierb147_iter03_09,not_found
+glacierb147_iter03_10,not_found
+glaciera148_iter01_01,not_found
+glaciera148_iter01_02,not_found
+glaciera148_iter01_03,not_found
+glaciera148_iter01_04,not_found
+glaciera148_iter01_05,not_found
+glaciera148_iter01_06,not_found
+glaciera148_iter01_07,not_found
+glaciera148_iter01_08,not_found
+glaciera148_iter01_09,not_found
+glaciera148_iter01_10,not_found
+glaciera148_iter02_01,not_found
+glaciera148_iter02_02,not_found
+glaciera148_iter02_03,not_found
+glaciera148_iter02_04,not_found
+glaciera148_iter02_05,not_found
+glaciera148_iter02_06,not_found
+glaciera148_iter02_07,not_found
+glaciera148_iter02_08,not_found
+glaciera148_iter02_09,not_found
+glaciera148_iter02_10,not_found
+glaciera148_iter03_01,not_found
+glaciera148_iter03_02,not_found
+glaciera148_iter03_03,not_found
+glaciera148_iter03_04,not_found
+glaciera148_iter03_05,not_found
+glaciera148_iter03_06,not_found
+glaciera148_iter03_07,not_found
+glaciera148_iter03_08,not_found
+glaciera148_iter03_09,not_found
+glaciera148_iter03_10,not_found
+glacierb148_iter01_01,    83376.8
+glacierb148_iter01_02,   100813.4
+glacierb148_iter01_03,   103137.5
+glacierb148_iter01_04,    88314.0
+glacierb148_iter01_05,   104512.3
+glacierb148_iter01_06,    93861.9
+glacierb148_iter01_07,    93444.9
+glacierb148_iter01_08,    84683.3
+glacierb148_iter01_09,    89226.6
+glacierb148_iter01_10,    67469.3
+glacierb148_iter02_01,not_found
+glacierb148_iter02_02,not_found
+glacierb148_iter02_03,not_found
+glacierb148_iter02_04,not_found
+glacierb148_iter02_05,not_found
+glacierb148_iter02_06,not_found
+glacierb148_iter02_07,not_found
+glacierb148_iter02_08,not_found
+glacierb148_iter02_09,not_found
+glacierb148_iter02_10,not_found
+glacierb148_iter03_01,not_found
+glacierb148_iter03_02,not_found
+glacierb148_iter03_03,not_found
+glacierb148_iter03_04,not_found
+glacierb148_iter03_05,not_found
+glacierb148_iter03_06,not_found
+glacierb148_iter03_07,not_found
+glacierb148_iter03_08,not_found
+glacierb148_iter03_09,not_found
+glacierb148_iter03_10,not_found
+glaciera150_iter01_01,not_found
+glaciera150_iter01_02,not_found
+glaciera150_iter01_03,not_found
+glaciera150_iter01_04,not_found
+glaciera150_iter01_05,not_found
+glaciera150_iter01_06,not_found
+glaciera150_iter01_07,not_found
+glaciera150_iter01_08,not_found
+glaciera150_iter01_09,not_found
+glaciera150_iter01_10,not_found
+glaciera150_iter02_01,not_found
+glaciera150_iter02_02,not_found
+glaciera150_iter02_03,not_found
+glaciera150_iter02_04,not_found
+glaciera150_iter02_05,not_found
+glaciera150_iter02_06,not_found
+glaciera150_iter02_07,not_found
+glaciera150_iter02_08,not_found
+glaciera150_iter02_09,not_found
+glaciera150_iter02_10,not_found
+glaciera150_iter03_01,not_found
+glaciera150_iter03_02,not_found
+glaciera150_iter03_03,not_found
+glaciera150_iter03_04,not_found
+glaciera150_iter03_05,not_found
+glaciera150_iter03_06,not_found
+glaciera150_iter03_07,not_found
+glaciera150_iter03_08,not_found
+glaciera150_iter03_09,not_found
+glaciera150_iter03_10,not_found
+glacierb150_iter01_01,not_found
+glacierb150_iter01_02,not_found
+glacierb150_iter01_03,not_found
+glacierb150_iter01_04,not_found
+glacierb150_iter01_05,not_found
+glacierb150_iter01_06,not_found
+glacierb150_iter01_07,not_found
+glacierb150_iter01_08,not_found
+glacierb150_iter01_09,not_found
+glacierb150_iter01_10,not_found
+glacierb150_iter02_01,not_found
+glacierb150_iter02_02,not_found
+glacierb150_iter02_03,not_found
+glacierb150_iter02_04,not_found
+glacierb150_iter02_05,not_found
+glacierb150_iter02_06,not_found
+glacierb150_iter02_07,not_found
+glacierb150_iter02_08,not_found
+glacierb150_iter02_09,not_found
+glacierb150_iter02_10,not_found
+glacierb150_iter03_01,not_found
+glacierb150_iter03_02,not_found
+glacierb150_iter03_03,not_found
+glacierb150_iter03_04,not_found
+glacierb150_iter03_05,not_found
+glacierb150_iter03_06,not_found
+glacierb150_iter03_07,not_found
+glacierb150_iter03_08,not_found
+glacierb150_iter03_09,not_found
+glacierb150_iter03_10,not_found
+glacier0152_iter01_01,   398924.3
+glacier0152_iter01_02,   393599.6
+glacier0152_iter01_03,   385885.4
+glacier0152_iter01_04,   378827.9
+glacier0152_iter01_05,   374341.0
+glacier0152_iter01_06,   370865.8
+glacier0152_iter01_07,   368767.7
+glacier0152_iter01_08,   367551.8
+glacier0152_iter01_09,   365293.6
+glacier0152_iter01_10,   363077.1
+glacier0152_iter02_01,   392562.7
+glacier0152_iter02_02,   390824.8
+glacier0152_iter02_03,   389578.0
+glacier0152_iter02_04,   388149.8
+glacier0152_iter02_05,   387739.5
+glacier0152_iter02_06,   384787.4
+glacier0152_iter02_07,   383163.9
+glacier0152_iter02_08,   382198.2
+glacier0152_iter02_09,   380722.2
+glacier0152_iter02_10,   379099.8
+glacier0152_iter03_01,not_found
+glacier0152_iter03_02,not_found
+glacier0152_iter03_03,not_found
+glacier0152_iter03_04,not_found
+glacier0152_iter03_05,not_found
+glacier0152_iter03_06,not_found
+glacier0152_iter03_07,not_found
+glacier0152_iter03_08,not_found
+glacier0152_iter03_09,not_found
+glacier0152_iter03_10,not_found
+glacier0154_iter01_01,    65246.7
+glacier0154_iter01_02,    65418.7
+glacier0154_iter01_03,    65397.4
+glacier0154_iter01_04,    65487.2
+glacier0154_iter01_05,    65685.3
+glacier0154_iter01_06,    66640.8
+glacier0154_iter01_07,   119789.4
+glacier0154_iter01_08,   333779.7
+glacier0154_iter01_09,    68107.6
+glacier0154_iter01_10,    68395.9
+glacier0154_iter02_01,not_found
+glacier0154_iter02_02,not_found
+glacier0154_iter02_03,not_found
+glacier0154_iter02_04,not_found
+glacier0154_iter02_05,not_found
+glacier0154_iter02_06,not_found
+glacier0154_iter02_07,not_found
+glacier0154_iter02_08,not_found
+glacier0154_iter02_09,not_found
+glacier0154_iter02_10,not_found
+glacier0154_iter03_01,not_found
+glacier0154_iter03_02,not_found
+glacier0154_iter03_03,not_found
+glacier0154_iter03_04,not_found
+glacier0154_iter03_05,not_found
+glacier0154_iter03_06,not_found
+glacier0154_iter03_07,not_found
+glacier0154_iter03_08,not_found
+glacier0154_iter03_09,not_found
+glacier0154_iter03_10,not_found
+glacier0167_iter01_01,   194507.1
+glacier0167_iter01_02,   151963.5
+glacier0167_iter01_03,   131762.4
+glacier0167_iter01_04,   159014.7
+glacier0167_iter01_05,   188598.2
+glacier0167_iter01_06,   196801.1
+glacier0167_iter01_07,   185422.0
+glacier0167_iter01_08,   178332.0
+glacier0167_iter01_09,   206900.2
+glacier0167_iter01_10,   187562.7
+glacier0167_iter02_01,   184515.7
+glacier0167_iter02_02,   170693.5
+glacier0167_iter02_03,   184622.0
+glacier0167_iter02_04,   165160.7
+glacier0167_iter02_05,   170857.1
+glacier0167_iter02_06,   178188.1
+glacier0167_iter02_07,   181737.4
+glacier0167_iter02_08,   206976.2
+glacier0167_iter02_09,   188428.7
+glacier0167_iter02_10,   204790.9
+glacier0167_iter03_01,not_found
+glacier0167_iter03_02,not_found
+glacier0167_iter03_03,not_found
+glacier0167_iter03_04,not_found
+glacier0167_iter03_05,not_found
+glacier0167_iter03_06,not_found
+glacier0167_iter03_07,not_found
+glacier0167_iter03_08,not_found
+glacier0167_iter03_09,not_found
+glacier0167_iter03_10,not_found
+glacier0168_iter01_01,    63047.9
+glacier0168_iter01_02,    62364.0
+glacier0168_iter01_03,    62191.1
+glacier0168_iter01_04,    61114.2
+glacier0168_iter01_05,    61123.6
+glacier0168_iter01_06,    61463.9
+glacier0168_iter01_07,    61791.9
+glacier0168_iter01_08,    62136.1
+glacier0168_iter01_09,    63752.7
+glacier0168_iter01_10,    75865.7
+glacier0168_iter02_01,not_found
+glacier0168_iter02_02,not_found
+glacier0168_iter02_03,not_found
+glacier0168_iter02_04,not_found
+glacier0168_iter02_05,not_found
+glacier0168_iter02_06,not_found
+glacier0168_iter02_07,not_found
+glacier0168_iter02_08,not_found
+glacier0168_iter02_09,not_found
+glacier0168_iter02_10,not_found
+glacier0168_iter03_01,not_found
+glacier0168_iter03_02,not_found
+glacier0168_iter03_03,not_found
+glacier0168_iter03_04,not_found
+glacier0168_iter03_05,not_found
+glacier0168_iter03_06,not_found
+glacier0168_iter03_07,not_found
+glacier0168_iter03_08,not_found
+glacier0168_iter03_09,not_found
+glacier0168_iter03_10,not_found
+glaciera173_iter01_01,not_found
+glaciera173_iter01_02,not_found
+glaciera173_iter01_03,not_found
+glaciera173_iter01_04,not_found
+glaciera173_iter01_05,not_found
+glaciera173_iter01_06,not_found
+glaciera173_iter01_07,not_found
+glaciera173_iter01_08,not_found
+glaciera173_iter01_09,not_found
+glaciera173_iter01_10,not_found
+glaciera173_iter02_01,not_found
+glaciera173_iter02_02,not_found
+glaciera173_iter02_03,not_found
+glaciera173_iter02_04,not_found
+glaciera173_iter02_05,not_found
+glaciera173_iter02_06,not_found
+glaciera173_iter02_07,not_found
+glaciera173_iter02_08,not_found
+glaciera173_iter02_09,not_found
+glaciera173_iter02_10,not_found
+glaciera173_iter03_01,not_found
+glaciera173_iter03_02,not_found
+glaciera173_iter03_03,not_found
+glaciera173_iter03_04,not_found
+glaciera173_iter03_05,not_found
+glaciera173_iter03_06,not_found
+glaciera173_iter03_07,not_found
+glaciera173_iter03_08,not_found
+glaciera173_iter03_09,not_found
+glaciera173_iter03_10,not_found
+glacierb173_iter01_01,   344825.0
+glacierb173_iter01_02,   346905.8
+glacierb173_iter01_03,   348696.8
+glacierb173_iter01_04,   350819.6
+glacierb173_iter01_05,   352973.2
+glacierb173_iter01_06,   354978.6
+glacierb173_iter01_07,   359028.1
+glacierb173_iter01_08,   364746.5
+glacierb173_iter01_09,   367659.1
+glacierb173_iter01_10,   368659.8
+glacierb173_iter02_01,not_found
+glacierb173_iter02_02,not_found
+glacierb173_iter02_03,not_found
+glacierb173_iter02_04,not_found
+glacierb173_iter02_05,not_found
+glacierb173_iter02_06,not_found
+glacierb173_iter02_07,not_found
+glacierb173_iter02_08,not_found
+glacierb173_iter02_09,not_found
+glacierb173_iter02_10,not_found
+glacierb173_iter03_01,not_found
+glacierb173_iter03_02,not_found
+glacierb173_iter03_03,not_found
+glacierb173_iter03_04,not_found
+glacierb173_iter03_05,not_found
+glacierb173_iter03_06,not_found
+glacierb173_iter03_07,not_found
+glacierb173_iter03_08,not_found
+glacierb173_iter03_09,not_found
+glacierb173_iter03_10,not_found
+glacierc173_iter01_01,   252948.8
+glacierc173_iter01_02,   254570.4
+glacierc173_iter01_03,   256709.9
+glacierc173_iter01_04,   258456.6
+glacierc173_iter01_05,   260886.0
+glacierc173_iter01_06,   262587.8
+glacierc173_iter01_07,   263657.7
+glacierc173_iter01_08,   264524.8
+glacierc173_iter01_09,   265957.3
+glacierc173_iter01_10,   268234.1
+glacierc173_iter02_01,not_found
+glacierc173_iter02_02,not_found
+glacierc173_iter02_03,not_found
+glacierc173_iter02_04,not_found
+glacierc173_iter02_05,not_found
+glacierc173_iter02_06,not_found
+glacierc173_iter02_07,not_found
+glacierc173_iter02_08,not_found
+glacierc173_iter02_09,not_found
+glacierc173_iter02_10,not_found
+glacierc173_iter03_01,not_found
+glacierc173_iter03_02,not_found
+glacierc173_iter03_03,not_found
+glacierc173_iter03_04,not_found
+glacierc173_iter03_05,not_found
+glacierc173_iter03_06,not_found
+glacierc173_iter03_07,not_found
+glacierc173_iter03_08,not_found
+glacierc173_iter03_09,not_found
+glacierc173_iter03_10,not_found
+glacierd173_iter01_01,    89616.4
+glacierd173_iter01_02,    93987.7
+glacierd173_iter01_03,   103352.9
+glacierd173_iter01_04,   116706.8
+glacierd173_iter01_05,   124905.4
+glacierd173_iter01_06,   135687.9
+glacierd173_iter01_07,   142179.7
+glacierd173_iter01_08,   169695.8
+glacierd173_iter01_09,   167192.2
+glacierd173_iter01_10,   171010.8
+glacierd173_iter02_01,not_found
+glacierd173_iter02_02,not_found
+glacierd173_iter02_03,not_found
+glacierd173_iter02_04,not_found
+glacierd173_iter02_05,not_found
+glacierd173_iter02_06,not_found
+glacierd173_iter02_07,not_found
+glacierd173_iter02_08,not_found
+glacierd173_iter02_09,not_found
+glacierd173_iter02_10,not_found
+glacierd173_iter03_01,not_found
+glacierd173_iter03_02,not_found
+glacierd173_iter03_03,not_found
+glacierd173_iter03_04,not_found
+glacierd173_iter03_05,not_found
+glacierd173_iter03_06,not_found
+glacierd173_iter03_07,not_found
+glacierd173_iter03_08,not_found
+glacierd173_iter03_09,not_found
+glacierd173_iter03_10,not_found
+glacier0174_iter01_01,    59715.9
+glacier0174_iter01_02,    59086.7
+glacier0174_iter01_03,    59930.9
+glacier0174_iter01_04,    59743.1
+glacier0174_iter01_05,    52340.0
+glacier0174_iter01_06,    58985.6
+glacier0174_iter01_07,    64918.6
+glacier0174_iter01_08,    78905.1
+glacier0174_iter01_09,    78746.6
+glacier0174_iter01_10,    78601.6
+glacier0174_iter02_01,not_found
+glacier0174_iter02_02,not_found
+glacier0174_iter02_03,not_found
+glacier0174_iter02_04,not_found
+glacier0174_iter02_05,not_found
+glacier0174_iter02_06,not_found
+glacier0174_iter02_07,not_found
+glacier0174_iter02_08,not_found
+glacier0174_iter02_09,not_found
+glacier0174_iter02_10,not_found
+glacier0174_iter03_01,not_found
+glacier0174_iter03_02,not_found
+glacier0174_iter03_03,not_found
+glacier0174_iter03_04,not_found
+glacier0174_iter03_05,not_found
+glacier0174_iter03_06,not_found
+glacier0174_iter03_07,not_found
+glacier0174_iter03_08,not_found
+glacier0174_iter03_09,not_found
+glacier0174_iter03_10,not_found
+glacier0177_iter01_01,   139973.6
+glacier0177_iter01_02,   138380.2
+glacier0177_iter01_03,   137767.0
+glacier0177_iter01_04,   137340.9
+glacier0177_iter01_05,   136652.1
+glacier0177_iter01_06,   135507.9
+glacier0177_iter01_07,   133837.8
+glacier0177_iter01_08,   132260.5
+glacier0177_iter01_09,   131501.1
+glacier0177_iter01_10,   130837.5
+glacier0177_iter02_01,not_found
+glacier0177_iter02_02,not_found
+glacier0177_iter02_03,not_found
+glacier0177_iter02_04,not_found
+glacier0177_iter02_05,not_found
+glacier0177_iter02_06,not_found
+glacier0177_iter02_07,not_found
+glacier0177_iter02_08,not_found
+glacier0177_iter02_09,not_found
+glacier0177_iter02_10,not_found
+glacier0177_iter03_01,not_found
+glacier0177_iter03_02,not_found
+glacier0177_iter03_03,not_found
+glacier0177_iter03_04,not_found
+glacier0177_iter03_05,not_found
+glacier0177_iter03_06,not_found
+glacier0177_iter03_07,not_found
+glacier0177_iter03_08,not_found
+glacier0177_iter03_09,not_found
+glacier0177_iter03_10,not_found
+glacier0181_iter01_01,   108167.8
+glacier0181_iter01_02,    89722.1
+glacier0181_iter01_03,    91148.4
+glacier0181_iter01_04,    57113.2
+glacier0181_iter01_05,   104224.3
+glacier0181_iter01_06,   148841.2
+glacier0181_iter01_07,   128996.1
+glacier0181_iter01_08,   130077.5
+glacier0181_iter01_09,   121796.8
+glacier0181_iter01_10,   159610.6
+glacier0181_iter02_01,   128578.6
+glacier0181_iter02_02,   129390.3
+glacier0181_iter02_03,   129316.3
+glacier0181_iter02_04,   130190.4
+glacier0181_iter02_05,   127570.1
+glacier0181_iter02_06,   126334.4
+glacier0181_iter02_07,   126983.7
+glacier0181_iter02_08,   124729.4
+glacier0181_iter02_09,   123004.0
+glacier0181_iter02_10,   122248.3
+glacier0181_iter03_01,   129309.8
+glacier0181_iter03_02,   129361.0
+glacier0181_iter03_03,   129003.0
+glacier0181_iter03_04,   129291.9
+glacier0181_iter03_05,   129254.0
+glacier0181_iter03_06,   128411.7
+glacier0181_iter03_07,   127899.5
+glacier0181_iter03_08,   127763.6
+glacier0181_iter03_09,   127742.3
+glacier0181_iter03_10,   128947.1
+glacier0183_iter01_01,    85529.3
+glacier0183_iter01_02,   147258.4
+glacier0183_iter01_03,   140873.8
+glacier0183_iter01_04,   140476.3
+glacier0183_iter01_05,    98573.3
+glacier0183_iter01_06,   124299.2
+glacier0183_iter01_07,   151556.4
+glacier0183_iter01_08,   106708.3
+glacier0183_iter01_09,   119628.3
+glacier0183_iter01_10,    79834.9
+glacier0183_iter02_01,   142615.6
+glacier0183_iter02_02,   141462.4
+glacier0183_iter02_03,   141255.8
+glacier0183_iter02_04,   141174.0
+glacier0183_iter02_05,   140898.7
+glacier0183_iter02_06,   140739.5
+glacier0183_iter02_07,   140725.0
+glacier0183_iter02_08,   140796.5
+glacier0183_iter02_09,   141014.8
+glacier0183_iter02_10,   140936.8
+glacier0183_iter03_01,not_found
+glacier0183_iter03_02,not_found
+glacier0183_iter03_03,not_found
+glacier0183_iter03_04,not_found
+glacier0183_iter03_05,not_found
+glacier0183_iter03_06,not_found
+glacier0183_iter03_07,not_found
+glacier0183_iter03_08,not_found
+glacier0183_iter03_09,not_found
+glacier0183_iter03_10,not_found
+glaciera184_iter01_01,not_found
+glaciera184_iter01_02,not_found
+glaciera184_iter01_03,not_found
+glaciera184_iter01_04,not_found
+glaciera184_iter01_05,not_found
+glaciera184_iter01_06,not_found
+glaciera184_iter01_07,not_found
+glaciera184_iter01_08,not_found
+glaciera184_iter01_09,not_found
+glaciera184_iter01_10,not_found
+glaciera184_iter02_01,not_found
+glaciera184_iter02_02,not_found
+glaciera184_iter02_03,not_found
+glaciera184_iter02_04,not_found
+glaciera184_iter02_05,not_found
+glaciera184_iter02_06,not_found
+glaciera184_iter02_07,not_found
+glaciera184_iter02_08,not_found
+glaciera184_iter02_09,not_found
+glaciera184_iter02_10,not_found
+glaciera184_iter03_01,not_found
+glaciera184_iter03_02,not_found
+glaciera184_iter03_03,not_found
+glaciera184_iter03_04,not_found
+glaciera184_iter03_05,not_found
+glaciera184_iter03_06,not_found
+glaciera184_iter03_07,not_found
+glaciera184_iter03_08,not_found
+glaciera184_iter03_09,not_found
+glaciera184_iter03_10,not_found
+glacierb184_iter01_01,not_found
+glacierb184_iter01_02,not_found
+glacierb184_iter01_03,not_found
+glacierb184_iter01_04,not_found
+glacierb184_iter01_05,not_found
+glacierb184_iter01_06,not_found
+glacierb184_iter01_07,not_found
+glacierb184_iter01_08,not_found
+glacierb184_iter01_09,not_found
+glacierb184_iter01_10,not_found
+glacierb184_iter02_01,not_found
+glacierb184_iter02_02,not_found
+glacierb184_iter02_03,not_found
+glacierb184_iter02_04,not_found
+glacierb184_iter02_05,not_found
+glacierb184_iter02_06,not_found
+glacierb184_iter02_07,not_found
+glacierb184_iter02_08,not_found
+glacierb184_iter02_09,not_found
+glacierb184_iter02_10,not_found
+glacierb184_iter03_01,not_found
+glacierb184_iter03_02,not_found
+glacierb184_iter03_03,not_found
+glacierb184_iter03_04,not_found
+glacierb184_iter03_05,not_found
+glacierb184_iter03_06,not_found
+glacierb184_iter03_07,not_found
+glacierb184_iter03_08,not_found
+glacierb184_iter03_09,not_found
+glacierb184_iter03_10,not_found
+glacierc184_iter01_01,not_found
+glacierc184_iter01_02,not_found
+glacierc184_iter01_03,not_found
+glacierc184_iter01_04,not_found
+glacierc184_iter01_05,not_found
+glacierc184_iter01_06,not_found
+glacierc184_iter01_07,not_found
+glacierc184_iter01_08,not_found
+glacierc184_iter01_09,not_found
+glacierc184_iter01_10,not_found
+glacierc184_iter02_01,not_found
+glacierc184_iter02_02,not_found
+glacierc184_iter02_03,not_found
+glacierc184_iter02_04,not_found
+glacierc184_iter02_05,not_found
+glacierc184_iter02_06,not_found
+glacierc184_iter02_07,not_found
+glacierc184_iter02_08,not_found
+glacierc184_iter02_09,not_found
+glacierc184_iter02_10,not_found
+glacierc184_iter03_01,not_found
+glacierc184_iter03_02,not_found
+glacierc184_iter03_03,not_found
+glacierc184_iter03_04,not_found
+glacierc184_iter03_05,not_found
+glacierc184_iter03_06,not_found
+glacierc184_iter03_07,not_found
+glacierc184_iter03_08,not_found
+glacierc184_iter03_09,not_found
+glacierc184_iter03_10,not_found
+glacierd184_iter01_01,not_found
+glacierd184_iter01_02,not_found
+glacierd184_iter01_03,not_found
+glacierd184_iter01_04,not_found
+glacierd184_iter01_05,not_found
+glacierd184_iter01_06,not_found
+glacierd184_iter01_07,not_found
+glacierd184_iter01_08,not_found
+glacierd184_iter01_09,not_found
+glacierd184_iter01_10,not_found
+glacierd184_iter02_01,not_found
+glacierd184_iter02_02,not_found
+glacierd184_iter02_03,not_found
+glacierd184_iter02_04,not_found
+glacierd184_iter02_05,not_found
+glacierd184_iter02_06,not_found
+glacierd184_iter02_07,not_found
+glacierd184_iter02_08,not_found
+glacierd184_iter02_09,not_found
+glacierd184_iter02_10,not_found
+glacierd184_iter03_01,not_found
+glacierd184_iter03_02,not_found
+glacierd184_iter03_03,not_found
+glacierd184_iter03_04,not_found
+glacierd184_iter03_05,not_found
+glacierd184_iter03_06,not_found
+glacierd184_iter03_07,not_found
+glacierd184_iter03_08,not_found
+glacierd184_iter03_09,not_found
+glacierd184_iter03_10,not_found
+glacier0198_iter01_01,   212693.6
+glacier0198_iter01_02,   211597.3
+glacier0198_iter01_03,   210424.5
+glacier0198_iter01_04,   209844.6
+glacier0198_iter01_05,   211567.5
+glacier0198_iter01_06,   213871.3
+glacier0198_iter01_07,   205908.4
+glacier0198_iter01_08,   198442.9
+glacier0198_iter01_09,   195099.8
+glacier0198_iter01_10,   192225.5
+glacier0198_iter02_01,not_found
+glacier0198_iter02_02,not_found
+glacier0198_iter02_03,not_found
+glacier0198_iter02_04,not_found
+glacier0198_iter02_05,not_found
+glacier0198_iter02_06,not_found
+glacier0198_iter02_07,not_found
+glacier0198_iter02_08,not_found
+glacier0198_iter02_09,not_found
+glacier0198_iter02_10,not_found
+glacier0198_iter03_01,not_found
+glacier0198_iter03_02,not_found
+glacier0198_iter03_03,not_found
+glacier0198_iter03_04,not_found
+glacier0198_iter03_05,not_found
+glacier0198_iter03_06,not_found
+glacier0198_iter03_07,not_found
+glacier0198_iter03_08,not_found
+glacier0198_iter03_09,not_found
+glacier0198_iter03_10,not_found
+glaciera199_iter01_01,   488789.9
+glaciera199_iter01_02,   482488.6
+glaciera199_iter01_03,   475751.6
+glaciera199_iter01_04,   468448.4
+glaciera199_iter01_05,   460085.0
+glaciera199_iter01_06,   452281.0
+glaciera199_iter01_07,   446077.6
+glaciera199_iter01_08,   439121.0
+glaciera199_iter01_09,   241432.4
+glaciera199_iter01_10,   434753.9
+glaciera199_iter02_01,   457400.2
+glaciera199_iter02_02,   456179.3
+glaciera199_iter02_03,   454693.4
+glaciera199_iter02_04,   453016.1
+glaciera199_iter02_05,   452890.2
+glaciera199_iter02_06,   451411.2
+glaciera199_iter02_07,   449972.1
+glaciera199_iter02_08,   448422.4
+glaciera199_iter02_09,   447094.9
+glaciera199_iter02_10,   450138.0
+glaciera199_iter03_01,not_found
+glaciera199_iter03_02,not_found
+glaciera199_iter03_03,not_found
+glaciera199_iter03_04,not_found
+glaciera199_iter03_05,not_found
+glaciera199_iter03_06,not_found
+glaciera199_iter03_07,not_found
+glaciera199_iter03_08,not_found
+glaciera199_iter03_09,not_found
+glaciera199_iter03_10,not_found
+glacierb199_iter01_01,   232359.6
+glacierb199_iter01_02,   231607.3
+glacierb199_iter01_03,   233130.2
+glacierb199_iter01_04,   232130.4
+glacierb199_iter01_05,   232326.1
+glacierb199_iter01_06,   233028.7
+glacierb199_iter01_07,   233557.5
+glacierb199_iter01_08,   233955.3
+glacierb199_iter01_09,   233966.6
+glacierb199_iter01_10,   234055.1
+glacierb199_iter02_01,not_found
+glacierb199_iter02_02,not_found
+glacierb199_iter02_03,not_found
+glacierb199_iter02_04,not_found
+glacierb199_iter02_05,not_found
+glacierb199_iter02_06,not_found
+glacierb199_iter02_07,not_found
+glacierb199_iter02_08,not_found
+glacierb199_iter02_09,not_found
+glacierb199_iter02_10,not_found
+glacierb199_iter03_01,not_found
+glacierb199_iter03_02,not_found
+glacierb199_iter03_03,not_found
+glacierb199_iter03_04,not_found
+glacierb199_iter03_05,not_found
+glacierb199_iter03_06,not_found
+glacierb199_iter03_07,not_found
+glacierb199_iter03_08,not_found
+glacierb199_iter03_09,not_found
+glacierb199_iter03_10,not_found
+glacier0202_iter01_01,not_found
+glacier0202_iter01_02,not_found
+glacier0202_iter01_03,not_found
+glacier0202_iter01_04,not_found
+glacier0202_iter01_05,not_found
+glacier0202_iter01_06,not_found
+glacier0202_iter01_07,not_found
+glacier0202_iter01_08,not_found
+glacier0202_iter01_09,not_found
+glacier0202_iter01_10,not_found
+glacier0202_iter02_01,not_found
+glacier0202_iter02_02,not_found
+glacier0202_iter02_03,not_found
+glacier0202_iter02_04,not_found
+glacier0202_iter02_05,not_found
+glacier0202_iter02_06,not_found
+glacier0202_iter02_07,not_found
+glacier0202_iter02_08,not_found
+glacier0202_iter02_09,not_found
+glacier0202_iter02_10,not_found
+glacier0202_iter03_01,not_found
+glacier0202_iter03_02,not_found
+glacier0202_iter03_03,not_found
+glacier0202_iter03_04,not_found
+glacier0202_iter03_05,not_found
+glacier0202_iter03_06,not_found
+glacier0202_iter03_07,not_found
+glacier0202_iter03_08,not_found
+glacier0202_iter03_09,not_found
+glacier0202_iter03_10,not_found
+glacier0207_iter01_01,not_found
+glacier0207_iter01_02,not_found
+glacier0207_iter01_03,not_found
+glacier0207_iter01_04,not_found
+glacier0207_iter01_05,not_found
+glacier0207_iter01_06,not_found
+glacier0207_iter01_07,not_found
+glacier0207_iter01_08,not_found
+glacier0207_iter01_09,not_found
+glacier0207_iter01_10,not_found
+glacier0207_iter02_01,not_found
+glacier0207_iter02_02,not_found
+glacier0207_iter02_03,not_found
+glacier0207_iter02_04,not_found
+glacier0207_iter02_05,not_found
+glacier0207_iter02_06,not_found
+glacier0207_iter02_07,not_found
+glacier0207_iter02_08,not_found
+glacier0207_iter02_09,not_found
+glacier0207_iter02_10,not_found
+glacier0207_iter03_01,not_found
+glacier0207_iter03_02,not_found
+glacier0207_iter03_03,not_found
+glacier0207_iter03_04,not_found
+glacier0207_iter03_05,not_found
+glacier0207_iter03_06,not_found
+glacier0207_iter03_07,not_found
+glacier0207_iter03_08,not_found
+glacier0207_iter03_09,not_found
+glacier0207_iter03_10,not_found
+glacier0208_iter01_01,    63883.5
+glacier0208_iter01_02,    64614.7
+glacier0208_iter01_03,    65861.3
+glacier0208_iter01_04,    58110.2
+glacier0208_iter01_05,    58016.9
+glacier0208_iter01_06,    57049.1
+glacier0208_iter01_07,    59812.9
+glacier0208_iter01_08,    65137.2
+glacier0208_iter01_09,    68221.1
+glacier0208_iter01_10,    75096.8
+glacier0208_iter02_01,    57914.5
+glacier0208_iter02_02,    56287.0
+glacier0208_iter02_03,    56254.4
+glacier0208_iter02_04,    56584.4
+glacier0208_iter02_05,    56587.8
+glacier0208_iter02_06,    57093.1
+glacier0208_iter02_07,    57437.9
+glacier0208_iter02_08,    57434.5
+glacier0208_iter02_09,    58896.6
+glacier0208_iter02_10,    60063.7
+glacier0208_iter03_01,    56683.1
+glacier0208_iter03_02,    56785.5
+glacier0208_iter03_03,    57137.8
+glacier0208_iter03_04,    56843.4
+glacier0208_iter03_05,    57191.3
+glacier0208_iter03_06,    57219.6
+glacier0208_iter03_07,    57049.9
+glacier0208_iter03_08,    57132.0
+glacier0208_iter03_09,    57212.4
+glacier0208_iter03_10,    57236.3
+glacier0212_iter01_01,   182657.0
+glacier0212_iter01_02,   182485.8
+glacier0212_iter01_03,   183650.3
+glacier0212_iter01_04,   188860.2
+glacier0212_iter01_05,   192352.9
+glacier0212_iter01_06,   192665.8
+glacier0212_iter01_07,   195145.3
+glacier0212_iter01_08,    42034.4
+glacier0212_iter01_09,   196165.0
+glacier0212_iter01_10,   197188.6
+glacier0212_iter02_01,not_found
+glacier0212_iter02_02,not_found
+glacier0212_iter02_03,not_found
+glacier0212_iter02_04,not_found
+glacier0212_iter02_05,not_found
+glacier0212_iter02_06,not_found
+glacier0212_iter02_07,not_found
+glacier0212_iter02_08,not_found
+glacier0212_iter02_09,not_found
+glacier0212_iter02_10,not_found
+glacier0212_iter03_01,not_found
+glacier0212_iter03_02,not_found
+glacier0212_iter03_03,not_found
+glacier0212_iter03_04,not_found
+glacier0212_iter03_05,not_found
+glacier0212_iter03_06,not_found
+glacier0212_iter03_07,not_found
+glacier0212_iter03_08,not_found
+glacier0212_iter03_09,not_found
+glacier0212_iter03_10,not_found
+glacier0213_iter01_01,   145003.5
+glacier0213_iter01_02,   144983.5
+glacier0213_iter01_03,   145056.5
+glacier0213_iter01_04,   145368.9
+glacier0213_iter01_05,   145809.4
+glacier0213_iter01_06,   145789.8
+glacier0213_iter01_07,   146471.0
+glacier0213_iter01_08,   145811.5
+glacier0213_iter01_09,   144612.8
+glacier0213_iter01_10,   144355.7
+glacier0213_iter02_01,not_found
+glacier0213_iter02_02,not_found
+glacier0213_iter02_03,not_found
+glacier0213_iter02_04,not_found
+glacier0213_iter02_05,not_found
+glacier0213_iter02_06,not_found
+glacier0213_iter02_07,not_found
+glacier0213_iter02_08,not_found
+glacier0213_iter02_09,not_found
+glacier0213_iter02_10,not_found
+glacier0213_iter03_01,not_found
+glacier0213_iter03_02,not_found
+glacier0213_iter03_03,not_found
+glacier0213_iter03_04,not_found
+glacier0213_iter03_05,not_found
+glacier0213_iter03_06,not_found
+glacier0213_iter03_07,not_found
+glacier0213_iter03_08,not_found
+glacier0213_iter03_09,not_found
+glacier0213_iter03_10,not_found
+glaciera216_iter01_01,not_found
+glaciera216_iter01_02,not_found
+glaciera216_iter01_03,not_found
+glaciera216_iter01_04,not_found
+glaciera216_iter01_05,not_found
+glaciera216_iter01_06,not_found
+glaciera216_iter01_07,not_found
+glaciera216_iter01_08,not_found
+glaciera216_iter01_09,not_found
+glaciera216_iter01_10,not_found
+glaciera216_iter02_01,not_found
+glaciera216_iter02_02,not_found
+glaciera216_iter02_03,not_found
+glaciera216_iter02_04,not_found
+glaciera216_iter02_05,not_found
+glaciera216_iter02_06,not_found
+glaciera216_iter02_07,not_found
+glaciera216_iter02_08,not_found
+glaciera216_iter02_09,not_found
+glaciera216_iter02_10,not_found
+glaciera216_iter03_01,not_found
+glaciera216_iter03_02,not_found
+glaciera216_iter03_03,not_found
+glaciera216_iter03_04,not_found
+glaciera216_iter03_05,not_found
+glaciera216_iter03_06,not_found
+glaciera216_iter03_07,not_found
+glaciera216_iter03_08,not_found
+glaciera216_iter03_09,not_found
+glaciera216_iter03_10,not_found
+glacierb216_iter01_01,   144738.8
+glacierb216_iter01_02,   146508.7
+glacierb216_iter01_03,   146664.2
+glacierb216_iter01_04,   146210.6
+glacierb216_iter01_05,   146029.3
+glacierb216_iter01_06,   145692.9
+glacierb216_iter01_07,   145749.3
+glacierb216_iter01_08,   146385.6
+glacierb216_iter01_09,   146154.1
+glacierb216_iter01_10,   146553.3
+glacierb216_iter02_01,not_found
+glacierb216_iter02_02,not_found
+glacierb216_iter02_03,not_found
+glacierb216_iter02_04,not_found
+glacierb216_iter02_05,not_found
+glacierb216_iter02_06,not_found
+glacierb216_iter02_07,not_found
+glacierb216_iter02_08,not_found
+glacierb216_iter02_09,not_found
+glacierb216_iter02_10,not_found
+glacierb216_iter03_01,not_found
+glacierb216_iter03_02,not_found
+glacierb216_iter03_03,not_found
+glacierb216_iter03_04,not_found
+glacierb216_iter03_05,not_found
+glacierb216_iter03_06,not_found
+glacierb216_iter03_07,not_found
+glacierb216_iter03_08,not_found
+glacierb216_iter03_09,not_found
+glacierb216_iter03_10,not_found
+glacierc216_iter01_01,   141050.1
+glacierc216_iter01_02,   141226.5
+glacierc216_iter01_03,   141827.3
+glacierc216_iter01_04,   141842.7
+glacierc216_iter01_05,   141834.3
+glacierc216_iter01_06,   142006.3
+glacierc216_iter01_07,   142301.1
+glacierc216_iter01_08,   142271.5
+glacierc216_iter01_09,   142277.3
+glacierc216_iter01_10,   142583.8
+glacierc216_iter02_01,not_found
+glacierc216_iter02_02,not_found
+glacierc216_iter02_03,not_found
+glacierc216_iter02_04,not_found
+glacierc216_iter02_05,not_found
+glacierc216_iter02_06,not_found
+glacierc216_iter02_07,not_found
+glacierc216_iter02_08,not_found
+glacierc216_iter02_09,not_found
+glacierc216_iter02_10,not_found
+glacierc216_iter03_01,not_found
+glacierc216_iter03_02,not_found
+glacierc216_iter03_03,not_found
+glacierc216_iter03_04,not_found
+glacierc216_iter03_05,not_found
+glacierc216_iter03_06,not_found
+glacierc216_iter03_07,not_found
+glacierc216_iter03_08,not_found
+glacierc216_iter03_09,not_found
+glacierc216_iter03_10,not_found
+glacierd216_iter01_01,not_found
+glacierd216_iter01_02,not_found
+glacierd216_iter01_03,not_found
+glacierd216_iter01_04,not_found
+glacierd216_iter01_05,not_found
+glacierd216_iter01_06,not_found
+glacierd216_iter01_07,not_found
+glacierd216_iter01_08,not_found
+glacierd216_iter01_09,not_found
+glacierd216_iter01_10,not_found
+glacierd216_iter02_01,not_found
+glacierd216_iter02_02,not_found
+glacierd216_iter02_03,not_found
+glacierd216_iter02_04,not_found
+glacierd216_iter02_05,not_found
+glacierd216_iter02_06,not_found
+glacierd216_iter02_07,not_found
+glacierd216_iter02_08,not_found
+glacierd216_iter02_09,not_found
+glacierd216_iter02_10,not_found
+glacierd216_iter03_01,not_found
+glacierd216_iter03_02,not_found
+glacierd216_iter03_03,not_found
+glacierd216_iter03_04,not_found
+glacierd216_iter03_05,not_found
+glacierd216_iter03_06,not_found
+glacierd216_iter03_07,not_found
+glacierd216_iter03_08,not_found
+glacierd216_iter03_09,not_found
+glacierd216_iter03_10,not_found
+glacier0217_iter01_01,   154698.3
+glacier0217_iter01_02,   153942.2
+glacier0217_iter01_03,   153699.7
+glacier0217_iter01_04,   152238.1
+glacier0217_iter01_05,   151193.7
+glacier0217_iter01_06,   151462.5
+glacier0217_iter01_07,   151597.7
+glacier0217_iter01_08,   151049.6
+glacier0217_iter01_09,   151075.3
+glacier0217_iter01_10,   150960.1
+glacier0217_iter02_01,not_found
+glacier0217_iter02_02,not_found
+glacier0217_iter02_03,not_found
+glacier0217_iter02_04,not_found
+glacier0217_iter02_05,not_found
+glacier0217_iter02_06,not_found
+glacier0217_iter02_07,not_found
+glacier0217_iter02_08,not_found
+glacier0217_iter02_09,not_found
+glacier0217_iter02_10,not_found
+glacier0217_iter03_01,not_found
+glacier0217_iter03_02,not_found
+glacier0217_iter03_03,not_found
+glacier0217_iter03_04,not_found
+glacier0217_iter03_05,not_found
+glacier0217_iter03_06,not_found
+glacier0217_iter03_07,not_found
+glacier0217_iter03_08,not_found
+glacier0217_iter03_09,not_found
+glacier0217_iter03_10,not_found
+glacier0219_iter01_01,   150401.1
+glacier0219_iter01_02,   151224.1
+glacier0219_iter01_03,   152393.5
+glacier0219_iter01_04,   154951.3
+glacier0219_iter01_05,   156875.1
+glacier0219_iter01_06,   160339.1
+glacier0219_iter01_07,   163745.8
+glacier0219_iter01_08,   157758.6
+glacier0219_iter01_09,   160243.4
+glacier0219_iter01_10,   161735.4
+glacier0219_iter02_01,not_found
+glacier0219_iter02_02,not_found
+glacier0219_iter02_03,not_found
+glacier0219_iter02_04,not_found
+glacier0219_iter02_05,not_found
+glacier0219_iter02_06,not_found
+glacier0219_iter02_07,not_found
+glacier0219_iter02_08,not_found
+glacier0219_iter02_09,not_found
+glacier0219_iter02_10,not_found
+glacier0219_iter03_01,not_found
+glacier0219_iter03_02,not_found
+glacier0219_iter03_03,not_found
+glacier0219_iter03_04,not_found
+glacier0219_iter03_05,not_found
+glacier0219_iter03_06,not_found
+glacier0219_iter03_07,not_found
+glacier0219_iter03_08,not_found
+glacier0219_iter03_09,not_found
+glacier0219_iter03_10,not_found
+glaciera220_iter01_01,   129670.6
+glaciera220_iter01_02,   129729.3
+glaciera220_iter01_03,   129787.4
+glaciera220_iter01_04,   129819.2
+glaciera220_iter01_05,   129886.8
+glaciera220_iter01_06,   130309.6
+glaciera220_iter01_07,   131281.7
+glaciera220_iter01_08,   130267.4
+glaciera220_iter01_09,   130280.2
+glaciera220_iter01_10,   130098.3
+glaciera220_iter02_01,not_found
+glaciera220_iter02_02,not_found
+glaciera220_iter02_03,not_found
+glaciera220_iter02_04,not_found
+glaciera220_iter02_05,not_found
+glaciera220_iter02_06,not_found
+glaciera220_iter02_07,not_found
+glaciera220_iter02_08,not_found
+glaciera220_iter02_09,not_found
+glaciera220_iter02_10,not_found
+glaciera220_iter03_01,not_found
+glaciera220_iter03_02,not_found
+glaciera220_iter03_03,not_found
+glaciera220_iter03_04,not_found
+glaciera220_iter03_05,not_found
+glaciera220_iter03_06,not_found
+glaciera220_iter03_07,not_found
+glaciera220_iter03_08,not_found
+glaciera220_iter03_09,not_found
+glaciera220_iter03_10,not_found
+glacierb220_iter01_01,not_found
+glacierb220_iter01_02,not_found
+glacierb220_iter01_03,not_found
+glacierb220_iter01_04,not_found
+glacierb220_iter01_05,not_found
+glacierb220_iter01_06,not_found
+glacierb220_iter01_07,not_found
+glacierb220_iter01_08,not_found
+glacierb220_iter01_09,not_found
+glacierb220_iter01_10,not_found
+glacierb220_iter02_01,not_found
+glacierb220_iter02_02,not_found
+glacierb220_iter02_03,not_found
+glacierb220_iter02_04,not_found
+glacierb220_iter02_05,not_found
+glacierb220_iter02_06,not_found
+glacierb220_iter02_07,not_found
+glacierb220_iter02_08,not_found
+glacierb220_iter02_09,not_found
+glacierb220_iter02_10,not_found
+glacierb220_iter03_01,not_found
+glacierb220_iter03_02,not_found
+glacierb220_iter03_03,not_found
+glacierb220_iter03_04,not_found
+glacierb220_iter03_05,not_found
+glacierb220_iter03_06,not_found
+glacierb220_iter03_07,not_found
+glacierb220_iter03_08,not_found
+glacierb220_iter03_09,not_found
+glacierb220_iter03_10,not_found
+glacierc220_iter01_01,   133746.5
+glacierc220_iter01_02,   133604.0
+glacierc220_iter01_03,   133680.9
+glacierc220_iter01_04,   133995.9
+glacierc220_iter01_05,   134201.9
+glacierc220_iter01_06,   134046.6
+glacierc220_iter01_07,   134658.6
+glacierc220_iter01_08,   134579.0
+glacierc220_iter01_09,   134422.5
+glacierc220_iter01_10,   134544.8
+glacierc220_iter02_01,not_found
+glacierc220_iter02_02,not_found
+glacierc220_iter02_03,not_found
+glacierc220_iter02_04,not_found
+glacierc220_iter02_05,not_found
+glacierc220_iter02_06,not_found
+glacierc220_iter02_07,not_found
+glacierc220_iter02_08,not_found
+glacierc220_iter02_09,not_found
+glacierc220_iter02_10,not_found
+glacierc220_iter03_01,not_found
+glacierc220_iter03_02,not_found
+glacierc220_iter03_03,not_found
+glacierc220_iter03_04,not_found
+glacierc220_iter03_05,not_found
+glacierc220_iter03_06,not_found
+glacierc220_iter03_07,not_found
+glacierc220_iter03_08,not_found
+glacierc220_iter03_09,not_found
+glacierc220_iter03_10,not_found
+glaciera221_iter01_01,   169700.7
+glaciera221_iter01_02,   168376.1
+glaciera221_iter01_03,   165969.7
+glaciera221_iter01_04,   163323.0
+glaciera221_iter01_05,    40513.4
+glaciera221_iter01_06,   153517.8
+glaciera221_iter01_07,   152671.9
+glaciera221_iter01_08,   151586.0
+glaciera221_iter01_09,   149453.4
+glaciera221_iter01_10,   146909.3
+glaciera221_iter02_01,not_found
+glaciera221_iter02_02,not_found
+glaciera221_iter02_03,not_found
+glaciera221_iter02_04,not_found
+glaciera221_iter02_05,not_found
+glaciera221_iter02_06,not_found
+glaciera221_iter02_07,not_found
+glaciera221_iter02_08,not_found
+glaciera221_iter02_09,not_found
+glaciera221_iter02_10,not_found
+glaciera221_iter03_01,not_found
+glaciera221_iter03_02,not_found
+glaciera221_iter03_03,not_found
+glaciera221_iter03_04,not_found
+glaciera221_iter03_05,not_found
+glaciera221_iter03_06,not_found
+glaciera221_iter03_07,not_found
+glaciera221_iter03_08,not_found
+glaciera221_iter03_09,not_found
+glaciera221_iter03_10,not_found
+glacierb221_iter01_01,not_found
+glacierb221_iter01_02,not_found
+glacierb221_iter01_03,not_found
+glacierb221_iter01_04,not_found
+glacierb221_iter01_05,not_found
+glacierb221_iter01_06,not_found
+glacierb221_iter01_07,not_found
+glacierb221_iter01_08,not_found
+glacierb221_iter01_09,not_found
+glacierb221_iter01_10,not_found
+glacierb221_iter02_01,not_found
+glacierb221_iter02_02,not_found
+glacierb221_iter02_03,not_found
+glacierb221_iter02_04,not_found
+glacierb221_iter02_05,not_found
+glacierb221_iter02_06,not_found
+glacierb221_iter02_07,not_found
+glacierb221_iter02_08,not_found
+glacierb221_iter02_09,not_found
+glacierb221_iter02_10,not_found
+glacierb221_iter03_01,not_found
+glacierb221_iter03_02,not_found
+glacierb221_iter03_03,not_found
+glacierb221_iter03_04,not_found
+glacierb221_iter03_05,not_found
+glacierb221_iter03_06,not_found
+glacierb221_iter03_07,not_found
+glacierb221_iter03_08,not_found
+glacierb221_iter03_09,not_found
+glacierb221_iter03_10,not_found
+glaciera222_iter01_01,not_found
+glaciera222_iter01_02,not_found
+glaciera222_iter01_03,not_found
+glaciera222_iter01_04,not_found
+glaciera222_iter01_05,not_found
+glaciera222_iter01_06,not_found
+glaciera222_iter01_07,not_found
+glaciera222_iter01_08,not_found
+glaciera222_iter01_09,not_found
+glaciera222_iter01_10,not_found
+glaciera222_iter02_01,not_found
+glaciera222_iter02_02,not_found
+glaciera222_iter02_03,not_found
+glaciera222_iter02_04,not_found
+glaciera222_iter02_05,not_found
+glaciera222_iter02_06,not_found
+glaciera222_iter02_07,not_found
+glaciera222_iter02_08,not_found
+glaciera222_iter02_09,not_found
+glaciera222_iter02_10,not_found
+glaciera222_iter03_01,not_found
+glaciera222_iter03_02,not_found
+glaciera222_iter03_03,not_found
+glaciera222_iter03_04,not_found
+glaciera222_iter03_05,not_found
+glaciera222_iter03_06,not_found
+glaciera222_iter03_07,not_found
+glaciera222_iter03_08,not_found
+glaciera222_iter03_09,not_found
+glaciera222_iter03_10,not_found
+glacierb222_iter01_01,not_found
+glacierb222_iter01_02,not_found
+glacierb222_iter01_03,not_found
+glacierb222_iter01_04,not_found
+glacierb222_iter01_05,not_found
+glacierb222_iter01_06,not_found
+glacierb222_iter01_07,not_found
+glacierb222_iter01_08,not_found
+glacierb222_iter01_09,not_found
+glacierb222_iter01_10,not_found
+glacierb222_iter02_01,not_found
+glacierb222_iter02_02,not_found
+glacierb222_iter02_03,not_found
+glacierb222_iter02_04,not_found
+glacierb222_iter02_05,not_found
+glacierb222_iter02_06,not_found
+glacierb222_iter02_07,not_found
+glacierb222_iter02_08,not_found
+glacierb222_iter02_09,not_found
+glacierb222_iter02_10,not_found
+glacierb222_iter03_01,not_found
+glacierb222_iter03_02,not_found
+glacierb222_iter03_03,not_found
+glacierb222_iter03_04,not_found
+glacierb222_iter03_05,not_found
+glacierb222_iter03_06,not_found
+glacierb222_iter03_07,not_found
+glacierb222_iter03_08,not_found
+glacierb222_iter03_09,not_found
+glacierb222_iter03_10,not_found
+glacierc222_iter01_01,not_found
+glacierc222_iter01_02,not_found
+glacierc222_iter01_03,not_found
+glacierc222_iter01_04,not_found
+glacierc222_iter01_05,not_found
+glacierc222_iter01_06,not_found
+glacierc222_iter01_07,not_found
+glacierc222_iter01_08,not_found
+glacierc222_iter01_09,not_found
+glacierc222_iter01_10,not_found
+glacierc222_iter02_01,not_found
+glacierc222_iter02_02,not_found
+glacierc222_iter02_03,not_found
+glacierc222_iter02_04,not_found
+glacierc222_iter02_05,not_found
+glacierc222_iter02_06,not_found
+glacierc222_iter02_07,not_found
+glacierc222_iter02_08,not_found
+glacierc222_iter02_09,not_found
+glacierc222_iter02_10,not_found
+glacierc222_iter03_01,not_found
+glacierc222_iter03_02,not_found
+glacierc222_iter03_03,not_found
+glacierc222_iter03_04,not_found
+glacierc222_iter03_05,not_found
+glacierc222_iter03_06,not_found
+glacierc222_iter03_07,not_found
+glacierc222_iter03_08,not_found
+glacierc222_iter03_09,not_found
+glacierc222_iter03_10,not_found
+glaciera223_iter01_01,   123926.1
+glaciera223_iter01_02,   123812.4
+glaciera223_iter01_03,   124116.7
+glaciera223_iter01_04,   124411.5
+glaciera223_iter01_05,   138544.0
+glaciera223_iter01_06,   122033.5
+glaciera223_iter01_07,   121619.6
+glaciera223_iter01_08,   121617.1
+glaciera223_iter01_09,   121227.4
+glaciera223_iter01_10,   121344.1
+glaciera223_iter02_01,not_found
+glaciera223_iter02_02,not_found
+glaciera223_iter02_03,not_found
+glaciera223_iter02_04,not_found
+glaciera223_iter02_05,not_found
+glaciera223_iter02_06,not_found
+glaciera223_iter02_07,not_found
+glaciera223_iter02_08,not_found
+glaciera223_iter02_09,not_found
+glaciera223_iter02_10,not_found
+glaciera223_iter03_01,not_found
+glaciera223_iter03_02,not_found
+glaciera223_iter03_03,not_found
+glaciera223_iter03_04,not_found
+glaciera223_iter03_05,not_found
+glaciera223_iter03_06,not_found
+glaciera223_iter03_07,not_found
+glaciera223_iter03_08,not_found
+glaciera223_iter03_09,not_found
+glaciera223_iter03_10,not_found
+glacierb223_iter01_01,not_found
+glacierb223_iter01_02,not_found
+glacierb223_iter01_03,not_found
+glacierb223_iter01_04,not_found
+glacierb223_iter01_05,not_found
+glacierb223_iter01_06,not_found
+glacierb223_iter01_07,not_found
+glacierb223_iter01_08,not_found
+glacierb223_iter01_09,not_found
+glacierb223_iter01_10,not_found
+glacierb223_iter02_01,not_found
+glacierb223_iter02_02,not_found
+glacierb223_iter02_03,not_found
+glacierb223_iter02_04,not_found
+glacierb223_iter02_05,not_found
+glacierb223_iter02_06,not_found
+glacierb223_iter02_07,not_found
+glacierb223_iter02_08,not_found
+glacierb223_iter02_09,not_found
+glacierb223_iter02_10,not_found
+glacierb223_iter03_01,not_found
+glacierb223_iter03_02,not_found
+glacierb223_iter03_03,not_found
+glacierb223_iter03_04,not_found
+glacierb223_iter03_05,not_found
+glacierb223_iter03_06,not_found
+glacierb223_iter03_07,not_found
+glacierb223_iter03_08,not_found
+glacierb223_iter03_09,not_found
+glacierb223_iter03_10,not_found
+glacier0224_iter01_01,   155641.4
+glacier0224_iter01_02,   108620.2
+glacier0224_iter01_03,   151464.0
+glacier0224_iter01_04,   152397.9
+glacier0224_iter01_05,   145651.4
+glacier0224_iter01_06,   151557.2
+glacier0224_iter01_07,   151797.9
+glacier0224_iter01_08,   149511.2
+glacier0224_iter01_09,   151636.6
+glacier0224_iter01_10,   148788.0
+glacier0224_iter02_01,not_found
+glacier0224_iter02_02,not_found
+glacier0224_iter02_03,not_found
+glacier0224_iter02_04,not_found
+glacier0224_iter02_05,not_found
+glacier0224_iter02_06,not_found
+glacier0224_iter02_07,not_found
+glacier0224_iter02_08,not_found
+glacier0224_iter02_09,not_found
+glacier0224_iter02_10,not_found
+glacier0224_iter03_01,not_found
+glacier0224_iter03_02,not_found
+glacier0224_iter03_03,not_found
+glacier0224_iter03_04,not_found
+glacier0224_iter03_05,not_found
+glacier0224_iter03_06,not_found
+glacier0224_iter03_07,not_found
+glacier0224_iter03_08,not_found
+glacier0224_iter03_09,not_found
+glacier0224_iter03_10,not_found
+glaciera226_iter01_01,   116000.9
+glaciera226_iter01_02,    39191.5
+glaciera226_iter01_03,   115367.0
+glaciera226_iter01_04,   114960.8
+glaciera226_iter01_05,   115699.6
+glaciera226_iter01_06,   115795.1
+glaciera226_iter01_07,   116204.0
+glaciera226_iter01_08,    39775.3
+glaciera226_iter01_09,    39800.3
+glaciera226_iter01_10,   117584.4
+glaciera226_iter02_01,not_found
+glaciera226_iter02_02,not_found
+glaciera226_iter02_03,not_found
+glaciera226_iter02_04,not_found
+glaciera226_iter02_05,not_found
+glaciera226_iter02_06,not_found
+glaciera226_iter02_07,not_found
+glaciera226_iter02_08,not_found
+glaciera226_iter02_09,not_found
+glaciera226_iter02_10,not_found
+glaciera226_iter03_01,not_found
+glaciera226_iter03_02,not_found
+glaciera226_iter03_03,not_found
+glaciera226_iter03_04,not_found
+glaciera226_iter03_05,not_found
+glaciera226_iter03_06,not_found
+glaciera226_iter03_07,not_found
+glaciera226_iter03_08,not_found
+glaciera226_iter03_09,not_found
+glaciera226_iter03_10,not_found
+glacierb226_iter01_01,not_found
+glacierb226_iter01_02,not_found
+glacierb226_iter01_03,not_found
+glacierb226_iter01_04,not_found
+glacierb226_iter01_05,not_found
+glacierb226_iter01_06,not_found
+glacierb226_iter01_07,not_found
+glacierb226_iter01_08,not_found
+glacierb226_iter01_09,not_found
+glacierb226_iter01_10,not_found
+glacierb226_iter02_01,not_found
+glacierb226_iter02_02,not_found
+glacierb226_iter02_03,not_found
+glacierb226_iter02_04,not_found
+glacierb226_iter02_05,not_found
+glacierb226_iter02_06,not_found
+glacierb226_iter02_07,not_found
+glacierb226_iter02_08,not_found
+glacierb226_iter02_09,not_found
+glacierb226_iter02_10,not_found
+glacierb226_iter03_01,not_found
+glacierb226_iter03_02,not_found
+glacierb226_iter03_03,not_found
+glacierb226_iter03_04,not_found
+glacierb226_iter03_05,not_found
+glacierb226_iter03_06,not_found
+glacierb226_iter03_07,not_found
+glacierb226_iter03_08,not_found
+glacierb226_iter03_09,not_found
+glacierb226_iter03_10,not_found
+glacierc226_iter01_01,   122606.6
+glacierc226_iter01_02,   122942.4
+glacierc226_iter01_03,   125454.1
+glacierc226_iter01_04,   124147.8
+glacierc226_iter01_05,   123017.3
+glacierc226_iter01_06,   123128.5
+glacierc226_iter01_07,   122723.8
+glacierc226_iter01_08,   122734.5
+glacierc226_iter01_09,   122333.8
+glacierc226_iter01_10,   121437.0
+glacierc226_iter02_01,not_found
+glacierc226_iter02_02,not_found
+glacierc226_iter02_03,not_found
+glacierc226_iter02_04,not_found
+glacierc226_iter02_05,not_found
+glacierc226_iter02_06,not_found
+glacierc226_iter02_07,not_found
+glacierc226_iter02_08,not_found
+glacierc226_iter02_09,not_found
+glacierc226_iter02_10,not_found
+glacierc226_iter03_01,not_found
+glacierc226_iter03_02,not_found
+glacierc226_iter03_03,not_found
+glacierc226_iter03_04,not_found
+glacierc226_iter03_05,not_found
+glacierc226_iter03_06,not_found
+glacierc226_iter03_07,not_found
+glacierc226_iter03_08,not_found
+glacierc226_iter03_09,not_found
+glacierc226_iter03_10,not_found
+glacier0228_iter01_01,   160453.7
+glacier0228_iter01_02,   160602.1
+glacier0228_iter01_03,   160743.5
+glacier0228_iter01_04,   159715.5
+glacier0228_iter01_05,   158001.7
+glacier0228_iter01_06,   157977.8
+glacier0228_iter01_07,   157087.0
+glacier0228_iter01_08,   155737.7
+glacier0228_iter01_09,   156638.5
+glacier0228_iter01_10,   156635.7
+glacier0228_iter02_01,not_found
+glacier0228_iter02_02,not_found
+glacier0228_iter02_03,not_found
+glacier0228_iter02_04,not_found
+glacier0228_iter02_05,not_found
+glacier0228_iter02_06,not_found
+glacier0228_iter02_07,not_found
+glacier0228_iter02_08,not_found
+glacier0228_iter02_09,not_found
+glacier0228_iter02_10,not_found
+glacier0228_iter03_01,not_found
+glacier0228_iter03_02,not_found
+glacier0228_iter03_03,not_found
+glacier0228_iter03_04,not_found
+glacier0228_iter03_05,not_found
+glacier0228_iter03_06,not_found
+glacier0228_iter03_07,not_found
+glacier0228_iter03_08,not_found
+glacier0228_iter03_09,not_found
+glacier0228_iter03_10,not_found
+glacier0229_iter01_01,    28170.3
+glacier0229_iter01_02,    28833.7
+glacier0229_iter01_03,    31293.1
+glacier0229_iter01_04,    32294.9
+glacier0229_iter01_05,    36109.0
+glacier0229_iter01_06,    55868.6
+glacier0229_iter01_07,    54813.7
+glacier0229_iter01_08,    55674.3
+glacier0229_iter01_09,   164907.9
+glacier0229_iter01_10,   164769.1
+glacier0229_iter02_01,not_found
+glacier0229_iter02_02,not_found
+glacier0229_iter02_03,not_found
+glacier0229_iter02_04,not_found
+glacier0229_iter02_05,not_found
+glacier0229_iter02_06,not_found
+glacier0229_iter02_07,not_found
+glacier0229_iter02_08,not_found
+glacier0229_iter02_09,not_found
+glacier0229_iter02_10,not_found
+glacier0229_iter03_01,not_found
+glacier0229_iter03_02,not_found
+glacier0229_iter03_03,not_found
+glacier0229_iter03_04,not_found
+glacier0229_iter03_05,not_found
+glacier0229_iter03_06,not_found
+glacier0229_iter03_07,not_found
+glacier0229_iter03_08,not_found
+glacier0229_iter03_09,not_found
+glacier0229_iter03_10,not_found
+glaciera230_iter01_01,    41764.7
+glaciera230_iter01_02,    41723.2
+glaciera230_iter01_03,    32644.1
+glaciera230_iter01_04,    33717.5
+glaciera230_iter01_05,    34813.1
+glaciera230_iter01_06,    42054.1
+glaciera230_iter01_07,    41721.1
+glaciera230_iter01_08,    42219.6
+glaciera230_iter01_09,    41735.2
+glaciera230_iter01_10,    36870.6
+glaciera230_iter02_01,not_found
+glaciera230_iter02_02,not_found
+glaciera230_iter02_03,not_found
+glaciera230_iter02_04,not_found
+glaciera230_iter02_05,not_found
+glaciera230_iter02_06,not_found
+glaciera230_iter02_07,not_found
+glaciera230_iter02_08,not_found
+glaciera230_iter02_09,not_found
+glaciera230_iter02_10,not_found
+glaciera230_iter03_01,not_found
+glaciera230_iter03_02,not_found
+glaciera230_iter03_03,not_found
+glaciera230_iter03_04,not_found
+glaciera230_iter03_05,not_found
+glaciera230_iter03_06,not_found
+glaciera230_iter03_07,not_found
+glaciera230_iter03_08,not_found
+glaciera230_iter03_09,not_found
+glaciera230_iter03_10,not_found
+glacierb230_iter01_01,not_found
+glacierb230_iter01_02,not_found
+glacierb230_iter01_03,not_found
+glacierb230_iter01_04,not_found
+glacierb230_iter01_05,not_found
+glacierb230_iter01_06,not_found
+glacierb230_iter01_07,not_found
+glacierb230_iter01_08,not_found
+glacierb230_iter01_09,not_found
+glacierb230_iter01_10,not_found
+glacierb230_iter02_01,not_found
+glacierb230_iter02_02,not_found
+glacierb230_iter02_03,not_found
+glacierb230_iter02_04,not_found
+glacierb230_iter02_05,not_found
+glacierb230_iter02_06,not_found
+glacierb230_iter02_07,not_found
+glacierb230_iter02_08,not_found
+glacierb230_iter02_09,not_found
+glacierb230_iter02_10,not_found
+glacierb230_iter03_01,not_found
+glacierb230_iter03_02,not_found
+glacierb230_iter03_03,not_found
+glacierb230_iter03_04,not_found
+glacierb230_iter03_05,not_found
+glacierb230_iter03_06,not_found
+glacierb230_iter03_07,not_found
+glacierb230_iter03_08,not_found
+glacierb230_iter03_09,not_found
+glacierb230_iter03_10,not_found
+glacierc230_iter01_01,not_found
+glacierc230_iter01_02,not_found
+glacierc230_iter01_03,not_found
+glacierc230_iter01_04,not_found
+glacierc230_iter01_05,not_found
+glacierc230_iter01_06,not_found
+glacierc230_iter01_07,not_found
+glacierc230_iter01_08,not_found
+glacierc230_iter01_09,not_found
+glacierc230_iter01_10,not_found
+glacierc230_iter02_01,not_found
+glacierc230_iter02_02,not_found
+glacierc230_iter02_03,not_found
+glacierc230_iter02_04,not_found
+glacierc230_iter02_05,not_found
+glacierc230_iter02_06,not_found
+glacierc230_iter02_07,not_found
+glacierc230_iter02_08,not_found
+glacierc230_iter02_09,not_found
+glacierc230_iter02_10,not_found
+glacierc230_iter03_01,not_found
+glacierc230_iter03_02,not_found
+glacierc230_iter03_03,not_found
+glacierc230_iter03_04,not_found
+glacierc230_iter03_05,not_found
+glacierc230_iter03_06,not_found
+glacierc230_iter03_07,not_found
+glacierc230_iter03_08,not_found
+glacierc230_iter03_09,not_found
+glacierc230_iter03_10,not_found
+glacier0233_iter01_01,   134943.6
+glacier0233_iter01_02,   136636.2
+glacier0233_iter01_03,   130976.8
+glacier0233_iter01_04,   131396.6
+glacier0233_iter01_05,   137311.9
+glacier0233_iter01_06,   152422.6
+glacier0233_iter01_07,   151630.7
+glacier0233_iter01_08,   151421.6
+glacier0233_iter01_09,    53142.9
+glacier0233_iter01_10,    45489.2
+glacier0233_iter02_01,not_found
+glacier0233_iter02_02,not_found
+glacier0233_iter02_03,not_found
+glacier0233_iter02_04,not_found
+glacier0233_iter02_05,not_found
+glacier0233_iter02_06,not_found
+glacier0233_iter02_07,not_found
+glacier0233_iter02_08,not_found
+glacier0233_iter02_09,not_found
+glacier0233_iter02_10,not_found
+glacier0233_iter03_01,not_found
+glacier0233_iter03_02,not_found
+glacier0233_iter03_03,not_found
+glacier0233_iter03_04,not_found
+glacier0233_iter03_05,not_found
+glacier0233_iter03_06,not_found
+glacier0233_iter03_07,not_found
+glacier0233_iter03_08,not_found
+glacier0233_iter03_09,not_found
+glacier0233_iter03_10,not_found
+glacier0234_iter01_01,not_found
+glacier0234_iter01_02,not_found
+glacier0234_iter01_03,not_found
+glacier0234_iter01_04,not_found
+glacier0234_iter01_05,not_found
+glacier0234_iter01_06,not_found
+glacier0234_iter01_07,not_found
+glacier0234_iter01_08,not_found
+glacier0234_iter01_09,not_found
+glacier0234_iter01_10,not_found
+glacier0234_iter02_01,not_found
+glacier0234_iter02_02,not_found
+glacier0234_iter02_03,not_found
+glacier0234_iter02_04,not_found
+glacier0234_iter02_05,not_found
+glacier0234_iter02_06,not_found
+glacier0234_iter02_07,not_found
+glacier0234_iter02_08,not_found
+glacier0234_iter02_09,not_found
+glacier0234_iter02_10,not_found
+glacier0234_iter03_01,not_found
+glacier0234_iter03_02,not_found
+glacier0234_iter03_03,not_found
+glacier0234_iter03_04,not_found
+glacier0234_iter03_05,not_found
+glacier0234_iter03_06,not_found
+glacier0234_iter03_07,not_found
+glacier0234_iter03_08,not_found
+glacier0234_iter03_09,not_found
+glacier0234_iter03_10,not_found
+glacier0237_iter01_01,    59532.2
+glacier0237_iter01_02,    59501.3
+glacier0237_iter01_03,    59503.8
+glacier0237_iter01_04,    59515.5
+glacier0237_iter01_05,    59815.6
+glacier0237_iter01_06,    59887.7
+glacier0237_iter01_07,    54020.4
+glacier0237_iter01_08,    55041.3
+glacier0237_iter01_09,    55984.4
+glacier0237_iter01_10,    56704.5
+glacier0237_iter02_01,not_found
+glacier0237_iter02_02,not_found
+glacier0237_iter02_03,not_found
+glacier0237_iter02_04,not_found
+glacier0237_iter02_05,not_found
+glacier0237_iter02_06,not_found
+glacier0237_iter02_07,not_found
+glacier0237_iter02_08,not_found
+glacier0237_iter02_09,not_found
+glacier0237_iter02_10,not_found
+glacier0237_iter03_01,not_found
+glacier0237_iter03_02,not_found
+glacier0237_iter03_03,not_found
+glacier0237_iter03_04,not_found
+glacier0237_iter03_05,not_found
+glacier0237_iter03_06,not_found
+glacier0237_iter03_07,not_found
+glacier0237_iter03_08,not_found
+glacier0237_iter03_09,not_found
+glacier0237_iter03_10,not_found
+glacier0238_iter01_01,    67097.0
+glacier0238_iter01_02,    47938.2
+glacier0238_iter01_03,    41202.9
+glacier0238_iter01_04,    41840.7
+glacier0238_iter01_05,    59830.0
+glacier0238_iter01_06,    58270.0
+glacier0238_iter01_07,    57672.9
+glacier0238_iter01_08,    56167.5
+glacier0238_iter01_09,    57930.1
+glacier0238_iter01_10,    57917.3
+glacier0238_iter02_01,    57426.9
+glacier0238_iter02_02,    57202.9
+glacier0238_iter02_03,    56958.1
+glacier0238_iter02_04,    57002.6
+glacier0238_iter02_05,    56592.1
+glacier0238_iter02_06,    56471.1
+glacier0238_iter02_07,    54991.9
+glacier0238_iter02_08,    56115.1
+glacier0238_iter02_09,    55687.3
+glacier0238_iter02_10,    55916.5
+glacier0238_iter03_01,not_found
+glacier0238_iter03_02,not_found
+glacier0238_iter03_03,not_found
+glacier0238_iter03_04,not_found
+glacier0238_iter03_05,not_found
+glacier0238_iter03_06,not_found
+glacier0238_iter03_07,not_found
+glacier0238_iter03_08,not_found
+glacier0238_iter03_09,not_found
+glacier0238_iter03_10,not_found
+glacier0239_iter01_01,not_found
+glacier0239_iter01_02,not_found
+glacier0239_iter01_03,not_found
+glacier0239_iter01_04,not_found
+glacier0239_iter01_05,not_found
+glacier0239_iter01_06,not_found
+glacier0239_iter01_07,not_found
+glacier0239_iter01_08,not_found
+glacier0239_iter01_09,not_found
+glacier0239_iter01_10,not_found
+glacier0239_iter02_01,not_found
+glacier0239_iter02_02,not_found
+glacier0239_iter02_03,not_found
+glacier0239_iter02_04,not_found
+glacier0239_iter02_05,not_found
+glacier0239_iter02_06,not_found
+glacier0239_iter02_07,not_found
+glacier0239_iter02_08,not_found
+glacier0239_iter02_09,not_found
+glacier0239_iter02_10,not_found
+glacier0239_iter03_01,not_found
+glacier0239_iter03_02,not_found
+glacier0239_iter03_03,not_found
+glacier0239_iter03_04,not_found
+glacier0239_iter03_05,not_found
+glacier0239_iter03_06,not_found
+glacier0239_iter03_07,not_found
+glacier0239_iter03_08,not_found
+glacier0239_iter03_09,not_found
+glacier0239_iter03_10,not_found
+glacier0240_iter01_01,    27039.8
+glacier0240_iter01_02,    27267.2
+glacier0240_iter01_03,    24987.8
+glacier0240_iter01_04,    24013.3
+glacier0240_iter01_05,    23369.3
+glacier0240_iter01_06,    22981.5
+glacier0240_iter01_07,    22513.3
+glacier0240_iter01_08,    22633.3
+glacier0240_iter01_09,    22587.6
+glacier0240_iter01_10,    22213.4
+glacier0240_iter02_01,not_found
+glacier0240_iter02_02,not_found
+glacier0240_iter02_03,not_found
+glacier0240_iter02_04,not_found
+glacier0240_iter02_05,not_found
+glacier0240_iter02_06,not_found
+glacier0240_iter02_07,not_found
+glacier0240_iter02_08,not_found
+glacier0240_iter02_09,not_found
+glacier0240_iter02_10,not_found
+glacier0240_iter03_01,not_found
+glacier0240_iter03_02,not_found
+glacier0240_iter03_03,not_found
+glacier0240_iter03_04,not_found
+glacier0240_iter03_05,not_found
+glacier0240_iter03_06,not_found
+glacier0240_iter03_07,not_found
+glacier0240_iter03_08,not_found
+glacier0240_iter03_09,not_found
+glacier0240_iter03_10,not_found
+glacier0242_iter01_01,not_found
+glacier0242_iter01_02,not_found
+glacier0242_iter01_03,not_found
+glacier0242_iter01_04,not_found
+glacier0242_iter01_05,not_found
+glacier0242_iter01_06,not_found
+glacier0242_iter01_07,not_found
+glacier0242_iter01_08,not_found
+glacier0242_iter01_09,not_found
+glacier0242_iter01_10,not_found
+glacier0242_iter02_01,not_found
+glacier0242_iter02_02,not_found
+glacier0242_iter02_03,not_found
+glacier0242_iter02_04,not_found
+glacier0242_iter02_05,not_found
+glacier0242_iter02_06,not_found
+glacier0242_iter02_07,not_found
+glacier0242_iter02_08,not_found
+glacier0242_iter02_09,not_found
+glacier0242_iter02_10,not_found
+glacier0242_iter03_01,not_found
+glacier0242_iter03_02,not_found
+glacier0242_iter03_03,not_found
+glacier0242_iter03_04,not_found
+glacier0242_iter03_05,not_found
+glacier0242_iter03_06,not_found
+glacier0242_iter03_07,not_found
+glacier0242_iter03_08,not_found
+glacier0242_iter03_09,not_found
+glacier0242_iter03_10,not_found
+glacier0243_iter01_01,    96758.7
+glacier0243_iter01_02,    95450.5
+glacier0243_iter01_03,    90393.0
+glacier0243_iter01_04,    84129.3
+glacier0243_iter01_05,    86115.0
+glacier0243_iter01_06,    86776.1
+glacier0243_iter01_07,    83206.8
+glacier0243_iter01_08,    82489.9
+glacier0243_iter01_09,    84979.6
+glacier0243_iter01_10,    87969.1
+glacier0243_iter02_01,not_found
+glacier0243_iter02_02,not_found
+glacier0243_iter02_03,not_found
+glacier0243_iter02_04,not_found
+glacier0243_iter02_05,not_found
+glacier0243_iter02_06,not_found
+glacier0243_iter02_07,not_found
+glacier0243_iter02_08,not_found
+glacier0243_iter02_09,not_found
+glacier0243_iter02_10,not_found
+glacier0243_iter03_01,not_found
+glacier0243_iter03_02,not_found
+glacier0243_iter03_03,not_found
+glacier0243_iter03_04,not_found
+glacier0243_iter03_05,not_found
+glacier0243_iter03_06,not_found
+glacier0243_iter03_07,not_found
+glacier0243_iter03_08,not_found
+glacier0243_iter03_09,not_found
+glacier0243_iter03_10,not_found
+glacier0245_iter01_01,   122265.2
+glacier0245_iter01_02,   121942.7
+glacier0245_iter01_03,   123375.5
+glacier0245_iter01_04,   129053.6
+glacier0245_iter01_05,   123724.8
+glacier0245_iter01_06,   129129.6
+glacier0245_iter01_07,   131011.1
+glacier0245_iter01_08,   130757.3
+glacier0245_iter01_09,   110768.6
+glacier0245_iter01_10,   102776.6
+glacier0245_iter02_01,not_found
+glacier0245_iter02_02,not_found
+glacier0245_iter02_03,not_found
+glacier0245_iter02_04,not_found
+glacier0245_iter02_05,not_found
+glacier0245_iter02_06,not_found
+glacier0245_iter02_07,not_found
+glacier0245_iter02_08,not_found
+glacier0245_iter02_09,not_found
+glacier0245_iter02_10,not_found
+glacier0245_iter03_01,not_found
+glacier0245_iter03_02,not_found
+glacier0245_iter03_03,not_found
+glacier0245_iter03_04,not_found
+glacier0245_iter03_05,not_found
+glacier0245_iter03_06,not_found
+glacier0245_iter03_07,not_found
+glacier0245_iter03_08,not_found
+glacier0245_iter03_09,not_found
+glacier0245_iter03_10,not_found
+glaciera251_iter01_01,not_found
+glaciera251_iter01_02,not_found
+glaciera251_iter01_03,not_found
+glaciera251_iter01_04,not_found
+glaciera251_iter01_05,not_found
+glaciera251_iter01_06,not_found
+glaciera251_iter01_07,not_found
+glaciera251_iter01_08,not_found
+glaciera251_iter01_09,not_found
+glaciera251_iter01_10,not_found
+glaciera251_iter02_01,not_found
+glaciera251_iter02_02,not_found
+glaciera251_iter02_03,not_found
+glaciera251_iter02_04,not_found
+glaciera251_iter02_05,not_found
+glaciera251_iter02_06,not_found
+glaciera251_iter02_07,not_found
+glaciera251_iter02_08,not_found
+glaciera251_iter02_09,not_found
+glaciera251_iter02_10,not_found
+glaciera251_iter03_01,not_found
+glaciera251_iter03_02,not_found
+glaciera251_iter03_03,not_found
+glaciera251_iter03_04,not_found
+glaciera251_iter03_05,not_found
+glaciera251_iter03_06,not_found
+glaciera251_iter03_07,not_found
+glaciera251_iter03_08,not_found
+glaciera251_iter03_09,not_found
+glaciera251_iter03_10,not_found
+glacierb251_iter01_01,   246248.0
+glacierb251_iter01_02,   246939.6
+glacierb251_iter01_03,   247534.9
+glacierb251_iter01_04,   250657.2
+glacierb251_iter01_05,   250394.3
+glacierb251_iter01_06,   250862.1
+glacierb251_iter01_07,   250766.4
+glacierb251_iter01_08,   250674.1
+glacierb251_iter01_09,   256257.0
+glacierb251_iter01_10,   251028.2
+glacierb251_iter02_01,not_found
+glacierb251_iter02_02,not_found
+glacierb251_iter02_03,not_found
+glacierb251_iter02_04,not_found
+glacierb251_iter02_05,not_found
+glacierb251_iter02_06,not_found
+glacierb251_iter02_07,not_found
+glacierb251_iter02_08,not_found
+glacierb251_iter02_09,not_found
+glacierb251_iter02_10,not_found
+glacierb251_iter03_01,not_found
+glacierb251_iter03_02,not_found
+glacierb251_iter03_03,not_found
+glacierb251_iter03_04,not_found
+glacierb251_iter03_05,not_found
+glacierb251_iter03_06,not_found
+glacierb251_iter03_07,not_found
+glacierb251_iter03_08,not_found
+glacierb251_iter03_09,not_found
+glacierb251_iter03_10,not_found
+glacier0252_iter01_01,   311342.1
+glacier0252_iter01_02,   311425.4
+glacier0252_iter01_03,   312431.0
+glacier0252_iter01_04,   312364.5
+glacier0252_iter01_05,   312597.6
+glacier0252_iter01_06,   312630.1
+glacier0252_iter01_07,   313218.5
+glacier0252_iter01_08,   313348.0
+glacier0252_iter01_09,   313778.9
+glacier0252_iter01_10,   314186.9
+glacier0252_iter02_01,not_found
+glacier0252_iter02_02,not_found
+glacier0252_iter02_03,not_found
+glacier0252_iter02_04,not_found
+glacier0252_iter02_05,not_found
+glacier0252_iter02_06,not_found
+glacier0252_iter02_07,not_found
+glacier0252_iter02_08,not_found
+glacier0252_iter02_09,not_found
+glacier0252_iter02_10,not_found
+glacier0252_iter03_01,not_found
+glacier0252_iter03_02,not_found
+glacier0252_iter03_03,not_found
+glacier0252_iter03_04,not_found
+glacier0252_iter03_05,not_found
+glacier0252_iter03_06,not_found
+glacier0252_iter03_07,not_found
+glacier0252_iter03_08,not_found
+glacier0252_iter03_09,not_found
+glacier0252_iter03_10,not_found
+glaciera260_iter01_01,   289357.1
+glaciera260_iter01_02,   288469.8
+glaciera260_iter01_03,   290001.7
+glaciera260_iter01_04,   290675.3
+glaciera260_iter01_05,   291047.4
+glaciera260_iter01_06,   292333.8
+glaciera260_iter01_07,   292669.2
+glaciera260_iter01_08,   293858.3
+glaciera260_iter01_09,   294421.5
+glaciera260_iter01_10,   295491.5
+glaciera260_iter02_01,   291396.7
+glaciera260_iter02_02,   292602.5
+glaciera260_iter02_03,   292934.6
+glaciera260_iter02_04,   293385.9
+glaciera260_iter02_05,   292305.8
+glaciera260_iter02_06,   292362.2
+glaciera260_iter02_07,   293666.0
+glaciera260_iter02_08,   293448.8
+glaciera260_iter02_09,   293520.0
+glaciera260_iter02_10,   293045.9
+glaciera260_iter03_01,not_found
+glaciera260_iter03_02,not_found
+glaciera260_iter03_03,not_found
+glaciera260_iter03_04,not_found
+glaciera260_iter03_05,not_found
+glaciera260_iter03_06,not_found
+glaciera260_iter03_07,not_found
+glaciera260_iter03_08,not_found
+glaciera260_iter03_09,not_found
+glaciera260_iter03_10,not_found
+glacierb260_iter01_01,   287445.1
+glacierb260_iter01_02,   287446.4
+glacierb260_iter01_03,   287152.9
+glacierb260_iter01_04,   287051.0
+glacierb260_iter01_05,   287452.9
+glacierb260_iter01_06,   287074.1
+glacierb260_iter01_07,   287286.3
+glacierb260_iter01_08,   287279.4
+glacierb260_iter01_09,   287144.9
+glacierb260_iter01_10,   287082.0
+glacierb260_iter02_01,not_found
+glacierb260_iter02_02,not_found
+glacierb260_iter02_03,not_found
+glacierb260_iter02_04,not_found
+glacierb260_iter02_05,not_found
+glacierb260_iter02_06,not_found
+glacierb260_iter02_07,not_found
+glacierb260_iter02_08,not_found
+glacierb260_iter02_09,not_found
+glacierb260_iter02_10,not_found
+glacierb260_iter03_01,not_found
+glacierb260_iter03_02,not_found
+glacierb260_iter03_03,not_found
+glacierb260_iter03_04,not_found
+glacierb260_iter03_05,not_found
+glacierb260_iter03_06,not_found
+glacierb260_iter03_07,not_found
+glacierb260_iter03_08,not_found
+glacierb260_iter03_09,not_found
+glacierb260_iter03_10,not_found
+glacierc260_iter01_01,   288649.3
+glacierc260_iter01_02,   288615.5
+glacierc260_iter01_03,   288430.2
+glacierc260_iter01_04,   287592.7
+glacierc260_iter01_05,   287193.5
+glacierc260_iter01_06,   287360.2
+glacierc260_iter01_07,   287172.8
+glacierc260_iter01_08,   287110.5
+glacierc260_iter01_09,   287111.1
+glacierc260_iter01_10,   286961.2
+glacierc260_iter02_01,not_found
+glacierc260_iter02_02,not_found
+glacierc260_iter02_03,not_found
+glacierc260_iter02_04,not_found
+glacierc260_iter02_05,not_found
+glacierc260_iter02_06,not_found
+glacierc260_iter02_07,not_found
+glacierc260_iter02_08,not_found
+glacierc260_iter02_09,not_found
+glacierc260_iter02_10,not_found
+glacierc260_iter03_01,not_found
+glacierc260_iter03_02,not_found
+glacierc260_iter03_03,not_found
+glacierc260_iter03_04,not_found
+glacierc260_iter03_05,not_found
+glacierc260_iter03_06,not_found
+glacierc260_iter03_07,not_found
+glacierc260_iter03_08,not_found
+glacierc260_iter03_09,not_found
+glacierc260_iter03_10,not_found
+glaciera261_iter01_01,   293001.2
+glaciera261_iter01_02,   292993.3
+glaciera261_iter01_03,   292728.3
+glaciera261_iter01_04,   292708.8
+glaciera261_iter01_05,   292703.1
+glaciera261_iter01_06,   292693.0
+glaciera261_iter01_07,   292670.2
+glaciera261_iter01_08,   292629.5
+glaciera261_iter01_09,   292572.7
+glaciera261_iter01_10,   292277.0
+glaciera261_iter02_01,not_found
+glaciera261_iter02_02,not_found
+glaciera261_iter02_03,not_found
+glaciera261_iter02_04,not_found
+glaciera261_iter02_05,not_found
+glaciera261_iter02_06,not_found
+glaciera261_iter02_07,not_found
+glaciera261_iter02_08,not_found
+glaciera261_iter02_09,not_found
+glaciera261_iter02_10,not_found
+glaciera261_iter03_01,not_found
+glaciera261_iter03_02,not_found
+glaciera261_iter03_03,not_found
+glaciera261_iter03_04,not_found
+glaciera261_iter03_05,not_found
+glaciera261_iter03_06,not_found
+glaciera261_iter03_07,not_found
+glaciera261_iter03_08,not_found
+glaciera261_iter03_09,not_found
+glaciera261_iter03_10,not_found
+glacierb261_iter01_01,   296213.1
+glacierb261_iter01_02,   295865.7
+glacierb261_iter01_03,   295592.7
+glacierb261_iter01_04,   294529.5
+glacierb261_iter01_05,   294563.4
+glacierb261_iter01_06,   294475.6
+glacierb261_iter01_07,   294437.7
+glacierb261_iter01_08,   294446.0
+glacierb261_iter01_09,   294546.4
+glacierb261_iter01_10,   293995.5
+glacierb261_iter02_01,not_found
+glacierb261_iter02_02,not_found
+glacierb261_iter02_03,not_found
+glacierb261_iter02_04,not_found
+glacierb261_iter02_05,not_found
+glacierb261_iter02_06,not_found
+glacierb261_iter02_07,not_found
+glacierb261_iter02_08,not_found
+glacierb261_iter02_09,not_found
+glacierb261_iter02_10,not_found
+glacierb261_iter03_01,not_found
+glacierb261_iter03_02,not_found
+glacierb261_iter03_03,not_found
+glacierb261_iter03_04,not_found
+glacierb261_iter03_05,not_found
+glacierb261_iter03_06,not_found
+glacierb261_iter03_07,not_found
+glacierb261_iter03_08,not_found
+glacierb261_iter03_09,not_found
+glacierb261_iter03_10,not_found
+glacier0263_iter01_01,   327497.8
+glacier0263_iter01_02,   326745.9
+glacier0263_iter01_03,   326892.1
+glacier0263_iter01_04,   325745.8
+glacier0263_iter01_05,   325743.5
+glacier0263_iter01_06,   324966.3
+glacier0263_iter01_07,   324541.4
+glacier0263_iter01_08,   323918.9
+glacier0263_iter01_09,   323466.7
+glacier0263_iter01_10,   321040.8
+glacier0263_iter02_01,not_found
+glacier0263_iter02_02,not_found
+glacier0263_iter02_03,not_found
+glacier0263_iter02_04,not_found
+glacier0263_iter02_05,not_found
+glacier0263_iter02_06,not_found
+glacier0263_iter02_07,not_found
+glacier0263_iter02_08,not_found
+glacier0263_iter02_09,not_found
+glacier0263_iter02_10,not_found
+glacier0263_iter03_01,not_found
+glacier0263_iter03_02,not_found
+glacier0263_iter03_03,not_found
+glacier0263_iter03_04,not_found
+glacier0263_iter03_05,not_found
+glacier0263_iter03_06,not_found
+glacier0263_iter03_07,not_found
+glacier0263_iter03_08,not_found
+glacier0263_iter03_09,not_found
+glacier0263_iter03_10,not_found
+glacier0265_iter01_01,not_found
+glacier0265_iter01_02,not_found
+glacier0265_iter01_03,not_found
+glacier0265_iter01_04,not_found
+glacier0265_iter01_05,not_found
+glacier0265_iter01_06,not_found
+glacier0265_iter01_07,not_found
+glacier0265_iter01_08,not_found
+glacier0265_iter01_09,not_found
+glacier0265_iter01_10,not_found
+glacier0265_iter02_01,not_found
+glacier0265_iter02_02,not_found
+glacier0265_iter02_03,not_found
+glacier0265_iter02_04,not_found
+glacier0265_iter02_05,not_found
+glacier0265_iter02_06,not_found
+glacier0265_iter02_07,not_found
+glacier0265_iter02_08,not_found
+glacier0265_iter02_09,not_found
+glacier0265_iter02_10,not_found
+glacier0265_iter03_01,not_found
+glacier0265_iter03_02,not_found
+glacier0265_iter03_03,not_found
+glacier0265_iter03_04,not_found
+glacier0265_iter03_05,not_found
+glacier0265_iter03_06,not_found
+glacier0265_iter03_07,not_found
+glacier0265_iter03_08,not_found
+glacier0265_iter03_09,not_found
+glacier0265_iter03_10,not_found
+glacier0276_iter01_01,   629457.5
+glacier0276_iter01_02,   629128.0
+glacier0276_iter01_03,   629157.1
+glacier0276_iter01_04,   628381.8
+glacier0276_iter01_05,   629435.0
+glacier0276_iter01_06,   629438.1
+glacier0276_iter01_07,   629751.7
+glacier0276_iter01_08,   629827.9
+glacier0276_iter01_09,   630256.9
+glacier0276_iter01_10,   630095.1
+glacier0276_iter02_01,not_found
+glacier0276_iter02_02,not_found
+glacier0276_iter02_03,not_found
+glacier0276_iter02_04,not_found
+glacier0276_iter02_05,not_found
+glacier0276_iter02_06,not_found
+glacier0276_iter02_07,not_found
+glacier0276_iter02_08,not_found
+glacier0276_iter02_09,not_found
+glacier0276_iter02_10,not_found
+glacier0276_iter03_01,not_found
+glacier0276_iter03_02,not_found
+glacier0276_iter03_03,not_found
+glacier0276_iter03_04,not_found
+glacier0276_iter03_05,not_found
+glacier0276_iter03_06,not_found
+glacier0276_iter03_07,not_found
+glacier0276_iter03_08,not_found
+glacier0276_iter03_09,not_found
+glacier0276_iter03_10,not_found
+glacier0277_iter01_01,not_found
+glacier0277_iter01_02,not_found
+glacier0277_iter01_03,not_found
+glacier0277_iter01_04,not_found
+glacier0277_iter01_05,not_found
+glacier0277_iter01_06,not_found
+glacier0277_iter01_07,not_found
+glacier0277_iter01_08,not_found
+glacier0277_iter01_09,not_found
+glacier0277_iter01_10,not_found
+glacier0277_iter02_01,not_found
+glacier0277_iter02_02,not_found
+glacier0277_iter02_03,not_found
+glacier0277_iter02_04,not_found
+glacier0277_iter02_05,not_found
+glacier0277_iter02_06,not_found
+glacier0277_iter02_07,not_found
+glacier0277_iter02_08,not_found
+glacier0277_iter02_09,not_found
+glacier0277_iter02_10,not_found
+glacier0277_iter03_01,not_found
+glacier0277_iter03_02,not_found
+glacier0277_iter03_03,not_found
+glacier0277_iter03_04,not_found
+glacier0277_iter03_05,not_found
+glacier0277_iter03_06,not_found
+glacier0277_iter03_07,not_found
+glacier0277_iter03_08,not_found
+glacier0277_iter03_09,not_found
+glacier0277_iter03_10,not_found
