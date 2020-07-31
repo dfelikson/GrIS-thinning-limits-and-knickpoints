@@ -85,16 +85,15 @@ plt.plot(d_knickpoint/1000, b_knickpoint, '-', color=color2, linewidth=2, marker
 # Plot upglacier
 d_upglacier = np.array([upglacier_elev_gtl / knickpoint_slope_gtl, 40000])
 b_upglacier = upglacier_elev_gtl * np.ones(d_upglacier.shape)
-plot(d_upglacier/1000, b_upglacier, '-', color=color1, linewidth=2, markersize=20)
+plt.plot(d_upglacier/1000, b_upglacier, '-', color=color1, linewidth=2, markersize=20)
 d_upglacier = np.array([upglacier_elev_mtn / knickpoint_slope_mtn, 40000])
 b_upglacier = upglacier_elev_mtn * np.ones(d_upglacier.shape)
 plt.plot(d_upglacier/1000, b_upglacier, '-', color=color2, linewidth=2, markersize=20)
 
 plt.xlabel('distance along flow (km)')
 plt.ylabel('elevation (m)')
-plt.titls('prototypical knickpoint geometry')
+plt.title('prototypical knickpoint geometry')
+plt.ylim(-400, 1100)
 
 plt.savefig('fig2binset.pdf', bbox_inches='tight')
-
-plt.show()
 
