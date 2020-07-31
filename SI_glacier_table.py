@@ -88,6 +88,6 @@ for parent in sorted(branches.keys()):
    statsDict = utils.get_stats(PeX, PeY, PeD)
    gwtl = utils.glacier_wide_thinning_limit(statsDict)
 
-   print('{:s}, {:s}, {:3.1f}, {:6.1f}, {:6.1f}, {:s}, {:6.3f}\n'.format(parent, name, basin, gwtl/1000., flux, has_knickpoint_str, knickpoint_slope))
+   sys.stdout.write('{:s}, {:s}, {:3.1f}, {:6.1f}, {:6.1f}, {:s}, {:6.3f}\n'.format(parent, name, basin, gwtl/1000., flux, has_knickpoint_str, knickpoint_slope))
 
 
