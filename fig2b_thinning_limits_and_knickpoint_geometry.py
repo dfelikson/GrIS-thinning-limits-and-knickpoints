@@ -40,9 +40,6 @@ for ncfile in glob.glob(netcdf_dir + '/glacier????.nc'):
       if has_knickpoint:
          knickpoint_slope = float(np.asarray(flowline_group['knickpoint']['knickpoint_slope'][:])[()])
 
-         if knickpoint_slope == 0.:
-            print('slope == 0!' + glacier)
-         
          knickpoint_slope_list.append(knickpoint_slope * 180./np.pi) # radians to degrees
          basin_category_list.append(basin_category)
 
