@@ -52,8 +52,8 @@ bin_edges = np.arange(0, 15, 0.3)
 
 color1 = [0, 0.4470, 0.7410]
 color2 = [0.8500, 0.3250, 0.0980]
-plt.hist(knickpoint_slopes[basin_categories == 0.], bins=bin_edges, density=False, facecolor=color1, edgecolor=color1, linewidth=2, alpha=0.25, histtype='stepfilled', label='gentle')
-plt.hist(knickpoint_slopes[basin_categories == 1.], bins=bin_edges, density=False, facecolor=color2, edgecolor=color2, linewidth=2, alpha=0.25, histtype='stepfilled', label='mountainous')
+plt.hist(knickpoint_slopes[basin_categories == 0.], bins=bin_edges, density=False, facecolor=color1, edgecolor=color1, linewidth=1, alpha=0.25, histtype='stepfilled', label='mountainous')
+plt.hist(knickpoint_slopes[basin_categories == 1.], bins=bin_edges, density=False, facecolor=color2, edgecolor=color2, linewidth=1, alpha=0.25, histtype='stepfilled', label='gentle')
 plt.xlabel('knickpoint slope (deg)')
 plt.ylabel('number of flowlines')
 plt.legend()
