@@ -8,6 +8,9 @@ from netCDF4 import Dataset
 import utils
 from matplotlib import pyplot as plt
 
+import matplotlib
+matplotlib.rcParams.update({'font.size': 16})
+
 # Setup
 netcdf_dir = 'netcdfs'
 
