@@ -48,7 +48,7 @@ for parent in sorted(branches.keys()):
       ds = Dataset(branch, 'r')
       basin = float('{:3.1f}'.format(np.asarray(ds['basin'][:])[()]))
       flux = flux + np.asarray(ds['flux'][:])[()]
-      name = ds.description
+      name = ds.description.split(':')[1].split('.')[0].strip()
 
       flowline_groups, iteration_list = utils.get_flowline_groups(ds)
       knickpoint_slope_flowlines = list()
